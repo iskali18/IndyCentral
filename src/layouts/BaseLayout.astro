@@ -1,0 +1,25 @@
+---
+const { title, description } = Astro.props;
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <link rel="stylesheet" href="/styles/global.css" />
+</head>
+<body>
+  <header>
+    <h1>Indy Central</h1>
+    <p>Major concerts · Indianapolis</p>
+  </header>
+  <main>
+    <slot />
+  </main>
+  <footer>
+    <p>Auto-updated daily</p>
+  </footer>
+</body>
+</html>

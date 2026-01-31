@@ -1,0 +1,16 @@
+body {
+  font-family: system-ui, sans-serif;
+  background: #0f172a;
+  color: #e5e7eb;
+  margin: 0;
+  padding: 2rem;
+}
+
+a {
+  color: #93c5fd;
+  text-decoration: none;
+}
+
+header, footer {
+  margin-bottom: 2rem;
+}

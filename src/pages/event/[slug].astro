@@ -1,0 +1,24 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getEvents } from "../../lib/events";
+
+const data = getEvents();
+
+export function getStaticPaths() {
+  return data.events.map(e => ({
+    params: { slug: e.slug },
+    props: { event: e }
+  }));
+}
+
+const { event } = Astro.props;
+---
+
+<BaseLayout
+  title={`${event.name} | Indy Central`}
+  description={`${event.name} at ${event.venueName}`}
+>
+  <h2>{event.name}</h2>
+  <p>{event.dateDisplay} · {event.venueName}</p>
+  <a href={event.url} target="_blank">Tickets</a>
+</BaseLayout>

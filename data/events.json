@@ -1,0 +1,12 @@
+{
+  "generatedAt": "2026-01-30T00:00:00Z",
+  "market": {
+    "label": "Indianapolis, IN (test)",
+    "lat": 39.7684,
+    "lon": -86.1581,
+    "radiusMiles": 35,
+    "daysAhead": 180
+  },
+  "count": 0,
+  "events": []
+}

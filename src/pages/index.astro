@@ -1,0 +1,20 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { getEvents } from "../lib/events";
+
+const data = getEvents();
+---
+
+<BaseLayout
+  title="Indy Central | Upcoming Major Concerts"
+  description="A clean, auto-updating list of major concerts in Indianapolis."
+>
+  <ul>
+    {data.events.map((e) => (
+      <li>
+        <a href={`/event/${e.slug}/`}>{e.name}</a><br />
+        {e.dateDisplay} · {e.venueName}
+      </li>
+    ))}
+  </ul>
+</BaseLayout>
