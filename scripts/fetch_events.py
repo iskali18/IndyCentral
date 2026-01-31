@@ -44,8 +44,8 @@ def fetch():
             "unit": "miles",
             "classificationName": "music",
             "sort": "date,asc",
-            "startDateTime": now.isoformat(),
-            "endDateTime": end.isoformat(),
+            "startDateTime": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "endDateTime": end.strftime("%Y-%m-%dT%H:%M:%SZ"),
             "size": 200
         })
     )
