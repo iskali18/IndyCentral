@@ -2,23 +2,82 @@
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { getEvents } from "../../lib/events";
 
-const data = getEvents();
-
 export function getStaticPaths() {
-  return data.events.map(e => ({
+  const data = getEvents();
+  return data.events.map((e) => ({
     params: { slug: e.slug },
     props: { event: e }
   }));
 }
 
 const { event } = Astro.props;
+
+const title = `${event.name} in ${event.city} | Indy Central`;
+const description = `${event.name} at ${event.venueName} in ${event.city}, ${event.state}. Date: ${event.dateDisplay}.`;
+
+const eventLd = {
+  "@context": "https://schema.org",
+  "@type": "MusicEvent",
+  "name": event.name,
+  "startDate": event.dateLocal,
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "eventStatus": "https://schema.org/EventScheduled",
+  "location": {
+    "@type": "Place",
+    "name": event.venueName,
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": event.city,
+      "addressRegion": event.state,
+      "addressCountry": "US"
+    }
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": event.url,
+    "availability": "https://schema.org/InStock"
+  }
+};
 ---
 
-<BaseLayout
-  title={`${event.name} | Indy Central`}
-  description={`${event.name} at ${event.venueName}`}
->
-  <h2>{event.name}</h2>
-  <p>{event.dateDisplay} · {event.venueName}</p>
-  <a href={event.url} target="_blank">Tickets</a>
+<BaseLayout title={title} description={description}>
+  <section class="hero">
+    <div class="hero-inner">
+      <div>
+        <h1>{event.name}</h1>
+        <p class="subtitle">
+          {event.dateDisplay} • {event.venueName} • {event.city}, {event.state}
+        </p>
+      </div>
+      <div class="meta">
+        <div class="kv"><strong>Tickets:</strong> Official listing</div>
+        <a class="pill" href={event.url} target="_blank" rel="nofollow noopener">Open on Ticketmaster</a>
+        <div class="kv" style="margin-top:6px;">
+          <strong>Note:</strong> Hotel links can be added after MVP (higher revenue later).
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-header">
+      <h2>Details</h2>
+      <div class="hint">Event ID: {event.id}</div>
+    </div>
+    <div class="list">
+      <div class="row">
+        <div class="date">When</div>
+        <div class="title">
+          <div style="font-weight:650;">{event.dateDisplay}</div>
+          <div class="venue">Local time</div>
+        </div>
+        <div class="venue">Where</div>
+        <div class="actions" style="justify-content:flex-start;">
+          <a class="btn" href={event.url} target="_blank" rel="nofollow noopener">Tickets</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <script type="application/ld+json" set:html={JSON.stringify(eventLd)}></script>
 </BaseLayout>
