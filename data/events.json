@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-04T11:02:56Z",
+  "generatedAt": "2026-02-05T11:04:28Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,7 +7,7 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 101,
+  "count": 100,
   "events": [
     {
       "id": "vv1AAZkG0GkexvkA8",
@@ -906,6 +906,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vv17fZ_dGkDNJLxp",
+      "name": "SOULJA BOY's The Drip Tour with special guest Lil Xan",
+      "url": "https://www.ticketmaster.com/soulja-boys-the-drip-tour-with-indianapolis-indiana-04-22-2026/event/0500643EE399F896",
+      "dateLocal": "2026-04-23T00:00:00Z",
+      "dateDisplay": "2026-04-22 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "soulja-boys-the-drip-tour-with-special-guest-lil-xan-old-national-centre-2026-04-22-DNJLxp",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv17fZbVGkDbGzU9",
       "name": "Puscifer",
       "url": "https://www.ticketmaster.com/puscifer-indianapolis-indiana-04-23-2026/event/0500634ED8338D97",
@@ -1393,34 +1407,6 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "evanescence-2026-world-tour-with-spiritbox-and-nova-twins-ruoff-music-center-2026-07-09-G7DGgw",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZk8UGkdsGT_F",
-      "name": "The Fray - Summer of Light Tour with Dashboard Confessional",
-      "url": "https://www.ticketmaster.com/the-fray-summer-of-light-tour-indianapolis-indiana-07-10-2026/event/05006436F133F648",
-      "dateLocal": "2026-07-10T23:00:00Z",
-      "dateDisplay": "2026-07-10 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "the-fray-summer-of-light-tour-with-dashboard-confessional-everwise-amphitheater-at-white-r-dsGT_F",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZ_eGkXwLhEY",
-      "name": "Death Cab for Cutie",
-      "url": "https://www.ticketmaster.com/death-cab-for-cutie-indianapolis-indiana-07-12-2026/event/0500642FB27DB9F0",
-      "dateLocal": "2026-07-12T23:30:00Z",
-      "dateDisplay": "2026-07-12 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "death-cab-for-cutie-everwise-amphitheater-at-white-river-state-park-2026-07-12-XwLhEY",
       "source": "ticketmaster"
     }
   ]
