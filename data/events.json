@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-05T11:04:28Z",
+  "generatedAt": "2026-02-06T11:03:18Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,7 +7,7 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 100,
+  "count": 99,
   "events": [
     {
       "id": "vv1AAZkG0GkexvkA8",
@@ -343,6 +343,20 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "bingo-loco-ages-21-old-national-centre-2026-03-06-XEltuF",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZko7Gkd8u5Pa",
+      "name": "Electric Feels: Indie Rock + Electronic Dance Party (18+)",
+      "url": "https://www.ticketmaster.com/electric-feels-indie-rock-electronic-dance-indianapolis-indiana-03-07-2026/event/05006444D034B949",
+      "dateLocal": "2026-03-08T02:30:00Z",
+      "dateDisplay": "2026-03-07 21:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "electric-feels-indie-rock-electronic-dance-party-18-old-national-centre-2026-03-07-d8u5Pa",
       "source": "ticketmaster"
     },
     {
@@ -1379,34 +1393,6 @@
       "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
       "venueId": "KovZpZAEAAJA",
       "slug": "the-dead-south-everwise-amphitheater-at-white-river-state-park-2026-06-28-eckbFK",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkuNGkewSFeu",
-      "name": "Jack Johnson: SURFILMUSIC Tour 2026",
-      "url": "https://www.ticketmaster.com/jack-johnson-surfilmusic-tour-2026-noblesville-indiana-07-04-2026/event/05006363B2CC808D",
-      "dateLocal": "2026-07-04T23:30:00Z",
-      "dateDisplay": "2026-07-04 19:30:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "jack-johnson-surfilmusic-tour-2026-ruoff-music-center-2026-07-04-ewSFeu",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1kfZbMONG7DGgw",
-      "name": "Evanescence 2026 World Tour with Spiritbox and Nova Twins",
-      "url": "https://www.ticketmaster.com/evanescence-2026-world-tour-with-spiritbox-noblesville-indiana-07-09-2026/event/0500637823ECCD72",
-      "dateLocal": "2026-07-09T23:00:00Z",
-      "dateDisplay": "2026-07-09 19:00:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "evanescence-2026-world-tour-with-spiritbox-and-nova-twins-ruoff-music-center-2026-07-09-G7DGgw",
       "source": "ticketmaster"
     }
   ]
