@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-06T11:03:18Z",
+  "generatedAt": "2026-02-07T10:47:41Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -9,20 +9,6 @@
   },
   "count": 99,
   "events": [
-    {
-      "id": "vv1AAZkG0GkexvkA8",
-      "name": "Josh Meloy",
-      "url": "https://www.ticketmaster.com/josh-meloy-indianapolis-indiana-02-06-2026/event/05006324A2046150",
-      "dateLocal": "2026-02-07T01:00:00Z",
-      "dateDisplay": "2026-02-06 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "josh-meloy-old-national-centre-2026-02-06-exvkA8",
-      "source": "ticketmaster"
-    },
     {
       "id": "vvG1fZbnNOy7Np",
       "name": "Nothing More w/ Catch Your Breath, Archers and Doobie",
@@ -1281,6 +1267,20 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "godsmack-the-rise-of-rock-world-tour-2026-ruoff-music-center-2026-06-18-eNdzjY",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkoAGkeW3Q8m",
+      "name": "Kid Rock - Freedom 250 Tour",
+      "url": "https://www.ticketmaster.com/kid-rock-freedom-250-tour-noblesville-indiana-06-19-2026/event/05006445BD49A42E",
+      "dateLocal": "2026-06-19T23:00:00Z",
+      "dateDisplay": "2026-06-19 19:00:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "kid-rock-freedom-250-tour-ruoff-music-center-2026-06-19-eW3Q8m",
       "source": "ticketmaster"
     },
     {
