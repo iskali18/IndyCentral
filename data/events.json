@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-09T11:16:14Z",
+  "generatedAt": "2026-02-10T11:14:14Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,7 +7,7 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 103,
+  "count": 102,
   "events": [
     {
       "id": "vv1AAZkukGkeRE3Uw",
@@ -668,6 +668,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vv1kv8v0o_GA19UnZ",
+      "name": "Forever K-Pop",
+      "url": "https://www.ticketmaster.com/forever-kpop-indianapolis-indiana-03-27-2026/event/050064459A5F6A80",
+      "dateLocal": "2026-03-27T23:30:00Z",
+      "dateDisplay": "2026-03-27 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "forever-k-pop-old-national-centre-2026-03-27-A19UnZ",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv1AAZkGYGkdhrfbf",
       "name": "Jason Isbell",
       "url": "https://www.ticketmaster.com/jason-isbell-indianapolis-indiana-03-28-2026/event/05006330DB794614",
@@ -1130,6 +1144,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vv1AAZkodGkdpCQ8G",
+      "name": "DEVO: Mutate Don't Stagnate",
+      "url": "https://www.ticketmaster.com/devo-mutate-dont-stagnate-indianapolis-indiana-06-02-2026/event/05006443D639A40C",
+      "dateLocal": "2026-06-03T00:00:00Z",
+      "dateDisplay": "2026-06-02 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "devo-mutate-dont-stagnate-old-national-centre-2026-06-02-dpCQ8G",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv17fZbzGklFDQmZ",
       "name": "Grupo Bryndis, Industria Del Amor, Guardianes Del Amor-Romanticos Tour",
       "url": "https://www.ticketmaster.com/grupo-bryndis-industria-del-amor-guardianes-indianapolis-indiana-06-05-2026/event/0500638AC8EDAB80",
@@ -1407,48 +1435,6 @@
       "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
       "venueId": "KovZpZAEAAJA",
       "slug": "the-fray-summer-of-light-tour-with-dashboard-confessional-everwise-amphitheater-at-white-r-dsGT_F",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZ_eGkXwLhEY",
-      "name": "Death Cab for Cutie",
-      "url": "https://www.ticketmaster.com/death-cab-for-cutie-indianapolis-indiana-07-12-2026/event/0500642FB27DB9F0",
-      "dateLocal": "2026-07-12T23:30:00Z",
-      "dateDisplay": "2026-07-12 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "death-cab-for-cutie-everwise-amphitheater-at-white-river-state-park-2026-07-12-XwLhEY",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZ_dGkR2qnTP",
-      "name": "Southern Hospitality Tour: The Black Crowes and Whiskey Myers",
-      "url": "https://www.ticketmaster.com/southern-hospitality-tour-the-black-crowes-noblesville-indiana-07-17-2026/event/0500643BCF76AFE5",
-      "dateLocal": "2026-07-17T22:30:00Z",
-      "dateDisplay": "2026-07-17 18:30:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "southern-hospitality-tour-the-black-crowes-and-whiskey-myers-ruoff-music-center-2026-07-17-R2qnTP",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZk8tGkel-UW3",
-      "name": "John Mellencamp Dancing Words Tour The Greatest Hits",
-      "url": "https://www.ticketmaster.com/john-mellencamp-dancing-words-tour-the-noblesville-indiana-07-18-2026/event/05006429AB876F52",
-      "dateLocal": "2026-07-19T00:00:00Z",
-      "dateDisplay": "2026-07-18 20:00:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "john-mellencamp-dancing-words-tour-the-greatest-hits-ruoff-music-center-2026-07-18-el-UW3",
       "source": "ticketmaster"
     }
   ]
