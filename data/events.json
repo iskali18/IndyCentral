@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-10T11:14:14Z",
+  "generatedAt": "2026-02-11T11:11:51Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,7 +7,7 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 102,
+  "count": 98,
   "events": [
     {
       "id": "vv1AAZkukGkeRE3Uw",
@@ -301,6 +301,20 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "bingo-loco-ages-21-old-national-centre-2026-03-06-XEltuF",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkoAGkdN2u3n",
+      "name": "Reggaetón Rave (18+)",
+      "url": "https://www.ticketmaster.com/reggaeton-rave-18-indianapolis-indiana-03-07-2026/event/05006445E33CD4AA",
+      "dateLocal": "2026-03-08T02:00:00Z",
+      "dateDisplay": "2026-03-07 21:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "reggaetón-rave-18-old-national-centre-2026-03-07-dN2u3n",
       "source": "ticketmaster"
     },
     {
@@ -1116,6 +1130,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vv1AAZkoaGkdphQOk",
+      "name": "CATTLE DECAPITATION: 30 YEARS OF INHUMANITY ",
+      "url": "https://www.ticketmaster.com/cattle-decapitation-30-years-of-inhumanity-indianapolis-indiana-05-16-2026/event/05006449D66DA806",
+      "dateLocal": "2026-05-16T23:00:00Z",
+      "dateDisplay": "2026-05-16 19:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "cattle-decapitation-30-years-of-inhumanity-old-national-centre-2026-05-16-dphQOk",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv1AAZk8gGkdanh9L",
       "name": "Black Veil Brides: North American Tour 2026",
       "url": "https://www.ticketmaster.com/black-veil-brides-north-american-tour-indianapolis-indiana-05-19-2026/event/05006435C9A9B5DF",
@@ -1127,6 +1155,20 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "black-veil-brides-north-american-tour-2026-old-national-centre-2026-05-19-danh9L",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkokGkeyrcPk",
+      "name": "Baby Keem - The Ca$ino Tour",
+      "url": "https://www.ticketmaster.com/baby-keem-the-caino-tour-indianapolis-indiana-05-24-2026/event/05006446B97AD946",
+      "dateLocal": "2026-05-25T00:30:00Z",
+      "dateDisplay": "2026-05-24 20:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "baby-keem-the-caino-tour-old-national-centre-2026-05-24-eyrcPk",
       "source": "ticketmaster"
     },
     {
@@ -1337,104 +1379,6 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "riley-green-cowboy-as-it-gets-tour-2026-ruoff-music-center-2026-06-25-mps-4p",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1Fv8v0GYopZ7GG7F",
-      "name": "Dave Matthews Band",
-      "url": "https://www.ticketmaster.com/dave-matthews-band-noblesville-indiana-06-26-2026/event/050064330456BB37",
-      "dateLocal": "2026-06-26T23:30:00Z",
-      "dateDisplay": "2026-06-26 19:30:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "dave-matthews-band-ruoff-music-center-2026-06-26-Z7GG7F",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZk8MGkdBKkuC",
-      "name": "Dave Matthews Band - 2 Day Lawn Pass (6/26 & 6/27)",
-      "url": "https://www.ticketmaster.com/dave-matthews-band-2-day-lawn-noblesville-indiana-06-27-2026/event/05006437FA4C634E",
-      "dateLocal": "2026-06-27T23:30:00Z",
-      "dateDisplay": "2026-06-27 19:30:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "dave-matthews-band-2-day-lawn-pass-626-627-ruoff-music-center-2026-06-27-dBKkuC",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1Fv8v0GYo_Z7GG75",
-      "name": "Dave Matthews Band",
-      "url": "https://www.ticketmaster.com/dave-matthews-band-noblesville-indiana-06-27-2026/event/050064330459BB3A",
-      "dateLocal": "2026-06-27T23:30:00Z",
-      "dateDisplay": "2026-06-27 19:30:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "dave-matthews-band-ruoff-music-center-2026-06-27-Z7GG75",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkuzGkeckbFK",
-      "name": "The Dead South",
-      "url": "https://www.ticketmaster.com/the-dead-south-indianapolis-indiana-06-28-2026/event/05006378AD198213",
-      "dateLocal": "2026-06-28T23:30:00Z",
-      "dateDisplay": "2026-06-28 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "the-dead-south-everwise-amphitheater-at-white-river-state-park-2026-06-28-eckbFK",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkuNGkewSFeu",
-      "name": "Jack Johnson: SURFILMUSIC Tour 2026",
-      "url": "https://www.ticketmaster.com/jack-johnson-surfilmusic-tour-2026-noblesville-indiana-07-04-2026/event/05006363B2CC808D",
-      "dateLocal": "2026-07-04T23:30:00Z",
-      "dateDisplay": "2026-07-04 19:30:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "jack-johnson-surfilmusic-tour-2026-ruoff-music-center-2026-07-04-ewSFeu",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1kfZbMONG7DGgw",
-      "name": "Evanescence 2026 World Tour with Spiritbox and Nova Twins",
-      "url": "https://www.ticketmaster.com/evanescence-2026-world-tour-with-spiritbox-noblesville-indiana-07-09-2026/event/0500637823ECCD72",
-      "dateLocal": "2026-07-09T23:00:00Z",
-      "dateDisplay": "2026-07-09 19:00:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "evanescence-2026-world-tour-with-spiritbox-and-nova-twins-ruoff-music-center-2026-07-09-G7DGgw",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZk8UGkdsGT_F",
-      "name": "The Fray - Summer of Light Tour with Dashboard Confessional",
-      "url": "https://www.ticketmaster.com/the-fray-summer-of-light-tour-indianapolis-indiana-07-10-2026/event/05006436F133F648",
-      "dateLocal": "2026-07-10T23:00:00Z",
-      "dateDisplay": "2026-07-10 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "the-fray-summer-of-light-tour-with-dashboard-confessional-everwise-amphitheater-at-white-r-dsGT_F",
       "source": "ticketmaster"
     }
   ]
