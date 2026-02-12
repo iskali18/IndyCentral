@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-11T11:11:51Z",
+  "generatedAt": "2026-02-12T11:09:30Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,36 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 98,
+  "count": 95,
   "events": [
-    {
-      "id": "vv1AAZkukGkeRE3Uw",
-      "name": "The Runarounds",
-      "url": "https://www.ticketmaster.com/the-runarounds-indianapolis-indiana-02-11-2026/event/05006346AF9D2DB2",
-      "dateLocal": "2026-02-12T01:00:00Z",
-      "dateDisplay": "2026-02-11 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "the-runarounds-old-national-centre-2026-02-11-eRE3Uw",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZbsGkIxLVHB",
-      "name": "Black Violin Full Circle Tour",
-      "url": "https://www.ticketmaster.com/black-violin-full-circle-tour-indianapolis-indiana-02-11-2026/event/0500631A227F4F3A",
-      "dateLocal": "2026-02-12T01:00:00Z",
-      "dateDisplay": "2026-02-11 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Clowes Memorial Hall",
-      "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
-      "venueId": "KovZpZAJdEkA",
-      "slug": "black-violin-full-circle-tour-clowes-memorial-hall-2026-02-11-IxLVHB",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZbVGkl5bpw1",
       "name": "Los Angeles Azules",
@@ -738,6 +710,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vv17fZ_7GknHHnAy",
+      "name": "Freddie Dredd - Back To Hell Tour",
+      "url": "https://www.ticketmaster.com/freddie-dredd-back-to-hell-tour-indianapolis-indiana-03-31-2026/event/0500644ABCF2A179",
+      "dateLocal": "2026-04-01T00:00:00Z",
+      "dateDisplay": "2026-03-31 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "freddie-dredd-back-to-hell-tour-old-national-centre-2026-03-31-nHHnAy",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv17fZbUGkUichk_",
       "name": "Celtic Woman: A New Era",
       "url": "https://www.ticketmaster.com/celtic-woman-a-new-era-indianapolis-indiana-04-02-2026/event/0500636DACB5B199",
@@ -847,20 +833,6 @@
       "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
       "venueId": "KovZpZAJdEkA",
       "slug": "pat-metheny-clowes-memorial-hall-2026-04-10-BwRMVI",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkC7GkemT1-o",
-      "name": "ALY & AJ - Places to Run Tour 2026",
-      "url": "https://www.ticketmaster.com/aly-aj-places-to-run-tour-indianapolis-indiana-04-12-2026/event/05006384AEFCA851",
-      "dateLocal": "2026-04-12T23:00:00Z",
-      "dateDisplay": "2026-04-12 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "aly-aj-places-to-run-tour-2026-old-national-centre-2026-04-12-emT1-o",
       "source": "ticketmaster"
     },
     {
@@ -1365,20 +1337,6 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "mgk-lost-americana-tour-ruoff-music-center-2026-06-20-dihwYG",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZbwGkmps-4p",
-      "name": "Riley Green: Cowboy As It Gets Tour 2026",
-      "url": "https://www.ticketmaster.com/riley-green-cowboy-as-it-gets-noblesville-indiana-06-25-2026/event/0500632B96C61556",
-      "dateLocal": "2026-06-25T23:00:00Z",
-      "dateDisplay": "2026-06-25 19:00:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "riley-green-cowboy-as-it-gets-tour-2026-ruoff-music-center-2026-06-25-mps-4p",
       "source": "ticketmaster"
     }
   ]
