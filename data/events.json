@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-12T11:09:30Z",
+  "generatedAt": "2026-02-13T11:04:10Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 95,
+  "count": 96,
   "events": [
-    {
-      "id": "vv17fZbVGkl5bpw1",
-      "name": "Los Angeles Azules",
-      "url": "https://www.ticketmaster.com/los-angeles-azules-indianapolis-indiana-02-12-2026/event/0500634ACB616C8A",
-      "dateLocal": "2026-02-13T00:30:00Z",
-      "dateDisplay": "2026-02-12 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Clowes Memorial Hall",
-      "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
-      "venueId": "KovZpZAJdEkA",
-      "slug": "los-angeles-azules-clowes-memorial-hall-2026-02-12-l5bpw1",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZkGKGkdrrep2",
       "name": "Dirty Dancing in Concert",
@@ -1337,6 +1323,34 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "mgk-lost-americana-tour-ruoff-music-center-2026-06-20-dihwYG",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZbwGkmps-4p",
+      "name": "Riley Green: Cowboy As It Gets Tour 2026",
+      "url": "https://www.ticketmaster.com/riley-green-cowboy-as-it-gets-noblesville-indiana-06-25-2026/event/0500632B96C61556",
+      "dateLocal": "2026-06-25T23:00:00Z",
+      "dateDisplay": "2026-06-25 19:00:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "riley-green-cowboy-as-it-gets-tour-2026-ruoff-music-center-2026-06-25-mps-4p",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1Fv8v0GYopZ7GG7F",
+      "name": "Dave Matthews Band",
+      "url": "https://www.ticketmaster.com/dave-matthews-band-noblesville-indiana-06-26-2026/event/050064330456BB37",
+      "dateLocal": "2026-06-26T23:30:00Z",
+      "dateDisplay": "2026-06-26 19:30:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "dave-matthews-band-ruoff-music-center-2026-06-26-Z7GG7F",
       "source": "ticketmaster"
     }
   ]
