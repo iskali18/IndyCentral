@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-14T10:48:03Z",
+  "generatedAt": "2026-02-15T10:48:56Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,7 +7,7 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 100,
+  "count": 101,
   "events": [
     {
       "id": "vv1AAZkupGkexJJNJ",
@@ -1407,6 +1407,20 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "jack-johnson-surfilmusic-tour-2026-ruoff-music-center-2026-07-04-ewSFeu",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1kfZbMONG7DGgw",
+      "name": "Evanescence 2026 World Tour with Spiritbox and Nova Twins",
+      "url": "https://www.ticketmaster.com/evanescence-2026-world-tour-with-spiritbox-noblesville-indiana-07-09-2026/event/0500637823ECCD72",
+      "dateLocal": "2026-07-09T23:00:00Z",
+      "dateDisplay": "2026-07-09 19:00:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "evanescence-2026-world-tour-with-spiritbox-and-nova-twins-ruoff-music-center-2026-07-09-G7DGgw",
       "source": "ticketmaster"
     }
   ]
