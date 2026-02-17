@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-16T11:09:46Z",
+  "generatedAt": "2026-02-17T11:08:56Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,7 +7,7 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 103,
+  "count": 105,
   "events": [
     {
       "id": "vv1AAZkupGkexJJNJ",
@@ -1449,6 +1449,34 @@
       "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
       "venueId": "KovZpZAEAAJA",
       "slug": "death-cab-for-cutie-everwise-amphitheater-at-white-river-state-park-2026-07-12-XwLhEY",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_dGkR2qnTP",
+      "name": "Southern Hospitality Tour: The Black Crowes and Whiskey Myers",
+      "url": "https://www.ticketmaster.com/southern-hospitality-tour-the-black-crowes-noblesville-indiana-07-17-2026/event/0500643BCF76AFE5",
+      "dateLocal": "2026-07-17T22:30:00Z",
+      "dateDisplay": "2026-07-17 18:30:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "southern-hospitality-tour-the-black-crowes-and-whiskey-myers-ruoff-music-center-2026-07-17-R2qnTP",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZk8tGkel-UW3",
+      "name": "John Mellencamp Dancing Words Tour The Greatest Hits",
+      "url": "https://www.ticketmaster.com/john-mellencamp-dancing-words-tour-the-noblesville-indiana-07-18-2026/event/05006429AB876F52",
+      "dateLocal": "2026-07-19T00:00:00Z",
+      "dateDisplay": "2026-07-18 20:00:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "john-mellencamp-dancing-words-tour-the-greatest-hits-ruoff-music-center-2026-07-18-el-UW3",
       "source": "ticketmaster"
     }
   ]
