@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-19T11:09:10Z",
+  "generatedAt": "2026-02-20T10:59:16Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 94,
+  "count": 96,
   "events": [
-    {
-      "id": "vv1AAZkupGkexJJNJ",
-      "name": "New Edition: The New Edition Way Tour",
-      "url": "https://www.ticketmaster.com/new-edition-the-new-edition-way-indianapolis-indiana-02-19-2026/event/05006356A29A68E6",
-      "dateLocal": "2026-02-20T01:00:00Z",
-      "dateDisplay": "2026-02-19 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Gainbridge Fieldhouse",
-      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
-      "venueId": "KovZpZA6keIA",
-      "slug": "new-edition-the-new-edition-way-tour-gainbridge-fieldhouse-2026-02-19-exJJNJ",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZkCAGkdL-uuV",
       "name": "Rewind: The Ultimate 2000s Rave (18+)",
@@ -1116,6 +1102,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vv1AAZkooGkd9miDq",
+      "name": "Autumn!",
+      "url": "https://www.ticketmaster.com/autumn-indianapolis-indiana-05-20-2026/event/05006451D7BACEDD",
+      "dateLocal": "2026-05-21T00:00:00Z",
+      "dateDisplay": "2026-05-20 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "autumn-old-national-centre-2026-05-20-d9miDq",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv17fZ_7GkR0aj0t",
       "name": "Dance Gavin Dance with Special Guests",
       "url": "https://www.ticketmaster.com/dance-gavin-dance-with-special-guests-indianapolis-indiana-05-22-2026/event/0500644BE425C929",
@@ -1323,6 +1323,34 @@
       "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
       "venueId": "KovZpZA6keIA",
       "slug": "forrest-frank-the-jesus-generation-tour-gainbridge-fieldhouse-2026-06-20-ezUDaw",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkG-GkdihwYG",
+      "name": "MGK: Lost Americana Tour",
+      "url": "https://www.ticketmaster.com/mgk-lost-americana-tour-noblesville-indiana-06-20-2026/event/05006321EC6F2C0C",
+      "dateLocal": "2026-06-20T23:00:00Z",
+      "dateDisplay": "2026-06-20 19:00:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "mgk-lost-americana-tour-ruoff-music-center-2026-06-20-dihwYG",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_7GkYK-tes",
+      "name": "Santana & The Doobie Brothers - Oneness Tour 2026",
+      "url": "https://www.ticketmaster.com/santana-the-doobie-brothers-oneness-tour-noblesville-indiana-06-21-2026/event/0500644C138690B1",
+      "dateLocal": "2026-06-21T23:00:00Z",
+      "dateDisplay": "2026-06-21 19:00:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "santana-the-doobie-brothers-oneness-tour-2026-ruoff-music-center-2026-06-21-YK-tes",
       "source": "ticketmaster"
     }
   ]
