@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-23T11:09:55Z",
+  "generatedAt": "2026-02-24T11:09:34Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -9,20 +9,6 @@
   },
   "count": 102,
   "events": [
-    {
-      "id": "vv1AAZk8EGkeTyUJf",
-      "name": "Khamari - To Dry a Tear: Part II",
-      "url": "https://www.ticketmaster.com/khamari-to-dry-a-tear-part-indianapolis-indiana-02-23-2026/event/05006427BFE76994",
-      "dateLocal": "2026-02-24T01:00:00Z",
-      "dateDisplay": "2026-02-23 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "khamari-to-dry-a-tear-part-ii-old-national-centre-2026-02-23-eTyUJf",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZbSGkBWwpRL",
       "name": "Dancing With The Stars: Live! - 2026 Tour",
@@ -333,8 +319,8 @@
     },
     {
       "id": "vv1AAZk8PGkdeFzR9",
-      "name": "GorillaT",
-      "url": "https://www.ticketmaster.com/gorillat-indianapolis-indiana-03-14-2026/event/05006425C2238BD7",
+      "name": "GorillaT: 360 Set",
+      "url": "https://www.ticketmaster.com/gorillat-360-set-indianapolis-indiana-03-14-2026/event/05006425C2238BD7",
       "dateLocal": "2026-03-15T01:30:00Z",
       "dateDisplay": "2026-03-14 21:30:00",
       "city": "Indianapolis",
@@ -342,7 +328,7 @@
       "venueName": "Old National Centre",
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
-      "slug": "gorillat-old-national-centre-2026-03-14-deFzR9",
+      "slug": "gorillat-360-set-old-national-centre-2026-03-14-deFzR9",
       "source": "ticketmaster"
     },
     {
@@ -1323,6 +1309,20 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "santana-the-doobie-brothers-oneness-tour-2026-ruoff-music-center-2026-06-21-YK-tes",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkooGkdJJuYz",
+      "name": "Connor Price X Nic D \"Iconic Tour\"",
+      "url": "https://www.ticketmaster.com/connor-price-x-nic-d-iconic-indianapolis-indiana-06-21-2026/event/05006451E698DC38",
+      "dateLocal": "2026-06-22T00:00:00Z",
+      "dateDisplay": "2026-06-21 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "connor-price-x-nic-d-iconic-tour-old-national-centre-2026-06-21-dJJuYz",
       "source": "ticketmaster"
     },
     {
