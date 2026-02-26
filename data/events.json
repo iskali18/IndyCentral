@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-25T11:11:20Z",
+  "generatedAt": "2026-02-26T11:08:50Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 101,
+  "count": 102,
   "events": [
-    {
-      "id": "vv17fZbSGkBWwpRL",
-      "name": "Dancing With The Stars: Live! - 2026 Tour",
-      "url": "https://www.ticketmaster.com/dancing-with-the-stars-live-2026-indianapolis-indiana-02-25-2026/event/0500633EBDC96BDF",
-      "dateLocal": "2026-02-26T00:30:00Z",
-      "dateDisplay": "2026-02-25 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "dancing-with-the-stars-live-2026-tour-old-national-centre-2026-02-25-BWwpRL",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZbgGkXhnMNT",
       "name": "Elevation Worship & Steven Furtick - Spring Tour 2026",
@@ -1421,6 +1407,34 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "evanescence-2026-world-tour-with-spiritbox-and-nova-twins-ruoff-music-center-2026-07-09-G7DGgw",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZk8UGkdsGT_F",
+      "name": "The Fray - Summer of Light Tour with Dashboard Confessional",
+      "url": "https://www.ticketmaster.com/the-fray-summer-of-light-tour-indianapolis-indiana-07-10-2026/event/05006436F133F648",
+      "dateLocal": "2026-07-10T23:00:00Z",
+      "dateDisplay": "2026-07-10 19:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "the-fray-summer-of-light-tour-with-dashboard-confessional-everwise-amphitheater-at-white-r-dsGT_F",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkooGkdq5qCw",
+      "name": "Phish",
+      "url": "https://www.ticketmaster.com/phish-noblesville-indiana-07-10-2026/event/05006451DD2DD3B2",
+      "dateLocal": "2026-07-10T23:30:00Z",
+      "dateDisplay": "2026-07-10 19:30:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "phish-ruoff-music-center-2026-07-10-dq5qCw",
       "source": "ticketmaster"
     }
   ]
