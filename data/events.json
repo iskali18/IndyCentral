@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-26T11:08:50Z",
+  "generatedAt": "2026-02-27T11:00:13Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -511,6 +511,20 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "cowboy-junkies-live-on-tour-2026-old-national-centre-2026-03-21-deKap-",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZko_GkdLHLsJ",
+      "name": "Club 90s Presents: Heated RivalRave (18+)",
+      "url": "https://www.ticketmaster.com/club-90s-presents-heated-rivalrave-18-indianapolis-indiana-03-21-2026/event/05006459DFF1FC66",
+      "dateLocal": "2026-03-22T01:00:00Z",
+      "dateDisplay": "2026-03-21 21:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "club-90s-presents-heated-rivalrave-18-old-national-centre-2026-03-21-dLHLsJ",
       "source": "ticketmaster"
     },
     {
@@ -1421,20 +1435,6 @@
       "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
       "venueId": "KovZpZAEAAJA",
       "slug": "the-fray-summer-of-light-tour-with-dashboard-confessional-everwise-amphitheater-at-white-r-dsGT_F",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkooGkdq5qCw",
-      "name": "Phish",
-      "url": "https://www.ticketmaster.com/phish-noblesville-indiana-07-10-2026/event/05006451DD2DD3B2",
-      "dateLocal": "2026-07-10T23:30:00Z",
-      "dateDisplay": "2026-07-10 19:30:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "phish-ruoff-music-center-2026-07-10-dq5qCw",
       "source": "ticketmaster"
     }
   ]
