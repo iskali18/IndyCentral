@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-27T11:00:13Z",
+  "generatedAt": "2026-02-28T10:42:44Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,64 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 102,
+  "count": 103,
   "events": [
-    {
-      "id": "vv17fZbgGkXhnMNT",
-      "name": "Elevation Worship & Steven Furtick - Spring Tour 2026",
-      "url": "https://www.ticketmaster.com/elevation-worship-steven-furtick-spring-tour-indianapolis-indiana-02-27-2026/event/0500635F9BAB78FF",
-      "dateLocal": "2026-02-28T00:00:00Z",
-      "dateDisplay": "2026-02-27 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Gainbridge Fieldhouse",
-      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
-      "venueId": "KovZpZA6keIA",
-      "slug": "elevation-worship-steven-furtick-spring-tour-2026-gainbridge-fieldhouse-2026-02-27-XhnMNT",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZ_dGkwEj5v0",
-      "name": "Beartooth",
-      "url": "https://www.ticketmaster.com/beartooth-indianapolis-indiana-02-27-2026/event/0500643CA770B064",
-      "dateLocal": "2026-02-28T00:30:00Z",
-      "dateDisplay": "2026-02-27 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "beartooth-old-national-centre-2026-02-27-wEj5v0",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1aAZkCv8VPOZe8u",
-      "name": "Djg Smooth Jazz Allstars 2026",
-      "url": "https://www.ticketmaster.com/djg-smooth-jazz-allstars-2026-indianapolis-indiana-02-27-2026/event/05006381434960FC",
-      "dateLocal": "2026-02-28T00:30:00Z",
-      "dateDisplay": "2026-02-27 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Clowes Memorial Hall",
-      "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
-      "venueId": "KovZpZAJdEkA",
-      "slug": "djg-smooth-jazz-allstars-2026-clowes-memorial-hall-2026-02-27-POZe8u",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkGyGkd570yC",
-      "name": "DJ Pauly D",
-      "url": "https://www.ticketmaster.com/dj-pauly-d-indianapolis-indiana-02-27-2026/event/05006339CB124E4E",
-      "dateLocal": "2026-02-28T02:00:00Z",
-      "dateDisplay": "2026-02-27 21:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "dj-pauly-d-old-national-centre-2026-02-27-d570yC",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZkuyGkeMHbld",
       "name": "Jamie MacDonald - The Left It In The River Tour",
@@ -1116,6 +1060,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vv1Fv8v0pZuzZ72ae1",
+      "name": "Djg Celebration Of Choirs",
+      "url": "https://www.ticketmaster.com/djg-celebration-of-choirs-indianapolis-indiana-05-31-2026/event/050064580378E819",
+      "dateLocal": "2026-05-31T22:30:00Z",
+      "dateDisplay": "2026-05-31 18:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Clowes Memorial Hall",
+      "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
+      "venueId": "KovZpZAJdEkA",
+      "slug": "djg-celebration-of-choirs-clowes-memorial-hall-2026-05-31-Z72ae1",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv1AAZkodGkdpCQ8G",
       "name": "DEVO: Mutate Don't Stagnate",
       "url": "https://www.ticketmaster.com/devo-mutate-dont-stagnate-indianapolis-indiana-06-02-2026/event/05006443D639A40C",
@@ -1435,6 +1393,62 @@
       "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
       "venueId": "KovZpZAEAAJA",
       "slug": "the-fray-summer-of-light-tour-with-dashboard-confessional-everwise-amphitheater-at-white-r-dsGT_F",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkooGkdq5qCw",
+      "name": "Phish",
+      "url": "https://www.ticketmaster.com/phish-noblesville-indiana-07-10-2026/event/05006451DD2DD3B2",
+      "dateLocal": "2026-07-10T23:30:00Z",
+      "dateDisplay": "2026-07-10 19:30:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "phish-ruoff-music-center-2026-07-10-dq5qCw",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkofGkd-TtY2",
+      "name": "Phish: 3 Day Pass (7/10, 7/11, 7/12)",
+      "url": "https://www.ticketmaster.com/phish-3-day-pass-710-711-noblesville-indiana-07-10-2026/event/05006454E1FE9C0F",
+      "dateLocal": "2026-07-10",
+      "dateDisplay": "2026-07-10",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "phish-3-day-pass-710-711-712-ruoff-music-center-2026-07-10-d-TtY2",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkooGkdqGuCU",
+      "name": "Phish",
+      "url": "https://www.ticketmaster.com/phish-noblesville-indiana-07-11-2026/event/05006451DD30D3B6",
+      "dateLocal": "2026-07-11T23:30:00Z",
+      "dateDisplay": "2026-07-11 19:30:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "phish-ruoff-music-center-2026-07-11-dqGuCU",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkooGkdquu2Z",
+      "name": "Phish",
+      "url": "https://www.ticketmaster.com/phish-noblesville-indiana-07-12-2026/event/05006451DD34D3C0",
+      "dateLocal": "2026-07-12T23:00:00Z",
+      "dateDisplay": "2026-07-12 19:00:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "phish-ruoff-music-center-2026-07-12-dquu2Z",
       "source": "ticketmaster"
     }
   ]
