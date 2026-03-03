@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-02T11:04:45Z",
+  "generatedAt": "2026-03-03T11:01:21Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 103,
+  "count": 96,
   "events": [
-    {
-      "id": "vvG1fZbipuo-bU",
-      "name": "Lauren Spencer Smith: THE ART OF BEING A MESS TOUR",
-      "url": "https://www.ticketmaster.com/lauren-spencer-smith-the-art-of-indianapolis-indiana-03-02-2026/event/050062C58D461636",
-      "dateLocal": "2026-03-03T01:00:00Z",
-      "dateDisplay": "2026-03-02 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "lauren-spencer-smith-the-art-of-being-a-mess-tour-old-national-centre-2026-03-02-puo-bU",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZbYGkRNGr_m",
       "name": "Drew & Ellie Holcomb - NEVER GONNA LET YOU GO TOUR",
@@ -822,6 +808,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vv17fZ_AGkmlm5yB",
+      "name": "Scott Patterson: The Midnight Highway Tour",
+      "url": "https://www.ticketmaster.com/scott-patterson-the-midnight-highway-tour-indianapolis-indiana-05-01-2026/event/0500645BABB8BE7A",
+      "dateLocal": "2026-05-01T23:30:00Z",
+      "dateDisplay": "2026-05-01 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Clowes Memorial Hall",
+      "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
+      "venueId": "KovZpZAJdEkA",
+      "slug": "scott-patterson-the-midnight-highway-tour-clowes-memorial-hall-2026-05-01-mlm5yB",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv1AAZkCeGkdj-5PY",
       "name": "An Evening With David Byrne - Who is the Sky Tour",
       "url": "https://www.ticketmaster.com/an-evening-with-david-byrne-who-indianapolis-indiana-05-01-2026/event/05006382DC84B970",
@@ -1057,6 +1057,20 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "devo-mutate-dont-stagnate-old-national-centre-2026-06-02-dpCQ8G",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_AGkR3UTRW",
+      "name": "Electronic Orchestra",
+      "url": "https://www.ticketmaster.com/electronic-orchestra-indianapolis-indiana-06-05-2026/event/0500645BD2DBFBFD",
+      "dateLocal": "2026-06-06T00:00:00Z",
+      "dateDisplay": "2026-06-05 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "electronic-orchestra-old-national-centre-2026-06-05-R3UTRW",
       "source": "ticketmaster"
     },
     {
@@ -1337,118 +1351,6 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "jack-johnson-surfilmusic-tour-2026-ruoff-music-center-2026-07-04-ewSFeu",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1kfZbMONG7DGgw",
-      "name": "Evanescence 2026 World Tour with Spiritbox and Nova Twins",
-      "url": "https://www.ticketmaster.com/evanescence-2026-world-tour-with-spiritbox-noblesville-indiana-07-09-2026/event/0500637823ECCD72",
-      "dateLocal": "2026-07-09T23:00:00Z",
-      "dateDisplay": "2026-07-09 19:00:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "evanescence-2026-world-tour-with-spiritbox-and-nova-twins-ruoff-music-center-2026-07-09-G7DGgw",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZk8UGkdsGT_F",
-      "name": "The Fray - Summer of Light Tour with Dashboard Confessional",
-      "url": "https://www.ticketmaster.com/the-fray-summer-of-light-tour-indianapolis-indiana-07-10-2026/event/05006436F133F648",
-      "dateLocal": "2026-07-10T23:00:00Z",
-      "dateDisplay": "2026-07-10 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "the-fray-summer-of-light-tour-with-dashboard-confessional-everwise-amphitheater-at-white-r-dsGT_F",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkooGkdq5qCw",
-      "name": "Phish",
-      "url": "https://www.ticketmaster.com/phish-noblesville-indiana-07-10-2026/event/05006451DD2DD3B2",
-      "dateLocal": "2026-07-10T23:30:00Z",
-      "dateDisplay": "2026-07-10 19:30:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "phish-ruoff-music-center-2026-07-10-dq5qCw",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkofGkd-TtY2",
-      "name": "Phish: 3 Day Pass (7/10, 7/11, 7/12)",
-      "url": "https://www.ticketmaster.com/phish-3-day-pass-710-711-noblesville-indiana-07-10-2026/event/05006454E1FE9C0F",
-      "dateLocal": "2026-07-10",
-      "dateDisplay": "2026-07-10",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "phish-3-day-pass-710-711-712-ruoff-music-center-2026-07-10-d-TtY2",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkooGkdqGuCU",
-      "name": "Phish",
-      "url": "https://www.ticketmaster.com/phish-noblesville-indiana-07-11-2026/event/05006451DD30D3B6",
-      "dateLocal": "2026-07-11T23:30:00Z",
-      "dateDisplay": "2026-07-11 19:30:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "phish-ruoff-music-center-2026-07-11-dqGuCU",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkooGkdquu2Z",
-      "name": "Phish",
-      "url": "https://www.ticketmaster.com/phish-noblesville-indiana-07-12-2026/event/05006451DD34D3C0",
-      "dateLocal": "2026-07-12T23:00:00Z",
-      "dateDisplay": "2026-07-12 19:00:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "phish-ruoff-music-center-2026-07-12-dquu2Z",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZ_eGkXwLhEY",
-      "name": "Death Cab for Cutie",
-      "url": "https://www.ticketmaster.com/death-cab-for-cutie-indianapolis-indiana-07-12-2026/event/0500642FB27DB9F0",
-      "dateLocal": "2026-07-12T23:30:00Z",
-      "dateDisplay": "2026-07-12 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "death-cab-for-cutie-everwise-amphitheater-at-white-river-state-park-2026-07-12-XwLhEY",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZ_dGkR2qnTP",
-      "name": "Southern Hospitality Tour: The Black Crowes and Whiskey Myers",
-      "url": "https://www.ticketmaster.com/southern-hospitality-tour-the-black-crowes-noblesville-indiana-07-17-2026/event/0500643BCF76AFE5",
-      "dateLocal": "2026-07-17T22:30:00Z",
-      "dateDisplay": "2026-07-17 18:30:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "southern-hospitality-tour-the-black-crowes-and-whiskey-myers-ruoff-music-center-2026-07-17-R2qnTP",
       "source": "ticketmaster"
     }
   ]
