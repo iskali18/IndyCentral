@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-03T11:01:21Z",
+  "generatedAt": "2026-03-04T10:58:05Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 96,
+  "count": 90,
   "events": [
-    {
-      "id": "vv17fZbYGkRNGr_m",
-      "name": "Drew & Ellie Holcomb - NEVER GONNA LET YOU GO TOUR",
-      "url": "https://www.ticketmaster.com/drew-ellie-holcomb-never-gonna-let-indianapolis-indiana-03-03-2026/event/0500630BE331E66E",
-      "dateLocal": "2026-03-04T00:30:00Z",
-      "dateDisplay": "2026-03-03 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "drew-ellie-holcomb-never-gonna-let-you-go-tour-old-national-centre-2026-03-03-RNGr_m",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZkCeGkdOehR-",
       "name": "Ace Hood - The Born Rebel Tour",
@@ -1116,6 +1102,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vv1AAZko_GkeNsSuJ",
+      "name": "Indy Pride Presents Tash Sultana - North American Tour 2026",
+      "url": "https://www.ticketmaster.com/indy-pride-presents-tash-sultana-north-indianapolis-indiana-06-12-2026/event/05006459A3C73366",
+      "dateLocal": "2026-06-12T23:30:00Z",
+      "dateDisplay": "2026-06-12 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "indy-pride-presents-tash-sultana-north-american-tour-2026-everwise-amphitheater-at-white-r-eNsSuJ",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv17fZ_dGkU2jJCD",
       "name": "Post Malone Presents: The BIG ASS Stadium Tour Part 2",
       "url": "https://www.ticketmaster.com/post-malone-presents-the-big-ass-indianapolis-indiana-06-12-2026/event/0500643D8F7263BB",
@@ -1267,90 +1267,6 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "connor-price-nic-d-iconic-tour-old-national-centre-2026-06-21-dJJuYz",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZbwGkmps-4p",
-      "name": "Riley Green: Cowboy As It Gets Tour 2026",
-      "url": "https://www.ticketmaster.com/riley-green-cowboy-as-it-gets-noblesville-indiana-06-25-2026/event/0500632B96C61556",
-      "dateLocal": "2026-06-25T23:00:00Z",
-      "dateDisplay": "2026-06-25 19:00:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "riley-green-cowboy-as-it-gets-tour-2026-ruoff-music-center-2026-06-25-mps-4p",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1Fv8v0GYopZ7GG7F",
-      "name": "Dave Matthews Band",
-      "url": "https://www.ticketmaster.com/dave-matthews-band-noblesville-indiana-06-26-2026/event/050064330456BB37",
-      "dateLocal": "2026-06-26T23:30:00Z",
-      "dateDisplay": "2026-06-26 19:30:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "dave-matthews-band-ruoff-music-center-2026-06-26-Z7GG7F",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZk8MGkdBKkuC",
-      "name": "Dave Matthews Band - 2 Day Lawn Pass (6/26 & 6/27)",
-      "url": "https://www.ticketmaster.com/dave-matthews-band-2-day-lawn-noblesville-indiana-06-26-2026/event/05006437FA4C634E",
-      "dateLocal": "2026-06-26",
-      "dateDisplay": "2026-06-26",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "dave-matthews-band-2-day-lawn-pass-626-627-ruoff-music-center-2026-06-26-dBKkuC",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1Fv8v0GYo_Z7GG75",
-      "name": "Dave Matthews Band",
-      "url": "https://www.ticketmaster.com/dave-matthews-band-noblesville-indiana-06-27-2026/event/050064330459BB3A",
-      "dateLocal": "2026-06-27T23:30:00Z",
-      "dateDisplay": "2026-06-27 19:30:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "dave-matthews-band-ruoff-music-center-2026-06-27-Z7GG75",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkuzGkeckbFK",
-      "name": "The Dead South",
-      "url": "https://www.ticketmaster.com/the-dead-south-indianapolis-indiana-06-28-2026/event/05006378AD198213",
-      "dateLocal": "2026-06-28T23:30:00Z",
-      "dateDisplay": "2026-06-28 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "the-dead-south-everwise-amphitheater-at-white-river-state-park-2026-06-28-eckbFK",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkuNGkewSFeu",
-      "name": "Jack Johnson: SURFILMUSIC Tour 2026",
-      "url": "https://www.ticketmaster.com/jack-johnson-surfilmusic-tour-2026-noblesville-indiana-07-04-2026/event/05006363B2CC808D",
-      "dateLocal": "2026-07-04T23:30:00Z",
-      "dateDisplay": "2026-07-04 19:30:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "jack-johnson-surfilmusic-tour-2026-ruoff-music-center-2026-07-04-ewSFeu",
       "source": "ticketmaster"
     }
   ]
