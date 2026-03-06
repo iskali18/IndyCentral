@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-05T11:02:49Z",
+  "generatedAt": "2026-03-06T10:57:21Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,36 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 93,
+  "count": 92,
   "events": [
-    {
-      "id": "vv1AAZkGwGkdJYkJN",
-      "name": "ERNEST: LIVE FROM THE SOUTH TOUR",
-      "url": "https://www.ticketmaster.com/ernest-live-from-the-south-tour-indianapolis-indiana-03-05-2026/event/05006332E6C069A3",
-      "dateLocal": "2026-03-06T01:00:00Z",
-      "dateDisplay": "2026-03-05 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "ernest-live-from-the-south-tour-old-national-centre-2026-03-05-dJYkJN",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkuFGkeTLJtv",
-      "name": "The Floozies + Too Many Zooz: Too Many Flooz Tour",
-      "url": "https://www.ticketmaster.com/the-floozies-too-many-zooz-too-indianapolis-indiana-03-05-2026/event/05006348BF7E6A41",
-      "dateLocal": "2026-03-06T01:00:00Z",
-      "dateDisplay": "2026-03-05 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "the-floozies-too-many-zooz-too-many-flooz-tour-old-national-centre-2026-03-05-eTLJtv",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZ_eGkXEltuF",
       "name": "Bingo Loco - Ages 21+",
@@ -1309,6 +1281,20 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "dave-matthews-band-2-day-lawn-pass-626-627-ruoff-music-center-2026-06-26-dBKkuC",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1Fv8v0GYo_Z7GG75",
+      "name": "Dave Matthews Band",
+      "url": "https://www.ticketmaster.com/dave-matthews-band-noblesville-indiana-06-27-2026/event/050064330459BB3A",
+      "dateLocal": "2026-06-27T23:30:00Z",
+      "dateDisplay": "2026-06-27 19:30:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "dave-matthews-band-ruoff-music-center-2026-06-27-Z7GG75",
       "source": "ticketmaster"
     }
   ]
