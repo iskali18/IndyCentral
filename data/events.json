@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-07T10:43:31Z",
+  "generatedAt": "2026-03-08T10:45:20Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,36 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 94,
+  "count": 97,
   "events": [
-    {
-      "id": "vv1AAZkoAGkdN2u3n",
-      "name": "Reggaetón Rave (18+)",
-      "url": "https://www.ticketmaster.com/reggaeton-rave-18-indianapolis-indiana-03-07-2026/event/05006445E33CD4AA",
-      "dateLocal": "2026-03-08T02:00:00Z",
-      "dateDisplay": "2026-03-07 21:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "reggaetón-rave-18-old-national-centre-2026-03-07-dN2u3n",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZko7Gkd8u5Pa",
-      "name": "Electric Feels: Indie Rock + Electronic Dance Party (18+)",
-      "url": "https://www.ticketmaster.com/electric-feels-indie-rock-electronic-dance-indianapolis-indiana-03-07-2026/event/05006444D034B949",
-      "dateLocal": "2026-03-08T02:30:00Z",
-      "dateDisplay": "2026-03-07 21:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "electric-feels-indie-rock-electronic-dance-party-18-old-national-centre-2026-03-07-d8u5Pa",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZkGsGkd2kEbI",
       "name": "The Simon & Garfunkel Story (Touring)",
@@ -1323,6 +1295,76 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "evanescence-2026-world-tour-with-spiritbox-and-nova-twins-ruoff-music-center-2026-07-09-G7DGgw",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZk8UGkdsGT_F",
+      "name": "The Fray - Summer of Light Tour with Dashboard Confessional",
+      "url": "https://www.ticketmaster.com/the-fray-summer-of-light-tour-indianapolis-indiana-07-10-2026/event/05006436F133F648",
+      "dateLocal": "2026-07-10T23:00:00Z",
+      "dateDisplay": "2026-07-10 19:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "the-fray-summer-of-light-tour-with-dashboard-confessional-everwise-amphitheater-at-white-r-dsGT_F",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkooGkdq5qCw",
+      "name": "Phish",
+      "url": "https://www.ticketmaster.com/phish-noblesville-indiana-07-10-2026/event/05006451DD2DD3B2",
+      "dateLocal": "2026-07-10T23:30:00Z",
+      "dateDisplay": "2026-07-10 19:30:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "phish-ruoff-music-center-2026-07-10-dq5qCw",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkofGkd-TtY2",
+      "name": "Phish: 3 Day Pass (7/10, 7/11, 7/12)",
+      "url": "https://www.ticketmaster.com/phish-3-day-pass-710-711-noblesville-indiana-07-10-2026/event/05006454E1FE9C0F",
+      "dateLocal": "2026-07-10",
+      "dateDisplay": "2026-07-10",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "phish-3-day-pass-710-711-712-ruoff-music-center-2026-07-10-d-TtY2",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkooGkdqGuCU",
+      "name": "Phish",
+      "url": "https://www.ticketmaster.com/phish-noblesville-indiana-07-11-2026/event/05006451DD30D3B6",
+      "dateLocal": "2026-07-11T23:30:00Z",
+      "dateDisplay": "2026-07-11 19:30:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "phish-ruoff-music-center-2026-07-11-dqGuCU",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkooGkdquu2Z",
+      "name": "Phish",
+      "url": "https://www.ticketmaster.com/phish-noblesville-indiana-07-12-2026/event/05006451DD34D3C0",
+      "dateLocal": "2026-07-12T23:00:00Z",
+      "dateDisplay": "2026-07-12 19:00:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "phish-ruoff-music-center-2026-07-12-dquu2Z",
       "source": "ticketmaster"
     }
   ]
