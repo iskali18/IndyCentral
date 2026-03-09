@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-08T10:45:20Z",
+  "generatedAt": "2026-03-09T11:05:26Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 97,
+  "count": 100,
   "events": [
-    {
-      "id": "vv1AAZkGsGkd2kEbI",
-      "name": "The Simon & Garfunkel Story (Touring)",
-      "url": "https://www.ticketmaster.com/the-simon-garfunkel-story-touring-indianapolis-indiana-03-08-2026/event/05006331CF1A7628",
-      "dateLocal": "2026-03-08T23:00:00Z",
-      "dateDisplay": "2026-03-08 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "the-simon-garfunkel-story-touring-old-national-centre-2026-03-08-d2kEbI",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZbUGklGPQYY",
       "name": "Colter Wall - Memories and Empties",
@@ -1365,6 +1351,62 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "phish-ruoff-music-center-2026-07-12-dquu2Z",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_eGkXwLhEY",
+      "name": "Death Cab for Cutie",
+      "url": "https://www.ticketmaster.com/death-cab-for-cutie-indianapolis-indiana-07-12-2026/event/0500642FB27DB9F0",
+      "dateLocal": "2026-07-12T23:30:00Z",
+      "dateDisplay": "2026-07-12 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "death-cab-for-cutie-everwise-amphitheater-at-white-river-state-park-2026-07-12-XwLhEY",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_dGkR2qnTP",
+      "name": "Southern Hospitality Tour: The Black Crowes and Whiskey Myers",
+      "url": "https://www.ticketmaster.com/southern-hospitality-tour-the-black-crowes-noblesville-indiana-07-17-2026/event/0500643BCF76AFE5",
+      "dateLocal": "2026-07-17T22:30:00Z",
+      "dateDisplay": "2026-07-17 18:30:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "southern-hospitality-tour-the-black-crowes-and-whiskey-myers-ruoff-music-center-2026-07-17-R2qnTP",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_AGknUwGB8",
+      "name": "Tucker Wetmore: The Brunette World Tour ",
+      "url": "https://www.ticketmaster.com/tucker-wetmore-the-brunette-world-tour-indianapolis-indiana-07-18-2026/event/0500645AB6C8CE90",
+      "dateLocal": "2026-07-18T22:30:00Z",
+      "dateDisplay": "2026-07-18 18:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "tucker-wetmore-the-brunette-world-tour-everwise-amphitheater-at-white-river-state-park-202-nUwGB8",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZk8tGkel-UW3",
+      "name": "John Mellencamp Dancing Words Tour The Greatest Hits",
+      "url": "https://www.ticketmaster.com/john-mellencamp-dancing-words-tour-the-noblesville-indiana-07-18-2026/event/05006429AB876F52",
+      "dateLocal": "2026-07-19T00:00:00Z",
+      "dateDisplay": "2026-07-18 20:00:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "john-mellencamp-dancing-words-tour-the-greatest-hits-ruoff-music-center-2026-07-18-el-UW3",
       "source": "ticketmaster"
     }
   ]
