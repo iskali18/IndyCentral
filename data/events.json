@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-09T11:05:26Z",
+  "generatedAt": "2026-03-10T11:03:23Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,7 +7,7 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 100,
+  "count": 99,
   "events": [
     {
       "id": "vv17fZbUGklGPQYY",
@@ -1393,20 +1393,6 @@
       "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
       "venueId": "KovZpZAEAAJA",
       "slug": "tucker-wetmore-the-brunette-world-tour-everwise-amphitheater-at-white-river-state-park-202-nUwGB8",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZk8tGkel-UW3",
-      "name": "John Mellencamp Dancing Words Tour The Greatest Hits",
-      "url": "https://www.ticketmaster.com/john-mellencamp-dancing-words-tour-the-noblesville-indiana-07-18-2026/event/05006429AB876F52",
-      "dateLocal": "2026-07-19T00:00:00Z",
-      "dateDisplay": "2026-07-18 20:00:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "john-mellencamp-dancing-words-tour-the-greatest-hits-ruoff-music-center-2026-07-18-el-UW3",
       "source": "ticketmaster"
     }
   ]
