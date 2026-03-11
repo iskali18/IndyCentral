@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T11:03:23Z",
+  "generatedAt": "2026-03-11T11:02:19Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -1186,6 +1186,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vv1AAZkoPGkdlcxRs",
+      "name": "Earl Sweatshirt & MIKE - Home on the Range Tour 2026",
+      "url": "https://www.ticketmaster.com/earl-sweatshirt-mike-home-on-the-indianapolis-indiana-06-24-2026/event/05006465EBB62BF1",
+      "dateLocal": "2026-06-25T00:00:00Z",
+      "dateDisplay": "2026-06-24 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "earl-sweatshirt-mike-home-on-the-range-tour-2026-old-national-centre-2026-06-24-dlcxRs",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv17fZbwGkmps-4p",
       "name": "Riley Green: Cowboy As It Gets Tour 2026",
       "url": "https://www.ticketmaster.com/riley-green-cowboy-as-it-gets-noblesville-indiana-06-25-2026/event/0500632B96C61556",
@@ -1253,6 +1267,20 @@
       "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
       "venueId": "KovZpZAEAAJA",
       "slug": "the-dead-south-everwise-amphitheater-at-white-river-state-park-2026-06-28-eckbFK",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkotGkd8u5gl",
+      "name": "Satinder Sartaaj",
+      "url": "https://www.ticketmaster.com/satinder-sartaaj-indianapolis-indiana-07-03-2026/event/05006469D034BD6B",
+      "dateLocal": "2026-07-03T23:00:00Z",
+      "dateDisplay": "2026-07-03 19:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "satinder-sartaaj-old-national-centre-2026-07-03-d8u5gl",
       "source": "ticketmaster"
     },
     {
@@ -1365,34 +1393,6 @@
       "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
       "venueId": "KovZpZAEAAJA",
       "slug": "death-cab-for-cutie-everwise-amphitheater-at-white-river-state-park-2026-07-12-XwLhEY",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZ_dGkR2qnTP",
-      "name": "Southern Hospitality Tour: The Black Crowes and Whiskey Myers",
-      "url": "https://www.ticketmaster.com/southern-hospitality-tour-the-black-crowes-noblesville-indiana-07-17-2026/event/0500643BCF76AFE5",
-      "dateLocal": "2026-07-17T22:30:00Z",
-      "dateDisplay": "2026-07-17 18:30:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "southern-hospitality-tour-the-black-crowes-and-whiskey-myers-ruoff-music-center-2026-07-17-R2qnTP",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZ_AGknUwGB8",
-      "name": "Tucker Wetmore: The Brunette World Tour ",
-      "url": "https://www.ticketmaster.com/tucker-wetmore-the-brunette-world-tour-indianapolis-indiana-07-18-2026/event/0500645AB6C8CE90",
-      "dateLocal": "2026-07-18T22:30:00Z",
-      "dateDisplay": "2026-07-18 18:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "tucker-wetmore-the-brunette-world-tour-everwise-amphitheater-at-white-river-state-park-202-nUwGB8",
       "source": "ticketmaster"
     }
   ]
