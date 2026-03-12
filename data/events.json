@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-11T11:02:19Z",
+  "generatedAt": "2026-03-12T11:01:44Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,36 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 99,
+  "count": 98,
   "events": [
-    {
-      "id": "vv17fZbUGklGPQYY",
-      "name": "Colter Wall - Memories and Empties",
-      "url": "https://www.ticketmaster.com/colter-wall-memories-and-empties-indianapolis-indiana-03-11-2026/event/0500636ACC95AC30",
-      "dateLocal": "2026-03-11T23:30:00Z",
-      "dateDisplay": "2026-03-11 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "colter-wall-memories-and-empties-old-national-centre-2026-03-11-lGPQYY",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZbcGy46tC",
-      "name": "Lords Of The Sound Orchestra \"The Music Of Hans Zimmer\"",
-      "url": "https://www.ticketmaster.com/lords-of-the-sound-orchestra-the-indianapolis-indiana-03-11-2026/event/050062D339547A4E",
-      "dateLocal": "2026-03-12T00:00:00Z",
-      "dateDisplay": "2026-03-11 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Clowes Memorial Hall",
-      "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
-      "venueId": "KovZpZAJdEkA",
-      "slug": "lords-of-the-sound-orchestra-the-music-of-hans-zimmer-clowes-memorial-hall-2026-03-11-Gy46tC",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZbUGklG0BYm",
       "name": "Colter Wall - Memories and Empties",
@@ -1253,6 +1225,20 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "dave-matthews-band-ruoff-music-center-2026-06-27-Z7GG75",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_kGkRpwuC5",
+      "name": "The Pussycat Dolls: PCD FOREVER TOUR",
+      "url": "https://www.ticketmaster.com/the-pussycat-dolls-pcd-forever-tour-noblesville-indiana-06-28-2026/event/0500646BD6C8D38B",
+      "dateLocal": "2026-06-28T23:00:00Z",
+      "dateDisplay": "2026-06-28 19:00:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "the-pussycat-dolls-pcd-forever-tour-ruoff-music-center-2026-06-28-RpwuC5",
       "source": "ticketmaster"
     },
     {
