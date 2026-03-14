@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T10:58:09Z",
+  "generatedAt": "2026-03-14T10:48:57Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 99,
+  "count": 100,
   "events": [
-    {
-      "id": "vv1AAZku-GkdoDbiu",
-      "name": "Vitamin String Quartet",
-      "url": "https://www.ticketmaster.com/vitamin-string-quartet-indianapolis-indiana-03-13-2026/event/05006361D1ED8B0D",
-      "dateLocal": "2026-03-14T00:00:00Z",
-      "dateDisplay": "2026-03-13 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Clowes Memorial Hall",
-      "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
-      "venueId": "KovZpZAJdEkA",
-      "slug": "vitamin-string-quartet-clowes-memorial-hall-2026-03-13-doDbiu",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZbwGkTGEwfg",
       "name": "Cardi B - Little Miss Drama Tour",
@@ -962,6 +948,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vv17fZ_kGkmt5FVz",
+      "name": "Spacey Jane - If That Makes Sense Tour",
+      "url": "https://www.ticketmaster.com/spacey-jane-if-that-makes-sense-indianapolis-indiana-06-10-2026/event/0500646BA92C8D38",
+      "dateLocal": "2026-06-11T00:00:00Z",
+      "dateDisplay": "2026-06-10 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "spacey-jane-if-that-makes-sense-tour-old-national-centre-2026-06-10-mt5FVz",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv1AAZko_GkeNsSuJ",
       "name": "Indy Pride Presents Tash Sultana - North American Tour 2026",
       "url": "https://www.ticketmaster.com/indy-pride-presents-tash-sultana-north-indianapolis-indiana-06-12-2026/event/05006459A3C73366",
@@ -1393,6 +1393,20 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "john-mellencamp-dancing-words-tour-the-greatest-hits-ruoff-music-center-2026-07-18-el-UW3",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1kv8v0oZGAuTL3L",
+      "name": "Sarah McLachlan - Better Broken Tour",
+      "url": "https://www.ticketmaster.com/sarah-mclachlan-better-broken-tour-indianapolis-indiana-07-19-2026/event/050064440DFDF49F",
+      "dateLocal": "2026-07-19T23:30:00Z",
+      "dateDisplay": "2026-07-19 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "sarah-mclachlan-better-broken-tour-everwise-amphitheater-at-white-river-state-park-2026-07-AuTL3L",
       "source": "ticketmaster"
     }
   ]
