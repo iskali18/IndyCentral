@@ -1,6 +1,5 @@
 ---
-import "../styles/global.css";
-
+import '../styles/global.css';
 const { title, description } = Astro.props;
 ---
 <!doctype html>
@@ -15,10 +14,11 @@ const { title, description } = Astro.props;
   <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,400&display=swap" rel="stylesheet" />
 </head>
 <body>
+
   <header class="site-header">
     <div class="container">
       <a href="/" class="site-logo">IndyCentral</a>
-      <nav class="site-nav" aria-label="Primary">
+      <nav class="site-nav">
         <a href="/#concerts">Concerts</a>
         <a href="/#about">About</a>
       </nav>
@@ -28,5 +28,6 @@ const { title, description } = Astro.props;
   <main>
     <slot />
   </main>
+
 </body>
 </html>
