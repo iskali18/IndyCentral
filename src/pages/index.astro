@@ -67,6 +67,62 @@ const monthGroups = Object.entries(grouped);
         No bouncing between venue websites.
       </p>
 
+      <div class="hero-venues">
+        <p class="hero-seo">
+          IndyCentral tracks major concerts happening across the Indianapolis metro area.
+          Shows are pulled from these venues:
+        </p>
+
+        <div class="venue-list">
+
+          <div class="venue-row">
+            <span class="venue-name">Gainbridge Fieldhouse</span>
+            <span class="venue-city">— Indianapolis</span>
+          </div>
+
+          <div class="venue-row">
+            <span class="venue-name">Lucas Oil Stadium</span>
+            <span class="venue-city">— Indianapolis</span>
+          </div>
+
+          <div class="venue-row">
+            <span class="venue-name">Ruoff Music Center</span>
+            <span class="venue-city">— Noblesville</span>
+          </div>
+
+          <div class="venue-row">
+            <span class="venue-name">Old National Centre</span>
+            <span class="venue-city">— Indianapolis</span>
+          </div>
+
+          <div class="venue-row">
+            <span class="venue-name">The Palladium</span>
+            <span class="venue-city">— Carmel</span>
+          </div>
+
+          <div class="venue-row">
+            <span class="venue-name">Clowes Memorial Hall</span>
+            <span class="venue-city">— Indianapolis</span>
+          </div>
+
+          <div class="venue-row">
+            <span class="venue-name">Everwise Amphitheater at White River State Park</span>
+            <span class="venue-city">— Indianapolis</span>
+          </div>
+
+          <div class="venue-row">
+            <span class="venue-name">Indiana Farmers Coliseum</span>
+            <span class="venue-city">— Indianapolis</span>
+          </div>
+
+          <div class="venue-row">
+            <span class="venue-name">Hilbert Circle Theatre</span>
+            <span class="venue-city">— Indianapolis</span>
+          </div>
+
+        </div>
+      </div>
+
       <div class="hero-actions">
         <a href="#concerts" class="hero-cta">Browse upcoming shows</a>
       </div>
@@ -112,6 +168,8 @@ const monthGroups = Object.entries(grouped);
                     <a class="event-name" href={`/event/${e.slug}/`}>{e.name}</a>
                     <div class="event-meta">
                       <span class="event-venue">{e.venueName}</span>
+                      <span class="event-sep" aria-hidden="true">·</span>
+                      <span class="event-city">{e.city}, {e.state}</span>
                       <span class="event-sep" aria-hidden="true">·</span>
                       <span class="event-time">{e._fmt.time}</span>
                     </div>
@@ -171,6 +229,17 @@ const monthGroups = Object.entries(grouped);
 </BaseLayout>
 
 <style>
+/* ── Venue list overrides ─────────────────────────────────────────────────── */
+:global(.venue-list) {
+  padding-left: 1.25rem !important;
+  margin-bottom: 3.5rem !important;
+}
+
+:global(.hero-venues),
+:global(.hero-seo) {
+  max-width: 560px !important;
+}
+
 /* ── Hero ─────────────────────────────────────────────────────────────────── */
 .hero {
   padding: 6rem 0 4.5rem;
@@ -442,6 +511,11 @@ const monthGroups = Object.entries(grouped);
 .event-venue {
   overflow: hidden;
   text-overflow: ellipsis;
+}
+
+.event-city {
+  flex-shrink: 0;
+  color: var(--text-muted);
 }
 
 .event-sep {

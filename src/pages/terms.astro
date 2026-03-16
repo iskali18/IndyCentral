@@ -1,0 +1,189 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const title = "Terms of Use | IndyCentral";
+const description = "Terms of Use for IndyCentral.";
+---
+
+<BaseLayout title={title} description={description}>
+  <section class="legal-page">
+    <div class="container legal-container">
+
+      <p class="legal-kicker">Legal</p>
+      <h1>Terms of Use</h1>
+      <p class="legal-updated">Effective Date: March 16, 2026</p>
+
+      <div class="legal-content">
+
+        <p>
+          IndyCentral provides information about upcoming concerts in the
+          Indianapolis metro area. By accessing or using this Site, you agree
+          to these Terms of Use.
+        </p>
+
+        <h2>Informational purpose</h2>
+
+        <p>
+          Content on IndyCentral is provided for general informational purposes.
+          Concert dates, times, venues, ticket availability, and other event
+          details may change without notice.
+        </p>
+
+        <p>
+          Visitors should verify event details directly with the official venue
+          or ticket provider before making plans or purchasing tickets.
+        </p>
+
+        <h2>No ticket sales</h2>
+
+        <p>
+          IndyCentral does not sell tickets directly. Links on this site direct
+          visitors to third-party ticket providers or official event listings.
+        </p>
+
+        <p>
+          Any ticket purchases or transactions occur on external websites and
+          are governed by the terms and policies of those third-party platforms.
+        </p>
+
+        <h2>External services and data sources</h2>
+
+        <p>
+          The Site may rely on third-party event data sources and external
+          ticketing providers. While efforts are made to present useful and
+          current information, IndyCentral does not control and cannot guarantee
+          the accuracy, completeness, or availability of third-party data,
+          listings, or services.
+        </p>
+
+        <p>
+          IndyCentral is not responsible for the content, policies, or practices
+          of external websites linked from this Site.
+        </p>
+
+        <h2>No guarantee of accuracy</h2>
+
+        <p>
+          Although the Site aims to present helpful and current information,
+          IndyCentral does not guarantee that event listings, dates, times,
+          venues, ticket links, or other details are complete, accurate, or
+          up to date.
+        </p>
+
+        <p>
+          Event details may change, events may be rescheduled or cancelled,
+          and ticket availability may vary.
+        </p>
+
+        <h2>Limitation of liability</h2>
+
+        <p>
+          The Site is provided on an “as is” and “as available” basis.
+          To the fullest extent permitted by law, IndyCentral shall not be
+          liable for any direct, indirect, incidental, consequential, or
+          special damages arising from the use of the Site or reliance on
+          information presented on the Site.
+        </p>
+
+        <p>
+          This includes, but is not limited to, damages related to event
+          cancellations, scheduling changes, ticket availability, pricing,
+          or third-party services.
+        </p>
+
+        <h2>Use of the site</h2>
+
+        <p>
+          You agree to use the Site only for lawful purposes and in a way that
+          does not interfere with the operation, security, or availability
+          of the Site.
+        </p>
+
+        <h2>Changes to the site</h2>
+
+        <p>
+          IndyCentral may modify, suspend, or remove content or features of
+          the Site at any time without notice.
+        </p>
+
+        <h2>Changes to these terms</h2>
+
+        <p>
+          These Terms of Use may be updated from time to time. Continued use
+          of the Site after updates are posted constitutes acceptance of
+          the revised terms.
+        </p>
+
+      </div>
+
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+.legal-page {
+  padding: 4.5rem 0 5rem;
+}
+
+.legal-container {
+  max-width: 820px;
+}
+
+.legal-kicker {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 0.75rem;
+}
+
+.legal-page h1 {
+  font-family: var(--font-display);
+  font-size: clamp(2.6rem, 7vw, 4.5rem);
+  line-height: 0.95;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  margin-bottom: 0.75rem;
+}
+
+.legal-updated {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  margin-bottom: 2rem;
+}
+
+.legal-content {
+  background: linear-gradient(180deg, rgba(15,23,42,0.72) 0%, rgba(15,23,42,0.38) 100%);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 2rem;
+}
+
+.legal-content h2 {
+  font-family: var(--font-display);
+  font-size: 1.45rem;
+  text-transform: uppercase;
+  margin: 1.75rem 0 0.7rem;
+}
+
+.legal-content h2:first-of-type {
+  margin-top: 0;
+}
+
+.legal-content p {
+  color: var(--text-dim);
+  line-height: 1.8;
+  margin-bottom: 0.9rem;
+}
+
+@media (max-width: 600px) {
+  .legal-page {
+    padding: 3.5rem 0 4rem;
+  }
+
+  .legal-content {
+    padding: 1.35rem;
+  }
+}
+</style>
