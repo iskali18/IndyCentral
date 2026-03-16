@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-15T10:51:10Z",
+  "generatedAt": "2026-03-16T11:12:29Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,36 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 101,
+  "count": 102,
   "events": [
-    {
-      "id": "vv1AAZkGsGkdLv6IN",
-      "name": "INZO - MIRRORVERSE TOUR",
-      "url": "https://www.ticketmaster.com/inzo-mirrorverse-tour-indianapolis-indiana-03-15-2026/event/05006331DF047A23",
-      "dateLocal": "2026-03-15T22:30:00Z",
-      "dateDisplay": "2026-03-15 18:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "inzo-mirrorverse-tour-old-national-centre-2026-03-15-dLv6IN",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZbVGkyWyeSJ",
-      "name": "Moonchild: Waves Tour",
-      "url": "https://www.ticketmaster.com/moonchild-waves-tour-indianapolis-indiana-03-15-2026/event/0500634E7DE42CE6",
-      "dateLocal": "2026-03-16T00:00:00Z",
-      "dateDisplay": "2026-03-15 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "moonchild-waves-tour-old-national-centre-2026-03-15-yWyeSJ",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZbsGkRevv-o",
       "name": "Josiah Queen - The Mt. Zion Tour",
@@ -1421,6 +1393,48 @@
       "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
       "venueId": "KovZpZAEAAJA",
       "slug": "levity-x-tape-b-present-summer-program-everwise-amphitheater-at-white-river-state-park-202-G7ISNX",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_eGkDK5RNS",
+      "name": "Audrey Hobert: The Staircase To Stardom Tour",
+      "url": "https://www.ticketmaster.com/audrey-hobert-the-staircase-to-stardom-indianapolis-indiana-07-25-2026/event/0500642ED32EF8F3",
+      "dateLocal": "2026-07-26T00:00:00Z",
+      "dateDisplay": "2026-07-25 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "audrey-hobert-the-staircase-to-stardom-tour-old-national-centre-2026-07-25-DK5RNS",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkupGkd85ETD",
+      "name": "5 Seconds of Summer: EVERYONE'S A STAR! World Tour",
+      "url": "https://www.ticketmaster.com/5-seconds-of-summer-everyones-a-noblesville-indiana-07-25-2026/event/05006356D02E7FFB",
+      "dateLocal": "2026-07-26T00:00:00Z",
+      "dateDisplay": "2026-07-25 20:00:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "5-seconds-of-summer-everyones-a-star-world-tour-ruoff-music-center-2026-07-25-d85ETD",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_AGkRd7m3w",
+      "name": "Beach Bunny",
+      "url": "https://www.ticketmaster.com/beach-bunny-indianapolis-indiana-07-26-2026/event/0500645BC312E4B2",
+      "dateLocal": "2026-07-27T00:00:00Z",
+      "dateDisplay": "2026-07-26 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "beach-bunny-old-national-centre-2026-07-26-Rd7m3w",
       "source": "ticketmaster"
     }
   ]
