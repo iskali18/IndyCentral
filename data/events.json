@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-16T11:12:29Z",
+  "generatedAt": "2026-03-17T11:10:24Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -9,20 +9,6 @@
   },
   "count": 102,
   "events": [
-    {
-      "id": "vv17fZbsGkRevv-o",
-      "name": "Josiah Queen - The Mt. Zion Tour",
-      "url": "https://www.ticketmaster.com/josiah-queen-the-mt-zion-tour-indianapolis-indiana-03-16-2026/event/0500631BC2041851",
-      "dateLocal": "2026-03-16T23:00:00Z",
-      "dateDisplay": "2026-03-16 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "josiah-queen-the-mt-zion-tour-old-national-centre-2026-03-16-Revv-o",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZbVGkMhvzZe",
       "name": "JOURNEY - Final Frontier Tour (An Evening With)",
@@ -203,6 +189,20 @@
       "venueUrl": null,
       "venueId": "ZFr9jZdd1A",
       "slug": "star-wars-the-empire-strikes-back-in-concert-w-indianapolis-symphony-orchestra-hilbert-cir-A7rouA",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZbsGkRevv-o",
+      "name": "Josiah Queen - The Mt. Zion Tour",
+      "url": "https://www.ticketmaster.com/josiah-queen-the-mt-zion-tour-indianapolis-indiana-03-22-2026/event/0500631BC2041851",
+      "dateLocal": "2026-03-22T23:00:00Z",
+      "dateDisplay": "2026-03-22 19:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "josiah-queen-the-mt-zion-tour-old-national-centre-2026-03-22-Revv-o",
       "source": "ticketmaster"
     },
     {
