@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-18T11:11:32Z",
+  "generatedAt": "2026-03-19T11:03:39Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -9,34 +9,6 @@
   },
   "count": 102,
   "events": [
-    {
-      "id": "vv1AAZkCaGkdGntLz",
-      "name": "The Happy Fits",
-      "url": "https://www.ticketmaster.com/the-happy-fits-indianapolis-indiana-03-18-2026/event/05006389CCAA97F8",
-      "dateLocal": "2026-03-18T23:00:00Z",
-      "dateDisplay": "2026-03-18 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "the-happy-fits-old-national-centre-2026-03-18-dGntLz",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZbsGkRrIeDL",
-      "name": "Zara Larsson: Midnight Sun Tour 2026",
-      "url": "https://www.ticketmaster.com/zara-larsson-midnight-sun-tour-2026-indianapolis-indiana-03-18-2026/event/0500631BDEA02EDF",
-      "dateLocal": "2026-03-19T00:00:00Z",
-      "dateDisplay": "2026-03-18 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "zara-larsson-midnight-sun-tour-2026-old-national-centre-2026-03-18-RrIeDL",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZk1pGkd1XNOD",
       "name": "Brandon Lake Ticket + Hotel Deals",
@@ -1435,6 +1407,34 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "5-seconds-of-summer-everyones-a-star-world-tour-ruoff-music-center-2026-07-25-d85ETD",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_AGkRd7m3w",
+      "name": "Beach Bunny",
+      "url": "https://www.ticketmaster.com/beach-bunny-indianapolis-indiana-07-26-2026/event/0500645BC312E4B2",
+      "dateLocal": "2026-07-27T00:00:00Z",
+      "dateDisplay": "2026-07-26 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "beach-bunny-old-national-centre-2026-07-26-Rd7m3w",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_dGkUpA6RT",
+      "name": "ZAYN: The Konnakol Tour",
+      "url": "https://www.ticketmaster.com/zayn-the-konnakol-tour-indianapolis-indiana-07-28-2026/event/0500643D96147BFF",
+      "dateLocal": "2026-07-29T00:00:00Z",
+      "dateDisplay": "2026-07-28 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Gainbridge Fieldhouse",
+      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
+      "venueId": "KovZpZA6keIA",
+      "slug": "zayn-the-konnakol-tour-gainbridge-fieldhouse-2026-07-28-UpA6RT",
       "source": "ticketmaster"
     }
   ]
