@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-19T11:03:39Z",
+  "generatedAt": "2026-03-20T10:58:26Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,50 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 102,
+  "count": 104,
   "events": [
-    {
-      "id": "vv1AAZk1pGkd1XNOD",
-      "name": "Brandon Lake Ticket + Hotel Deals",
-      "url": "https://travel.ticketmaster.com/tm-event/05006278A1FA1CE7?_uid=ac74da7d-8f54-4d50-8b7e-dbdb135f1d70&utm_source=TPR_BrandonLake&utm_medium=TM_ADP_319",
-      "dateLocal": "2026-03-19T23:00:00Z",
-      "dateDisplay": "2026-03-19 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Gainbridge Fieldhouse",
-      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
-      "venueId": "KovZpZA6keIA",
-      "slug": "brandon-lake-ticket-hotel-deals-gainbridge-fieldhouse-2026-03-19-d1XNOD",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkazGke-X-SE",
-      "name": "Brandon Lake - King of Hearts Tour",
-      "url": "https://www.ticketmaster.com/brandon-lake-king-of-hearts-tour-indianapolis-indiana-03-19-2026/event/05006278A1FA1CE7",
-      "dateLocal": "2026-03-19T23:00:00Z",
-      "dateDisplay": "2026-03-19 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Gainbridge Fieldhouse",
-      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
-      "venueId": "KovZpZA6keIA",
-      "slug": "brandon-lake-king-of-hearts-tour-gainbridge-fieldhouse-2026-03-19-e-X-SE",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZbzGkT8onC9",
-      "name": "Kentheman: Kinda Famous 2our",
-      "url": "https://www.ticketmaster.com/kentheman-kinda-famous-2our-indianapolis-indiana-03-19-2026/event/0500638FD046A397",
-      "dateLocal": "2026-03-20T00:00:00Z",
-      "dateDisplay": "2026-03-19 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "kentheman-kinda-famous-2our-old-national-centre-2026-03-19-T8onC9",
-      "source": "ticketmaster"
-    },
     {
       "id": "Z7r9jZ1A7rFu0",
       "name": "Star Wars: The Empire Strikes Back in Concert w/ Indianapolis Symphony Orchestra",
@@ -1435,6 +1393,76 @@
       "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
       "venueId": "KovZpZA6keIA",
       "slug": "zayn-the-konnakol-tour-gainbridge-fieldhouse-2026-07-28-UpA6RT",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkoxGkdjBmaZ",
+      "name": "Ashnikko: Smoochies Tour",
+      "url": "https://www.ticketmaster.com/ashnikko-smoochies-tour-indianapolis-indiana-07-29-2026/event/05006462DCEAE240",
+      "dateLocal": "2026-07-29T23:00:00Z",
+      "dateDisplay": "2026-07-29 19:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "ashnikko-smoochies-tour-old-national-centre-2026-07-29-djBmaZ",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_dGkmMzyAD",
+      "name": "Brit Floyd: The Moon, The Wall and Beyond",
+      "url": "https://www.ticketmaster.com/brit-floyd-the-moon-the-wall-indianapolis-indiana-07-29-2026/event/0500643BB7E3917B",
+      "dateLocal": "2026-07-30T00:00:00Z",
+      "dateDisplay": "2026-07-29 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "brit-floyd-the-moon-the-wall-and-beyond-everwise-amphitheater-at-white-river-state-park-20-mMzyAD",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_kGkiq50HG",
+      "name": "Margaritaville Presents Jimmy Buffett's Coral Reefer Band",
+      "url": "https://www.ticketmaster.com/margaritaville-presents-jimmy-buffetts-coral-reefer-indianapolis-indiana-07-30-2026/event/0500646B1D2E4F0C",
+      "dateLocal": "2026-07-30T23:30:00Z",
+      "dateDisplay": "2026-07-30 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "margaritaville-presents-jimmy-buffetts-coral-reefer-band-everwise-amphitheater-at-white-ri-iq50HG",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZku0GkdfV_BO",
+      "name": "TRAIN - Drops of Jupiter: 25 Years in the Atmosphere",
+      "url": "https://www.ticketmaster.com/train-drops-of-jupiter-25-years-noblesville-indiana-08-01-2026/event/05006364D4D19EA0",
+      "dateLocal": "2026-08-01T22:45:00Z",
+      "dateDisplay": "2026-08-01 18:45:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "train-drops-of-jupiter-25-years-in-the-atmosphere-ruoff-music-center-2026-08-01-dfV_BO",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkoKGkda-mH7",
+      "name": "Darius Rucker: Songs Of Summer Tour 2026",
+      "url": "https://www.ticketmaster.com/darius-rucker-songs-of-summer-tour-indianapolis-indiana-08-01-2026/event/05006453C986EF04",
+      "dateLocal": "2026-08-01T23:00:00Z",
+      "dateDisplay": "2026-08-01 19:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "darius-rucker-songs-of-summer-tour-2026-everwise-amphitheater-at-white-river-state-park-20-da-mH7",
       "source": "ticketmaster"
     }
   ]
