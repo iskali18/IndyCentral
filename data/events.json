@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-20T10:58:26Z",
+  "generatedAt": "2026-03-21T10:47:36Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,36 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 104,
+  "count": 105,
   "events": [
-    {
-      "id": "Z7r9jZ1A7rFu0",
-      "name": "Star Wars: The Empire Strikes Back in Concert w/ Indianapolis Symphony Orchestra",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7rFu0",
-      "dateLocal": "2026-03-20T23:00:00Z",
-      "dateDisplay": "2026-03-20 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Hilbert Circle Theatre",
-      "venueUrl": null,
-      "venueId": "ZFr9jZdd1A",
-      "slug": "star-wars-the-empire-strikes-back-in-concert-w-indianapolis-symphony-orchestra-hilbert-cir-A7rFu0",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkGsGkdP_9cU",
-      "name": "BRYCE CRAWFORD \"I LOVE JESUS U.S. TOUR\" ",
-      "url": "https://www.ticketmaster.com/bryce-crawford-i-love-jesus-us-indianapolis-indiana-03-20-2026/event/05006331E5657B76",
-      "dateLocal": "2026-03-20T23:00:00Z",
-      "dateDisplay": "2026-03-20 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "bryce-crawford-i-love-jesus-us-tour-old-national-centre-2026-03-20-dP_9cU",
-      "source": "ticketmaster"
-    },
     {
       "id": "Z7r9jZ1A7rFuP",
       "name": "Star Wars: The Empire Strikes Back in Concert w/ Indianapolis Symphony Orchestra",
@@ -1004,6 +976,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vv1AAZkosGkexSJDZ",
+      "name": "Myles Smith: My Mess, My Heart, My Life Tour",
+      "url": "https://www.ticketmaster.com/myles-smith-my-mess-my-heart-indianapolis-indiana-06-23-2026/event/05006471A2CE6EC0",
+      "dateLocal": "2026-06-23T22:30:00Z",
+      "dateDisplay": "2026-06-23 18:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "myles-smith-my-mess-my-heart-my-life-tour-everwise-amphitheater-at-white-river-state-park--exSJDZ",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv1AAZkoPGkdlcxRs",
       "name": "Earl Sweatshirt & MIKE - Home on the Range Tour 2026",
       "url": "https://www.ticketmaster.com/earl-sweatshirt-mike-home-on-the-indianapolis-indiana-06-24-2026/event/05006465EBB62BF1",
@@ -1463,6 +1449,34 @@
       "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
       "venueId": "KovZpZAEAAJA",
       "slug": "darius-rucker-songs-of-summer-tour-2026-everwise-amphitheater-at-white-river-state-park-20-da-mH7",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZko3Gkd93elx",
+      "name": "Cat Power",
+      "url": "https://www.ticketmaster.com/cat-power-indianapolis-indiana-08-01-2026/event/05006452D7482AE2",
+      "dateLocal": "2026-08-02T00:00:00Z",
+      "dateDisplay": "2026-08-01 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "cat-power-old-national-centre-2026-08-01-d93elx",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkuzGkdnoBEf",
+      "name": "Chicago & Styx: The Windy Cities Tour",
+      "url": "https://www.ticketmaster.com/chicago-styx-the-windy-cities-tour-noblesville-indiana-08-02-2026/event/05006378EA47A9D4",
+      "dateLocal": "2026-08-02T23:00:00Z",
+      "dateDisplay": "2026-08-02 19:00:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "chicago-styx-the-windy-cities-tour-ruoff-music-center-2026-08-02-dnoBEf",
       "source": "ticketmaster"
     }
   ]
