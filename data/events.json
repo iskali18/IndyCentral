@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-23T11:10:25Z",
+  "generatedAt": "2026-03-24T11:11:07Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -1382,6 +1382,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vv1kv8v0jyGACfyvU",
+      "name": "Dirty Heads and 311: So Glad You Made It Tour",
+      "url": "https://www.ticketmaster.com/dirty-heads-and-311-so-glad-indianapolis-indiana-08-02-2026/event/050064739E539076",
+      "dateLocal": "2026-08-02T21:30:00Z",
+      "dateDisplay": "2026-08-02 17:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "dirty-heads-and-311-so-glad-you-made-it-tour-everwise-amphitheater-at-white-river-state-pa-ACfyvU",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv1AAZkuzGkdnoBEf",
       "name": "Chicago & Styx: The Windy Cities Tour",
       "url": "https://www.ticketmaster.com/chicago-styx-the-windy-cities-tour-noblesville-indiana-08-02-2026/event/05006378EA47A9D4",
@@ -1477,20 +1491,6 @@
       "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
       "venueId": "KovZpZAdEJEA",
       "slug": "drum-corps-international-2026-world-championship-finals-lucas-oil-stadium-2026-08-08-YzYe8y",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZk8JGkdY7_ft",
-      "name": "Five Finger Death Punch",
-      "url": "https://www.ticketmaster.com/five-finger-death-punch-noblesville-indiana-08-08-2026/event/05006426F0119529",
-      "dateLocal": "2026-08-08T22:45:00Z",
-      "dateDisplay": "2026-08-08 18:45:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "five-finger-death-punch-ruoff-music-center-2026-08-08-dY7_ft",
       "source": "ticketmaster"
     }
   ]
