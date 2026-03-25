@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-24T11:11:07Z",
+  "generatedAt": "2026-03-25T11:09:42Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,7 +7,7 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 106,
+  "count": 108,
   "events": [
     {
       "id": "vv17fZbUGkRnYH7x",
@@ -893,7 +893,7 @@
     },
     {
       "id": "vv1AAZkosGkexSJDZ",
-      "name": "Myles Smith: My Mess, My Heart, My Life Tour",
+      "name": "Myles Smith - My Mess, My Heart, My Life Tour",
       "url": "https://www.ticketmaster.com/myles-smith-my-mess-my-heart-indianapolis-indiana-06-23-2026/event/05006471A2CE6EC0",
       "dateLocal": "2026-06-23T22:30:00Z",
       "dateDisplay": "2026-06-23 18:30:00",
@@ -1340,6 +1340,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vv11v8v0jYv-Gbv8",
+      "name": "Turnpike Troubadours",
+      "url": "https://www.ticketmaster.com/turnpike-troubadours-indianapolis-indiana-07-31-2026/event/050064730061318F",
+      "dateLocal": "2026-07-31T23:00:00Z",
+      "dateDisplay": "2026-07-31 19:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "turnpike-troubadours-everwise-amphitheater-at-white-river-state-park-2026-07-31-v-Gbv8",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv1AAZku0GkdfV_BO",
       "name": "TRAIN - Drops of Jupiter: 25 Years in the Atmosphere",
       "url": "https://www.ticketmaster.com/train-drops-of-jupiter-25-years-noblesville-indiana-08-01-2026/event/05006364D4D19EA0",
@@ -1393,6 +1407,20 @@
       "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
       "venueId": "KovZpZAEAAJA",
       "slug": "dirty-heads-and-311-so-glad-you-made-it-tour-everwise-amphitheater-at-white-river-state-pa-ACfyvU",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkosGkeBRa9K",
+      "name": "DRIVEWAYS with special guests Like Roses & Action/Adventure",
+      "url": "https://www.ticketmaster.com/driveways-with-special-guests-like-roses-indianapolis-indiana-08-02-2026/event/05006471BABC95D3",
+      "dateLocal": "2026-08-02T23:00:00Z",
+      "dateDisplay": "2026-08-02 19:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "driveways-with-special-guests-like-roses-actionadventure-old-national-centre-2026-08-02-eBRa9K",
       "source": "ticketmaster"
     },
     {
