@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-25T11:09:42Z",
+  "generatedAt": "2026-03-26T11:13:12Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -9,20 +9,6 @@
   },
   "count": 108,
   "events": [
-    {
-      "id": "vv17fZbUGkRnYH7x",
-      "name": "Two Feet: The Next Steps Tour",
-      "url": "https://www.ticketmaster.com/two-feet-the-next-steps-tour-indianapolis-indiana-03-25-2026/event/0500636BEAC3C122",
-      "dateLocal": "2026-03-26T00:00:00Z",
-      "dateDisplay": "2026-03-25 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "two-feet-the-next-steps-tour-old-national-centre-2026-03-25-RnYH7x",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZk8YGkeyulnG",
       "name": "Steel Panther - Twenty Twenty $ex Tour",
@@ -735,6 +721,20 @@
       "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
       "venueId": "KovZpZAdEJEA",
       "slug": "post-malone-presents-the-big-ass-stadium-tour-part-2-lucas-oil-stadium-2026-06-12-U2jJCD",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkoVGkdNEqb7",
+      "name": "Pradabagshawty presents: The Five Problems Tour",
+      "url": "https://www.ticketmaster.com/pradabagshawty-presents-the-five-problems-tour-indianapolis-indiana-06-12-2026/event/05006474E39DD604",
+      "dateLocal": "2026-06-13T00:00:00Z",
+      "dateDisplay": "2026-06-12 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "pradabagshawty-presents-the-five-problems-tour-old-national-centre-2026-06-12-dNEqb7",
       "source": "ticketmaster"
     },
     {
