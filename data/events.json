@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-27T11:08:52Z",
+  "generatedAt": "2026-03-28T10:52:18Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 108,
+  "count": 110,
   "events": [
-    {
-      "id": "vv1kv8v0o_GA19UnZ",
-      "name": "Forever K-Pop",
-      "url": "https://www.ticketmaster.com/forever-kpop-indianapolis-indiana-03-27-2026/event/050064459A5F6A80",
-      "dateLocal": "2026-03-27T23:30:00Z",
-      "dateDisplay": "2026-03-27 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "forever-k-pop-old-national-centre-2026-03-27-A19UnZ",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZkGYGkdhrfbf",
       "name": "Jason Isbell",
@@ -1032,6 +1018,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vv1AAZkoyGkegm_i4",
+      "name": "Muse - The Wow! Signal Tour",
+      "url": "https://www.ticketmaster.com/muse-the-wow-signal-tour-noblesville-indiana-07-07-2026/event/05006479B5B99B15",
+      "dateLocal": "2026-07-07T23:00:00Z",
+      "dateDisplay": "2026-07-07 19:00:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "muse-the-wow-signal-tour-ruoff-music-center-2026-07-07-egm_i4",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv1kfZbMONG7DGgw",
       "name": "Evanescence 2026 World Tour with Spiritbox and Nova Twins",
       "url": "https://www.ticketmaster.com/evanescence-2026-world-tour-with-spiritbox-noblesville-indiana-07-09-2026/event/0500637823ECCD72",
@@ -1519,6 +1519,34 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "five-finger-death-punch-ruoff-music-center-2026-08-08-dY7_ft",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkoJGkd9fOWS",
+      "name": "Banda MS de Sergio Lizarraga - Somos Tour",
+      "url": "https://www.ticketmaster.com/banda-ms-de-sergio-lizarraga-somos-indianapolis-indiana-08-08-2026/event/05006466D7520F73",
+      "dateLocal": "2026-08-09T00:00:00Z",
+      "dateDisplay": "2026-08-08 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Gainbridge Fieldhouse",
+      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
+      "venueId": "KovZpZA6keIA",
+      "slug": "banda-ms-de-sergio-lizarraga-somos-tour-gainbridge-fieldhouse-2026-08-08-d9fOWS",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_7GkDpaoAq",
+      "name": "Young the Giant - Victory Garden Tour with Cold War Kids",
+      "url": "https://www.ticketmaster.com/young-the-giant-victory-garden-tour-indianapolis-indiana-08-09-2026/event/0500644ED625115D",
+      "dateLocal": "2026-08-09T22:30:00Z",
+      "dateDisplay": "2026-08-09 18:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "young-the-giant-victory-garden-tour-with-cold-war-kids-everwise-amphitheater-at-white-rive-DpaoAq",
       "source": "ticketmaster"
     }
   ]
