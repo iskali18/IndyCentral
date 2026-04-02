@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-01T11:15:23Z",
+  "generatedAt": "2026-04-02T11:11:33Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,7 +7,7 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 108,
+  "count": 107,
   "events": [
     {
       "id": "vv17fZbUGkUichk_",
@@ -413,6 +413,20 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "architects-old-national-centre-2026-05-15-dosQlz",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_6GkDj1j_v",
+      "name": "Natalie Nunn",
+      "url": "https://www.ticketmaster.com/natalie-nunn-indianapolis-indiana-05-15-2026/event/0500647EDC29C641",
+      "dateLocal": "2026-05-16T02:00:00Z",
+      "dateDisplay": "2026-05-15 22:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "natalie-nunn-old-national-centre-2026-05-15-Dj1j_v",
       "source": "ticketmaster"
     },
     {
@@ -1491,34 +1505,6 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "five-finger-death-punch-ruoff-music-center-2026-08-08-dY7_ft",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkoJGkd9fOWS",
-      "name": "Banda MS de Sergio Lizarraga - Somos Tour",
-      "url": "https://www.ticketmaster.com/banda-ms-de-sergio-lizarraga-somos-indianapolis-indiana-08-08-2026/event/05006466D7520F73",
-      "dateLocal": "2026-08-09T00:00:00Z",
-      "dateDisplay": "2026-08-08 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Gainbridge Fieldhouse",
-      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
-      "venueId": "KovZpZA6keIA",
-      "slug": "banda-ms-de-sergio-lizarraga-somos-tour-gainbridge-fieldhouse-2026-08-08-d9fOWS",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZ_7GkDpaoAq",
-      "name": "Young the Giant - Victory Garden Tour with Cold War Kids",
-      "url": "https://www.ticketmaster.com/young-the-giant-victory-garden-tour-indianapolis-indiana-08-09-2026/event/0500644ED625115D",
-      "dateLocal": "2026-08-09T22:30:00Z",
-      "dateDisplay": "2026-08-09 18:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "young-the-giant-victory-garden-tour-with-cold-war-kids-everwise-amphitheater-at-white-rive-DpaoAq",
       "source": "ticketmaster"
     }
   ]
