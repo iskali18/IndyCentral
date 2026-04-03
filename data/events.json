@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-02T11:11:33Z",
+  "generatedAt": "2026-04-03T11:05:01Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 107,
+  "count": 108,
   "events": [
-    {
-      "id": "vv17fZbUGkUichk_",
-      "name": "Celtic Woman: A New Era",
-      "url": "https://www.ticketmaster.com/celtic-woman-a-new-era-indianapolis-indiana-04-02-2026/event/0500636DACB5B199",
-      "dateLocal": "2026-04-02T23:30:00Z",
-      "dateDisplay": "2026-04-02 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "celtic-woman-a-new-era-old-national-centre-2026-04-02-Uichk_",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZkueGkd0c_65",
       "name": "I SEE STARS SPIN THE WHEEL TOUR",
@@ -539,6 +525,20 @@
       "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
       "venueId": "KovZpZA6keIA",
       "slug": "megan-moroney-the-cloud-9-tour-gainbridge-fieldhouse-2026-05-30-doklA5",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_6GkDlFu37",
+      "name": "¡NOCHE LATINA! (18+)",
+      "url": "https://www.ticketmaster.com/noche-latina-18-indianapolis-indiana-05-30-2026/event/0500647EEB20D484",
+      "dateLocal": "2026-05-31T01:00:00Z",
+      "dateDisplay": "2026-05-30 21:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "noche-latina-18-old-national-centre-2026-05-30-DlFu37",
       "source": "ticketmaster"
     },
     {
@@ -1505,6 +1505,20 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "five-finger-death-punch-ruoff-music-center-2026-08-08-dY7_ft",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkoJGkd9fOWS",
+      "name": "Banda MS de Sergio Lizarraga - Somos Tour",
+      "url": "https://www.ticketmaster.com/banda-ms-de-sergio-lizarraga-somos-indianapolis-indiana-08-08-2026/event/05006466D7520F73",
+      "dateLocal": "2026-08-09T00:00:00Z",
+      "dateDisplay": "2026-08-08 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Gainbridge Fieldhouse",
+      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
+      "venueId": "KovZpZA6keIA",
+      "slug": "banda-ms-de-sergio-lizarraga-somos-tour-gainbridge-fieldhouse-2026-08-08-d9fOWS",
       "source": "ticketmaster"
     }
   ]
