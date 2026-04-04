@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T11:05:01Z",
+  "generatedAt": "2026-04-04T10:54:17Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 108,
+  "count": 109,
   "events": [
-    {
-      "id": "vv1AAZkueGkd0c_65",
-      "name": "I SEE STARS SPIN THE WHEEL TOUR",
-      "url": "https://www.ticketmaster.com/i-see-stars-spin-the-wheel-indianapolis-indiana-04-03-2026/event/05006342E4B591CB",
-      "dateLocal": "2026-04-03T23:00:00Z",
-      "dateDisplay": "2026-04-03 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "i-see-stars-spin-the-wheel-tour-old-national-centre-2026-04-03-d0c_65",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZ_eGkUyAEdB",
       "name": "Anime Night (18+)",
@@ -469,6 +455,20 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "dance-gavin-dance-with-special-guests-old-national-centre-2026-05-22-R0aj0t",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "LvZ18QjUFAts8IYvG20dA",
+      "name": "R&B ONLY LIVE - Indianapolis, IN",
+      "url": "https://www.universe.com/events/r-b-only-live-indianapolis-in-tickets-ZX08DW?ref=ticketmaster",
+      "dateLocal": "2026-05-23T00:00:00Z",
+      "dateDisplay": "2026-05-22 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "rb-only-live-indianapolis-in-old-national-centre-2026-05-22-vG20dA",
       "source": "ticketmaster"
     },
     {
@@ -1519,6 +1519,20 @@
       "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
       "venueId": "KovZpZA6keIA",
       "slug": "banda-ms-de-sergio-lizarraga-somos-tour-gainbridge-fieldhouse-2026-08-08-d9fOWS",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_7GkDpaoAq",
+      "name": "Young the Giant - Victory Garden Tour with Cold War Kids",
+      "url": "https://www.ticketmaster.com/young-the-giant-victory-garden-tour-indianapolis-indiana-08-09-2026/event/0500644ED625115D",
+      "dateLocal": "2026-08-09T22:30:00Z",
+      "dateDisplay": "2026-08-09 18:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "young-the-giant-victory-garden-tour-with-cold-war-kids-everwise-amphitheater-at-white-rive-DpaoAq",
       "source": "ticketmaster"
     }
   ]
