@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-04T10:54:17Z",
+  "generatedAt": "2026-04-05T10:55:38Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 109,
+  "count": 111,
   "events": [
-    {
-      "id": "vv17fZ_eGkUyAEdB",
-      "name": "Anime Night (18+)",
-      "url": "https://www.ticketmaster.com/anime-night-18-indianapolis-indiana-04-04-2026/event/0500642DB91670FA",
-      "dateLocal": "2026-04-04T23:00:00Z",
-      "dateDisplay": "2026-04-04 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "anime-night-18-old-national-centre-2026-04-04-UyAEdB",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1kv8vNjtGAC8bdM",
       "name": "Indigo De Souza",
@@ -1533,6 +1519,48 @@
       "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
       "venueId": "KovZpZAEAAJA",
       "slug": "young-the-giant-victory-garden-tour-with-cold-war-kids-everwise-amphitheater-at-white-rive-DpaoAq",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkodGkdaOtQA",
+      "name": "Simple Plan: Bigger Than You Think! Tour - The Sequel!",
+      "url": "https://www.ticketmaster.com/simple-plan-bigger-than-you-think-indianapolis-indiana-08-11-2026/event/05006443C9829685",
+      "dateLocal": "2026-08-11T23:00:00Z",
+      "dateDisplay": "2026-08-11 19:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "simple-plan-bigger-than-you-think-tour-the-sequel-everwise-amphitheater-at-white-river-sta-daOtQA",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZbzGkRdCWxL",
+      "name": "Tori Amos - In Times of Dragons Tour",
+      "url": "https://www.ticketmaster.com/tori-amos-in-times-of-dragons-indianapolis-indiana-08-11-2026/event/0500638BC33BD89F",
+      "dateLocal": "2026-08-11T23:30:00Z",
+      "dateDisplay": "2026-08-11 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "tori-amos-in-times-of-dragons-tour-old-national-centre-2026-08-11-RdCWxL",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_kGklfojbJ",
+      "name": "ANDY GRAMMER - THE BIG STUPID HEART TOUR",
+      "url": "https://www.ticketmaster.com/andy-grammer-the-big-stupid-heart-indianapolis-indiana-08-12-2026/event/0500646AD445C626",
+      "dateLocal": "2026-08-12T23:30:00Z",
+      "dateDisplay": "2026-08-12 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "andy-grammer-the-big-stupid-heart-tour-everwise-amphitheater-at-white-river-state-park-202-lfojbJ",
       "source": "ticketmaster"
     }
   ]
