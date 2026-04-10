@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T11:17:33Z",
+  "generatedAt": "2026-04-10T11:13:25Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 111,
+  "count": 112,
   "events": [
-    {
-      "id": "vv1kfZbw8VG7MEmd",
-      "name": "Andrew Bird With The Indianapolis Symphony Orchestra",
-      "url": "https://www.ticketmaster.com/andrew-bird-with-the-indianapolis-symphony-indianapolis-indiana-04-09-2026/event/0500632434DE7B83",
-      "dateLocal": "2026-04-09T23:30:00Z",
-      "dateDisplay": "2026-04-09 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Clowes Memorial Hall",
-      "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
-      "venueId": "KovZpZAJdEkA",
-      "slug": "andrew-bird-with-the-indianapolis-symphony-orchestra-clowes-memorial-hall-2026-04-09-G7MEmd",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZ_dGkD5lugl",
       "name": "Earlybirds Club (21+)",
@@ -525,6 +511,20 @@
       "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
       "venueId": "KovZpZAJdEkA",
       "slug": "djg-celebration-of-choirs-clowes-memorial-hall-2026-05-31-Z72ae1",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZk3aGkdqqGgo",
+      "name": "DEVO MEET & GREET UPGRADE (EVENT TICKET SOLD SEPARATELY)",
+      "url": "https://www.ticketmaster.com/devo-meet-greet-upgrade-event-ticket-indianapolis-indiana-06-02-2026/event/05006489DD74CD51",
+      "dateLocal": "2026-06-03T00:00:00Z",
+      "dateDisplay": "2026-06-02 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "devo-meet-greet-upgrade-event-ticket-sold-separately-old-national-centre-2026-06-02-dqqGgo",
       "source": "ticketmaster"
     },
     {
@@ -1155,6 +1155,20 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "flyleaf-with-lacey-sturm-20th-anniversary-tour-old-national-centre-2026-07-21-dUn93A",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZk36GkdL3hE3",
+      "name": "JACK WHITE LIVE 2026",
+      "url": "https://www.ticketmaster.com/jack-white-live-2026-indianapolis-indiana-07-21-2026/event/05006487DF49B9D2",
+      "dateLocal": "2026-07-22T00:00:00Z",
+      "dateDisplay": "2026-07-21 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "jack-white-live-2026-everwise-amphitheater-at-white-river-state-park-2026-07-21-dL3hE3",
       "source": "ticketmaster"
     },
     {
