@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T11:13:25Z",
+  "generatedAt": "2026-04-11T10:56:32Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,36 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 112,
+  "count": 115,
   "events": [
-    {
-      "id": "vv17fZ_dGkD5lugl",
-      "name": "Earlybirds Club (21+)",
-      "url": "https://www.ticketmaster.com/earlybirds-club-21-indianapolis-indiana-04-10-2026/event/0500643ECBACDD6B",
-      "dateLocal": "2026-04-10T22:00:00Z",
-      "dateDisplay": "2026-04-10 18:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "earlybirds-club-21-old-national-centre-2026-04-10-D5lugl",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZbVGkBwRMVI",
-      "name": "Pat Metheny",
-      "url": "https://www.ticketmaster.com/pat-metheny-indianapolis-indiana-04-10-2026/event/0500634EB2BF7D28",
-      "dateLocal": "2026-04-11T00:00:00Z",
-      "dateDisplay": "2026-04-10 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Clowes Memorial Hall",
-      "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
-      "venueId": "KovZpZAJdEkA",
-      "slug": "pat-metheny-clowes-memorial-hall-2026-04-10-BwRMVI",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1Fv8vNpZuZZ75Gk8",
       "name": "Max McNown - The Cost of Growing Up Tour",
@@ -511,20 +483,6 @@
       "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
       "venueId": "KovZpZAJdEkA",
       "slug": "djg-celebration-of-choirs-clowes-memorial-hall-2026-05-31-Z72ae1",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZk3aGkdqqGgo",
-      "name": "DEVO MEET & GREET UPGRADE (EVENT TICKET SOLD SEPARATELY)",
-      "url": "https://www.ticketmaster.com/devo-meet-greet-upgrade-event-ticket-indianapolis-indiana-06-02-2026/event/05006489DD74CD51",
-      "dateLocal": "2026-06-03T00:00:00Z",
-      "dateDisplay": "2026-06-02 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "devo-meet-greet-upgrade-event-ticket-sold-separately-old-national-centre-2026-06-02-dqqGgo",
       "source": "ticketmaster"
     },
     {
@@ -1575,6 +1533,90 @@
       "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
       "venueId": "KovZpZAEAAJA",
       "slug": "andy-grammer-the-big-stupid-heart-tour-everwise-amphitheater-at-white-river-state-park-202-lfojbJ",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_AGkmIb5bc",
+      "name": "moe.mentUM Tour: moe. & Umphrey's McGee",
+      "url": "https://www.ticketmaster.com/moementum-tour-moe-umphreys-mcgee-indianapolis-indiana-08-13-2026/event/0500645BA860B62D",
+      "dateLocal": "2026-08-13T22:30:00Z",
+      "dateDisplay": "2026-08-13 18:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "moementum-tour-moe-umphreys-mcgee-everwise-amphitheater-at-white-river-state-park-2026-08--mIb5bc",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_dGkR8Ylds",
+      "name": "American Football",
+      "url": "https://www.ticketmaster.com/american-football-indianapolis-indiana-08-13-2026/event/0500643BD0C2B0F1",
+      "dateLocal": "2026-08-14T00:00:00Z",
+      "dateDisplay": "2026-08-13 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "american-football-old-national-centre-2026-08-13-R8Ylds",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_dGkmmQzbn",
+      "name": "Motionless In White: The Sweat and Blood Tour",
+      "url": "https://www.ticketmaster.com/motionless-in-white-the-sweat-and-indianapolis-indiana-08-14-2026/event/0500643BAE6B862A",
+      "dateLocal": "2026-08-14T22:30:00Z",
+      "dateDisplay": "2026-08-14 18:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "motionless-in-white-the-sweat-and-blood-tour-everwise-amphitheater-at-white-river-state-pa-mmQzbn",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZk8gGkdrZGJh",
+      "name": "Bonnie Raitt: Live 2026",
+      "url": "https://www.ticketmaster.com/bonnie-raitt-live-2026-indianapolis-indiana-08-20-2026/event/05006435DE00C99B",
+      "dateLocal": "2026-08-20T23:30:00Z",
+      "dateDisplay": "2026-08-20 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "bonnie-raitt-live-2026-old-national-centre-2026-08-20-drZGJh",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkoYGkd7i5LZ",
+      "name": "TLC & Salt-N-Pepa with En Vogue - IT'S ICONIC",
+      "url": "https://www.ticketmaster.com/tlc-saltnpepa-with-en-vogue-its-noblesville-indiana-08-20-2026/event/05006470C4B0B7C0",
+      "dateLocal": "2026-08-20T23:30:00Z",
+      "dateDisplay": "2026-08-20 19:30:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "tlc-salt-n-pepa-with-en-vogue-its-iconic-ruoff-music-center-2026-08-20-d7i5LZ",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZk8gGkdOcjVO",
+      "name": "Tedeschi Trucks Band and Alabama Shakes",
+      "url": "https://www.ticketmaster.com/tedeschi-trucks-band-and-alabama-shakes-noblesville-indiana-08-22-2026/event/05006435E0B5CD20",
+      "dateLocal": "2026-08-22T23:30:00Z",
+      "dateDisplay": "2026-08-22 19:30:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "tedeschi-trucks-band-and-alabama-shakes-ruoff-music-center-2026-08-22-dOcjVO",
       "source": "ticketmaster"
     }
   ]
