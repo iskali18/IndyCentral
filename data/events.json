@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T10:56:32Z",
+  "generatedAt": "2026-04-12T11:01:28Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,7 +7,7 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 115,
+  "count": 117,
   "events": [
     {
       "id": "vv1Fv8vNpZuZZ75Gk8",
@@ -1617,6 +1617,34 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "tedeschi-trucks-band-and-alabama-shakes-ruoff-music-center-2026-08-22-dOcjVO",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv16AZk8g0UZA86FFd",
+      "name": "LINDSEY STIRLING - DUALITY UNTAMED TOUR",
+      "url": "https://www.ticketmaster.com/lindsey-stirling-duality-untamed-tour-indianapolis-indiana-08-22-2026/event/05006435936F6772",
+      "dateLocal": "2026-08-23T00:00:00Z",
+      "dateDisplay": "2026-08-22 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "lindsey-stirling-duality-untamed-tour-everwise-amphitheater-at-white-river-state-park-2026-A86FFd",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkoUGkd36ycL",
+      "name": "Outlaw Festival: Willie Nelson, Avett Brothers, Lukas Nelson & More!",
+      "url": "https://www.ticketmaster.com/outlaw-festival-willie-nelson-avett-brothers-noblesville-indiana-08-23-2026/event/05006476D21F9B5F",
+      "dateLocal": "2026-08-23T19:20:00Z",
+      "dateDisplay": "2026-08-23 15:20:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "outlaw-festival-willie-nelson-avett-brothers-lukas-nelson-more-ruoff-music-center-2026-08--d36ycL",
       "source": "ticketmaster"
     }
   ]
