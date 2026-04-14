@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13T11:43:18Z",
+  "generatedAt": "2026-04-14T11:31:12Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,7 +7,7 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 117,
+  "count": 119,
   "events": [
     {
       "id": "vv1Fv8vNpZuZZ75Gk8",
@@ -1032,6 +1032,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vv1AAZk36GkdLwDtm",
+      "name": "The Strokes - Reality Awaits North America",
+      "url": "https://www.ticketmaster.com/the-strokes-reality-awaits-north-america-noblesville-indiana-07-15-2026/event/05006487DFCBBA6E",
+      "dateLocal": "2026-07-15T23:00:00Z",
+      "dateDisplay": "2026-07-15 19:00:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "the-strokes-reality-awaits-north-america-ruoff-music-center-2026-07-15-dLwDtm",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv17fZ_dGkR2qnTP",
       "name": "Southern Hospitality Tour: The Black Crowes and Whiskey Myers",
       "url": "https://www.ticketmaster.com/southern-hospitality-tour-the-black-crowes-noblesville-indiana-07-17-2026/event/0500643BCF76AFE5",
@@ -1645,6 +1659,20 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "outlaw-festival-willie-nelson-avett-brothers-lukas-nelson-more-ruoff-music-center-2026-08--d36ycL",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkowGkdeXQrY",
+      "name": "Deep Purple with Special Guest Kansas",
+      "url": "https://www.ticketmaster.com/deep-purple-with-special-guest-kansas-indianapolis-indiana-08-24-2026/event/05006472C2F9A7B0",
+      "dateLocal": "2026-08-24T22:00:00Z",
+      "dateDisplay": "2026-08-24 18:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "deep-purple-with-special-guest-kansas-everwise-amphitheater-at-white-river-state-park-2026-deXQrY",
       "source": "ticketmaster"
     }
   ]
