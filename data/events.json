@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T11:31:54Z",
+  "generatedAt": "2026-04-17T11:14:40Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,7 +7,7 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 121,
+  "count": 123,
   "events": [
     {
       "id": "vv1AAZkCdGkdpiNGX",
@@ -1701,6 +1701,34 @@
       "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
       "venueId": "KovZpZAEAAJA",
       "slug": "caamp-everwise-amphitheater-at-white-river-state-park-2026-08-26-wU1ism",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZbUGkzAA00L",
+      "name": "The Return Of The Carnival Of Sins: Mötley Crüe",
+      "url": "https://www.ticketmaster.com/the-return-of-the-carnival-of-noblesville-indiana-08-28-2026/event/0500636E0516491F",
+      "dateLocal": "2026-08-28T22:30:00Z",
+      "dateDisplay": "2026-08-28 18:30:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "the-return-of-the-carnival-of-sins-mötley-crüe-ruoff-music-center-2026-08-28-zAA00L",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkoPGkezxGS-",
+      "name": "NEEDTOBREATHE: The Long Surrender Tour",
+      "url": "https://www.ticketmaster.com/needtobreathe-the-long-surrender-tour-indianapolis-indiana-08-29-2026/event/05006465B888CCE1",
+      "dateLocal": "2026-08-29T23:00:00Z",
+      "dateDisplay": "2026-08-29 19:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "needtobreathe-the-long-surrender-tour-everwise-amphitheater-at-white-river-state-park-2026-ezxGS-",
       "source": "ticketmaster"
     }
   ]
