@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-17T11:14:40Z",
+  "generatedAt": "2026-04-18T11:02:54Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 123,
+  "count": 126,
   "events": [
-    {
-      "id": "vv1AAZkCdGkdpiNGX",
-      "name": "Nate Smith: Long Live Country Rock And Roll Tour",
-      "url": "https://www.ticketmaster.com/nate-smith-long-live-country-rock-indianapolis-indiana-04-17-2026/event/05006383D6B2333E",
-      "dateLocal": "2026-04-18T00:30:00Z",
-      "dateDisplay": "2026-04-17 20:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "nate-smith-long-live-country-rock-and-roll-tour-old-national-centre-2026-04-17-dpiNGX",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZk8YGkeTMiCv",
       "name": "SEVENDUST ONE TOUR",
@@ -1729,6 +1715,62 @@
       "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
       "venueId": "KovZpZAEAAJA",
       "slug": "needtobreathe-the-long-surrender-tour-everwise-amphitheater-at-white-river-state-park-2026-ezxGS-",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1kfZ_61FG7Sf6_",
+      "name": "Kesha: The Freedom Tour",
+      "url": "https://www.ticketmaster.com/kesha-the-freedom-tour-noblesville-indiana-08-30-2026/event/0500647288CD41D9",
+      "dateLocal": "2026-08-30T23:00:00Z",
+      "dateDisplay": "2026-08-30 19:00:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "kesha-the-freedom-tour-ruoff-music-center-2026-08-30-G7Sf6_",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkupGkdclIr9",
+      "name": "O.A.R. Three Decades Tour",
+      "url": "https://www.ticketmaster.com/oar-three-decades-tour-indianapolis-indiana-09-03-2026/event/05006356EDAE8797",
+      "dateLocal": "2026-09-03T22:30:00Z",
+      "dateDisplay": "2026-09-03 18:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "oar-three-decades-tour-everwise-amphitheater-at-white-river-state-park-2026-09-03-dclIr9",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_6GknHqytk",
+      "name": "BABYMETAL WORLD TOUR 2026",
+      "url": "https://www.ticketmaster.com/babymetal-world-tour-2026-noblesville-indiana-09-05-2026/event/0500647ABC779A46",
+      "dateLocal": "2026-09-05T23:20:00Z",
+      "dateDisplay": "2026-09-05 19:20:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "babymetal-world-tour-2026-ruoff-music-center-2026-09-05-nHqytk",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_eGkUKdKWw",
+      "name": "Rob Zombie & Marilyn Manson with The Hu & Orgy",
+      "url": "https://www.ticketmaster.com/rob-zombie-marilyn-manson-with-the-noblesville-indiana-09-06-2026/event/0500642D930D3F72",
+      "dateLocal": "2026-09-06T22:30:00Z",
+      "dateDisplay": "2026-09-06 18:30:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "rob-zombie-marilyn-manson-with-the-hu-orgy-ruoff-music-center-2026-09-06-UKdKWw",
       "source": "ticketmaster"
     }
   ]
