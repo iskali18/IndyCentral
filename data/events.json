@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T11:02:54Z",
+  "generatedAt": "2026-04-19T11:01:47Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,7 +7,7 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 126,
+  "count": 128,
   "events": [
     {
       "id": "vv1AAZk8YGkeTMiCv",
@@ -1771,6 +1771,34 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "rob-zombie-marilyn-manson-with-the-hu-orgy-ruoff-music-center-2026-09-06-UKdKWw",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkoAGkexj9ns",
+      "name": "Bilmuri - Kinda Hard Tour",
+      "url": "https://www.ticketmaster.com/bilmuri-kinda-hard-tour-indianapolis-indiana-09-08-2026/event/05006445A2717AB1",
+      "dateLocal": "2026-09-08T23:00:00Z",
+      "dateDisplay": "2026-09-08 19:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "bilmuri-kinda-hard-tour-old-national-centre-2026-09-08-exj9ns",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkozGkdv4tsV",
+      "name": "Dermot Kennedy: The Weight of the Woods Tour",
+      "url": "https://www.ticketmaster.com/dermot-kennedy-the-weight-of-the-indianapolis-indiana-09-08-2026/event/05006478C1569C74",
+      "dateLocal": "2026-09-09T00:00:00Z",
+      "dateDisplay": "2026-09-08 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "dermot-kennedy-the-weight-of-the-woods-tour-everwise-amphitheater-at-white-river-state-par-dv4tsV",
       "source": "ticketmaster"
     }
   ]
