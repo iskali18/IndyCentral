@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T11:01:47Z",
+  "generatedAt": "2026-04-20T11:44:25Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,7 +7,7 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 128,
+  "count": 131,
   "events": [
     {
       "id": "vv1AAZk8YGkeTMiCv",
@@ -1799,6 +1799,48 @@
       "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
       "venueId": "KovZpZAEAAJA",
       "slug": "dermot-kennedy-the-weight-of-the-woods-tour-everwise-amphitheater-at-white-river-state-par-dv4tsV",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZbyGklNuhph",
+      "name": "Bruno Mars - The Romantic Tour",
+      "url": "https://www.ticketmaster.com/bruno-mars-the-romantic-tour-indianapolis-indiana-09-09-2026/event/0500639AE335B59B",
+      "dateLocal": "2026-09-09T23:00:00Z",
+      "dateDisplay": "2026-09-09 19:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Lucas Oil Stadium",
+      "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
+      "venueId": "KovZpZAdEJEA",
+      "slug": "bruno-mars-the-romantic-tour-lucas-oil-stadium-2026-09-09-lNuhph",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_kGkRPLX3O",
+      "name": "93.9X Presents: The Pretty Reckless - Dear God Tour",
+      "url": "https://www.ticketmaster.com/939x-presents-the-pretty-reckless-dear-indianapolis-indiana-09-09-2026/event/0500646BE57FE4A0",
+      "dateLocal": "2026-09-10T00:00:00Z",
+      "dateDisplay": "2026-09-09 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "939x-presents-the-pretty-reckless-dear-god-tour-old-national-centre-2026-09-09-RPLX3O",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_dGkm9Kgg9",
+      "name": "CANN PRESENTS: YACHT ROCK REVUE - PRIMETIME",
+      "url": "https://www.ticketmaster.com/cann-presents-yacht-rock-revue-primetime-noblesville-indiana-09-12-2026/event/0500643B974F5D57",
+      "dateLocal": "2026-09-13T00:00:00Z",
+      "dateDisplay": "2026-09-12 20:00:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "cann-presents-yacht-rock-revue-primetime-ruoff-music-center-2026-09-12-m9Kgg9",
       "source": "ticketmaster"
     }
   ]
