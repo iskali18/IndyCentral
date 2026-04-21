@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T11:44:25Z",
+  "generatedAt": "2026-04-21T11:33:50Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -9,20 +9,6 @@
   },
   "count": 131,
   "events": [
-    {
-      "id": "vv1AAZk8YGkeTMiCv",
-      "name": "SEVENDUST ONE TOUR",
-      "url": "https://www.ticketmaster.com/sevendust-one-tour-indianapolis-indiana-04-20-2026/event/05006430BFDEC381",
-      "dateLocal": "2026-04-20T22:50:00Z",
-      "dateDisplay": "2026-04-20 18:50:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "sevendust-one-tour-old-national-centre-2026-04-20-eTMiCv",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZ_7GkSOks1W",
       "name": "Nettspend - early life crisis",
@@ -1841,6 +1827,20 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "cann-presents-yacht-rock-revue-primetime-ruoff-music-center-2026-09-12-m9Kgg9",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZk8MGkePzDvw",
+      "name": "WTTS Rock on the River - Mt. Joy 2026: Celebrating 10 Years of Mt. Joy",
+      "url": "https://www.ticketmaster.com/wtts-rock-on-the-river-mt-indianapolis-indiana-09-15-2026/event/05006437A5E3B072",
+      "dateLocal": "2026-09-15T23:30:00Z",
+      "dateDisplay": "2026-09-15 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "wtts-rock-on-the-river-mt-joy-2026-celebrating-10-years-of-mt-joy-everwise-amphitheater-at-ePzDvw",
       "source": "ticketmaster"
     }
   ]
