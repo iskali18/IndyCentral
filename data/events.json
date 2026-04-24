@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T11:33:31Z",
+  "generatedAt": "2026-04-24T11:36:02Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 132,
+  "count": 134,
   "events": [
-    {
-      "id": "vv17fZbVGkDbGzU9",
-      "name": "Puscifer",
-      "url": "https://www.ticketmaster.com/puscifer-indianapolis-indiana-04-23-2026/event/0500634ED8338D97",
-      "dateLocal": "2026-04-23T23:30:00Z",
-      "dateDisplay": "2026-04-23 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "puscifer-old-national-centre-2026-04-23-DbGzU9",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZk8IGkd6HbCK",
       "name": "jigitz: 360 set",
@@ -1855,6 +1841,48 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "cann-presents-yacht-rock-revue-primetime-ruoff-music-center-2026-09-12-m9Kgg9",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZk8MGkePzDvw",
+      "name": "WTTS Rock on the River - Mt. Joy 2026: Celebrating 10 Years of Mt. Joy",
+      "url": "https://www.ticketmaster.com/wtts-rock-on-the-river-mt-indianapolis-indiana-09-15-2026/event/05006437A5E3B072",
+      "dateLocal": "2026-09-15T23:30:00Z",
+      "dateDisplay": "2026-09-15 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "wtts-rock-on-the-river-mt-joy-2026-celebrating-10-years-of-mt-joy-everwise-amphitheater-at-ePzDvw",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_7GkYHxHOG",
+      "name": "Breaking Benjamin",
+      "url": "https://www.ticketmaster.com/breaking-benjamin-noblesville-indiana-09-16-2026/event/0500644C3C8BC80C",
+      "dateLocal": "2026-09-16T22:00:00Z",
+      "dateDisplay": "2026-09-16 18:00:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "breaking-benjamin-ruoff-music-center-2026-09-16-YHxHOG",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_kGkUimnr7",
+      "name": "Herb Alpert & The Tijuana Brass",
+      "url": "https://www.ticketmaster.com/herb-alpert-the-tijuana-brass-indianapolis-indiana-09-16-2026/event/0500646DACBAA784",
+      "dateLocal": "2026-09-16T23:30:00Z",
+      "dateDisplay": "2026-09-16 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Clowes Memorial Hall",
+      "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
+      "venueId": "KovZpZAJdEkA",
+      "slug": "herb-alpert-the-tijuana-brass-clowes-memorial-hall-2026-09-16-Uimnr7",
       "source": "ticketmaster"
     }
   ]
