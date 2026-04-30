@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T11:55:19Z",
+  "generatedAt": "2026-04-30T11:54:08Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 134,
+  "count": 132,
   "events": [
-    {
-      "id": "vv1AAZkC7GkewznwV",
-      "name": "David and Tamela Mann: The Love & Relationship Tour",
-      "url": "https://www.ticketmaster.com/david-and-tamela-mann-the-love-indianapolis-indiana-04-29-2026/event/05006384B2E2ACB4",
-      "dateLocal": "2026-04-29T23:30:00Z",
-      "dateDisplay": "2026-04-29 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "david-and-tamela-mann-the-love-relationship-tour-old-national-centre-2026-04-29-ewznwV",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZ_eGkS4wFxX",
       "name": "Juvenile's Boiling Point Album Release Tour w/ The 400 Degreez Band",
@@ -486,20 +472,6 @@
       "source": "ticketmaster"
     },
     {
-      "id": "LvZ18QrouH0z4PYZMYpor",
-      "name": "R&B ONLY LIVE - Montclair, NJ",
-      "url": "https://www.universe.com/events/r-b-only-live-montclair-nj-tickets-7D0NKJ?ref=ticketmaster",
-      "dateLocal": "2026-06-12T23:30:00Z",
-      "dateDisplay": "2026-06-12 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "rb-only-live-montclair-nj-old-national-centre-2026-06-12-ZMYpor",
-      "source": "ticketmaster"
-    },
-    {
       "id": "vv17fZ_dGkU2jJCD",
       "name": "Post Malone Presents: The BIG ASS Stadium Tour Part 2",
       "url": "https://www.ticketmaster.com/post-malone-presents-the-big-ass-indianapolis-indiana-06-12-2026/event/0500643D8F7263BB",
@@ -539,20 +511,6 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "meghan-trainor-the-get-in-girl-tour-ruoff-music-center-2026-06-13-RAdnhv",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "LvZ18QrQzWCacmYZMYkf6",
-      "name": "R&B ONLY LIVE - Washington, D.C.",
-      "url": "https://www.universe.com/events/r-b-only-live-washington-d-c-tickets-L57MHP?ref=ticketmaster",
-      "dateLocal": "2026-06-14T00:00:00Z",
-      "dateDisplay": "2026-06-13 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "rb-only-live-washington-dc-old-national-centre-2026-06-13-ZMYkf6",
       "source": "ticketmaster"
     },
     {
@@ -665,20 +623,6 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "mgk-lost-americana-tour-ruoff-music-center-2026-06-20-dihwYG",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "LvZ18Qrhv_LymXZZ0PXJn",
-      "name": "R&B ONLY LIVE - St. Louis, MO",
-      "url": "https://www.universe.com/events/r-b-only-live-st-louis-mo-tickets-1YFPVK?ref=ticketmaster",
-      "dateLocal": "2026-06-21T01:00:00Z",
-      "dateDisplay": "2026-06-20 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "rb-only-live-st-louis-mo-old-national-centre-2026-06-20-Z0PXJn",
       "source": "ticketmaster"
     },
     {
@@ -819,34 +763,6 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "dave-matthews-band-ruoff-music-center-2026-06-27-Z7GG75",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "LvZ18QrjEyBTyUOZERQ5E",
-      "name": "R&B ONLY LIVE - Sacramento, CA",
-      "url": "https://www.universe.com/events/r-b-only-live-sacramento-ca-tickets-PSBZ9Y?ref=ticketmaster",
-      "dateLocal": "2026-06-28T00:30:00Z",
-      "dateDisplay": "2026-06-27 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "rb-only-live-sacramento-ca-old-national-centre-2026-06-27-ZERQ5E",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "LvZ18QrjxBzs_0ZZ0rXNa",
-      "name": "R&B ONLY LIVE - Minneapolis, MN",
-      "url": "https://www.universe.com/events/r-b-only-live-minneapolis-mn-tickets-83G6WQ?ref=ticketmaster",
-      "dateLocal": "2026-06-28T01:00:00Z",
-      "dateDisplay": "2026-06-27 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "rb-only-live-minneapolis-mn-old-national-centre-2026-06-27-Z0rXNa",
       "source": "ticketmaster"
     },
     {
@@ -1883,6 +1799,62 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "939x-presents-the-pretty-reckless-dear-god-tour-old-national-centre-2026-09-09-RPLX3O",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_dGkm9Kgg9",
+      "name": "CANN PRESENTS: YACHT ROCK REVUE - PRIMETIME",
+      "url": "https://www.ticketmaster.com/cann-presents-yacht-rock-revue-primetime-noblesville-indiana-09-12-2026/event/0500643B974F5D57",
+      "dateLocal": "2026-09-13T00:00:00Z",
+      "dateDisplay": "2026-09-12 20:00:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "cann-presents-yacht-rock-revue-primetime-ruoff-music-center-2026-09-12-m9Kgg9",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZk8MGkePzDvw",
+      "name": "WTTS Rock on the River - Mt. Joy 2026: Celebrating 10 Years of Mt. Joy",
+      "url": "https://www.ticketmaster.com/wtts-rock-on-the-river-mt-indianapolis-indiana-09-15-2026/event/05006437A5E3B072",
+      "dateLocal": "2026-09-15T23:30:00Z",
+      "dateDisplay": "2026-09-15 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "wtts-rock-on-the-river-mt-joy-2026-celebrating-10-years-of-mt-joy-everwise-amphitheater-at-ePzDvw",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_7GkYHxHOG",
+      "name": "Breaking Benjamin",
+      "url": "https://www.ticketmaster.com/breaking-benjamin-noblesville-indiana-09-16-2026/event/0500644C3C8BC80C",
+      "dateLocal": "2026-09-16T22:00:00Z",
+      "dateDisplay": "2026-09-16 18:00:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "breaking-benjamin-ruoff-music-center-2026-09-16-YHxHOG",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_kGkUimnr7",
+      "name": "Herb Alpert & The Tijuana Brass",
+      "url": "https://www.ticketmaster.com/herb-alpert-the-tijuana-brass-indianapolis-indiana-09-16-2026/event/0500646DACBAA784",
+      "dateLocal": "2026-09-16T23:30:00Z",
+      "dateDisplay": "2026-09-16 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Clowes Memorial Hall",
+      "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
+      "venueId": "KovZpZAJdEkA",
+      "slug": "herb-alpert-the-tijuana-brass-clowes-memorial-hall-2026-09-16-Uimnr7",
       "source": "ticketmaster"
     }
   ]
