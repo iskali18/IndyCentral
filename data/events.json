@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T11:54:08Z",
+  "generatedAt": "2026-05-01T11:34:01Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 132,
+  "count": 134,
   "events": [
-    {
-      "id": "vv17fZ_eGkS4wFxX",
-      "name": "Juvenile's Boiling Point Album Release Tour w/ The 400 Degreez Band",
-      "url": "https://www.ticketmaster.com/juveniles-boiling-point-album-release-tour-indianapolis-indiana-04-30-2026/event/0500642CD5C888BE",
-      "dateLocal": "2026-05-01T00:00:00Z",
-      "dateDisplay": "2026-04-30 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "juveniles-boiling-point-album-release-tour-w-the-400-degreez-band-old-national-centre-2026-S4wFxX",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZ_AGkmlm5yB",
       "name": "Scott Patterson: The Midnight Highway Tour",
@@ -1855,6 +1841,48 @@
       "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
       "venueId": "KovZpZAJdEkA",
       "slug": "herb-alpert-the-tijuana-brass-clowes-memorial-hall-2026-09-16-Uimnr7",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_7GkSv1uYN",
+      "name": "Juanes North America Tour 2026",
+      "url": "https://www.ticketmaster.com/juanes-north-america-tour-2026-indianapolis-indiana-09-16-2026/event/0500644CC128DC23",
+      "dateLocal": "2026-09-17T00:00:00Z",
+      "dateDisplay": "2026-09-16 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "juanes-north-america-tour-2026-old-national-centre-2026-09-16-Sv1uYN",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZbwGkmtToV0",
+      "name": "WTTS Rock to Read: Big Head Todd and the Monsters - Winter Tour 2026",
+      "url": "https://www.ticketmaster.com/wtts-rock-to-read-big-head-indianapolis-indiana-09-17-2026/event/0500632BA9FD1D24",
+      "dateLocal": "2026-09-17T23:30:00Z",
+      "dateDisplay": "2026-09-17 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "wtts-rock-to-read-big-head-todd-and-the-monsters-winter-tour-2026-old-national-centre-2026-mtToV0",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_dGkzAs6c0",
+      "name": "Tim McGraw: Pawn Shop Guitar Tour 2026",
+      "url": "https://www.ticketmaster.com/tim-mcgraw-pawn-shop-guitar-tour-noblesville-indiana-09-18-2026/event/0500643E05C47B64",
+      "dateLocal": "2026-09-18T23:00:00Z",
+      "dateDisplay": "2026-09-18 19:00:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "tim-mcgraw-pawn-shop-guitar-tour-2026-ruoff-music-center-2026-09-18-zAs6c0",
       "source": "ticketmaster"
     }
   ]
