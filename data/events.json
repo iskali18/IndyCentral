@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T11:34:01Z",
+  "generatedAt": "2026-05-02T11:09:01Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,36 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 134,
+  "count": 135,
   "events": [
-    {
-      "id": "vv17fZ_AGkmlm5yB",
-      "name": "Scott Patterson: The Midnight Highway Tour",
-      "url": "https://www.ticketmaster.com/scott-patterson-the-midnight-highway-tour-indianapolis-indiana-05-01-2026/event/0500645BABB8BE7A",
-      "dateLocal": "2026-05-01T23:30:00Z",
-      "dateDisplay": "2026-05-01 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Clowes Memorial Hall",
-      "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
-      "venueId": "KovZpZAJdEkA",
-      "slug": "scott-patterson-the-midnight-highway-tour-clowes-memorial-hall-2026-05-01-mlm5yB",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkCeGkdj-5PY",
-      "name": "An Evening With David Byrne - Who is the Sky Tour",
-      "url": "https://www.ticketmaster.com/an-evening-with-david-byrne-who-indianapolis-indiana-05-01-2026/event/05006382DC84B970",
-      "dateLocal": "2026-05-02T00:00:00Z",
-      "dateDisplay": "2026-05-01 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "an-evening-with-david-byrne-who-is-the-sky-tour-old-national-centre-2026-05-01-dj-5PY",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZkCeGkdj-lPw",
       "name": "An Evening With David Byrne - Who is the Sky Tour",
@@ -1883,6 +1855,48 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "tim-mcgraw-pawn-shop-guitar-tour-2026-ruoff-music-center-2026-09-18-zAs6c0",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZk3pGkdhJ2dA",
+      "name": "Suki Waterhouse: The Loveland Tour",
+      "url": "https://www.ticketmaster.com/suki-waterhouse-the-loveland-tour-indianapolis-indiana-09-18-2026/event/05006496DB98F0C5",
+      "dateLocal": "2026-09-18T23:30:00Z",
+      "dateDisplay": "2026-09-18 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "suki-waterhouse-the-loveland-tour-old-national-centre-2026-09-18-dhJ2dA",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZk8PGkdPS1F3",
+      "name": "Pitbull - I'm Back with special guest Lil Jon",
+      "url": "https://www.ticketmaster.com/pitbull-im-back-with-special-guest-noblesville-indiana-09-19-2026/event/05006425E5CCA212",
+      "dateLocal": "2026-09-20T00:00:00Z",
+      "dateDisplay": "2026-09-19 20:00:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "pitbull-im-back-with-special-guest-lil-jon-ruoff-music-center-2026-09-19-dPS1F3",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_6GkS6miMJ",
+      "name": "$uicideboy$ Present Grey Day Tour 2026 W. Destroy Lonely & More",
+      "url": "https://www.ticketmaster.com/uicideboy-present-grey-day-tour-2026-noblesville-indiana-09-20-2026/event/0500647CC7BACDE6",
+      "dateLocal": "2026-09-20T22:30:00Z",
+      "dateDisplay": "2026-09-20 18:30:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "uicideboy-present-grey-day-tour-2026-w-destroy-lonely-more-ruoff-music-center-2026-09-20-S6miMJ",
       "source": "ticketmaster"
     }
   ]
