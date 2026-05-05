@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T12:05:48Z",
+  "generatedAt": "2026-05-05T11:40:42Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,7 +7,7 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 136,
+  "count": 137,
   "events": [
     {
       "id": "vv17fZbgGkMj5hZK",
@@ -1253,6 +1253,20 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "gigi-perez-live-old-national-centre-2026-08-03-dCpHsb",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_aGkURemx3",
+      "name": "beabadoobee",
+      "url": "https://www.ticketmaster.com/beabadoobee-indianapolis-indiana-08-04-2026/event/0500649DAF0AE892",
+      "dateLocal": "2026-08-04T23:30:00Z",
+      "dateDisplay": "2026-08-04 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "beabadoobee-everwise-amphitheater-at-white-river-state-park-2026-08-04-URemx3",
       "source": "ticketmaster"
     },
     {
