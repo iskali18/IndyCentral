@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T11:47:37Z",
+  "generatedAt": "2026-05-09T11:12:44Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 137,
+  "count": 136,
   "events": [
-    {
-      "id": "vv17fZbgGkMj5hZK",
-      "name": "Morgan Wallen: Still the Problem Tour",
-      "url": "https://www.ticketmaster.com/morgan-wallen-still-the-problem-tour-indianapolis-indiana-05-08-2026/event/0500635DDC2DB013",
-      "dateLocal": "2026-05-08T21:30:00Z",
-      "dateDisplay": "2026-05-08 17:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Lucas Oil Stadium",
-      "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
-      "venueId": "KovZpZAdEJEA",
-      "slug": "morgan-wallen-still-the-problem-tour-lucas-oil-stadium-2026-05-08-Mj5hZK",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZbgGkMj4lZP",
       "name": "Morgan Wallen: Still the Problem Tour",
