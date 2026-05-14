@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T12:25:09Z",
+  "generatedAt": "2026-05-14T12:07:20Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,7 +7,7 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 136,
+  "count": 132,
   "events": [
     {
       "id": "vv1AAZk8YGkdgM-4h",
@@ -1855,62 +1855,6 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "pitbull-im-back-with-special-guest-lil-jon-ruoff-music-center-2026-09-19-dPS1F3",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZ_6GkS6miMJ",
-      "name": "$uicideboy$ Present Grey Day Tour 2026 W. Destroy Lonely & More",
-      "url": "https://www.ticketmaster.com/uicideboy-present-grey-day-tour-2026-noblesville-indiana-09-20-2026/event/0500647CC7BACDE6",
-      "dateLocal": "2026-09-20T22:30:00Z",
-      "dateDisplay": "2026-09-20 18:30:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "uicideboy-present-grey-day-tour-2026-w-destroy-lonely-more-ruoff-music-center-2026-09-20-S6miMJ",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZk3bGkdOb1Kd",
-      "name": "Logic & G-Eazy: The Endless Summer Tour Part II",
-      "url": "https://www.ticketmaster.com/logic-geazy-the-endless-summer-tour-indianapolis-indiana-09-20-2026/event/05006498E060A4C3",
-      "dateLocal": "2026-09-20T23:00:00Z",
-      "dateDisplay": "2026-09-20 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "logic-g-eazy-the-endless-summer-tour-part-ii-everwise-amphitheater-at-white-river-state-pa-dOb1Kd",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1kfZ_kp3G7XbxT",
-      "name": "Gary Allan",
-      "url": "https://www.ticketmaster.com/gary-allan-indianapolis-indiana-09-24-2026/event/0500646592F988BF",
-      "dateLocal": "2026-09-24T23:30:00Z",
-      "dateDisplay": "2026-09-24 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "gary-allan-old-national-centre-2026-09-24-G7XbxT",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZ_dGklcdh7q",
-      "name": "Leonid & Friends",
-      "url": "https://www.ticketmaster.com/leonid-friends-indianapolis-indiana-09-25-2026/event/0500643AED0DB11D",
-      "dateLocal": "2026-09-25T23:30:00Z",
-      "dateDisplay": "2026-09-25 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "leonid-friends-old-national-centre-2026-09-25-lcdh7q",
       "source": "ticketmaster"
     }
   ]
