@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T11:27:52Z",
+  "generatedAt": "2026-05-17T11:34:01Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,36 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 136,
+  "count": 135,
   "events": [
-    {
-      "id": "vv1AAZkoaGkdphQOk",
-      "name": "CATTLE DECAPITATION: 30 YEARS OF INHUMANITY ",
-      "url": "https://www.ticketmaster.com/cattle-decapitation-30-years-of-inhumanity-indianapolis-indiana-05-16-2026/event/05006449D66DA806",
-      "dateLocal": "2026-05-16T23:00:00Z",
-      "dateDisplay": "2026-05-16 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "cattle-decapitation-30-years-of-inhumanity-old-national-centre-2026-05-16-dphQOk",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZk8UGkdQncBr",
-      "name": "Alyssa Edwards - Thanks For Everything Tour 2026",
-      "url": "https://www.ticketmaster.com/alyssa-edwards-thanks-for-everything-tour-indianapolis-indiana-05-16-2026/event/05006436DAAADE9E",
-      "dateLocal": "2026-05-17T00:00:00Z",
-      "dateDisplay": "2026-05-16 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "alyssa-edwards-thanks-for-everything-tour-2026-old-national-centre-2026-05-16-dQncBr",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZk8gGkdanh9L",
       "name": "Black Veil Brides: North American Tour 2026",
@@ -1911,6 +1883,20 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "celtic-thunder-celebrate-your-favorite-songs-old-national-centre-2026-09-26-eMEj_q",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_6GkB3WSXD",
+      "name": "Johnny Blue Skies & the Dark Clouds - Mutiny for the Masses 2026 Tour",
+      "url": "https://www.ticketmaster.com/johnny-blue-skies-the-dark-clouds-indianapolis-indiana-10-03-2026/event/0500647E92F73FBB",
+      "dateLocal": "2026-10-04T00:00:00Z",
+      "dateDisplay": "2026-10-03 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Gainbridge Fieldhouse",
+      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
+      "venueId": "KovZpZA6keIA",
+      "slug": "johnny-blue-skies-the-dark-clouds-mutiny-for-the-masses-2026-tour-gainbridge-fieldhouse-20-B3WSXD",
       "source": "ticketmaster"
     }
   ]
