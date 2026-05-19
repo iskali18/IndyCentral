@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T14:01:20Z",
+  "generatedAt": "2026-05-19T13:31:51Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,7 +7,7 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 136,
+  "count": 137,
   "events": [
     {
       "id": "vv1AAZk8gGkdanh9L",
@@ -455,20 +455,6 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "connor-price-nic-d-iconic-tour-old-national-centre-2026-06-21-dJJuYz",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkosGkexSJDZ",
-      "name": "Myles Smith - My Mess, My Heart, My Life Tour",
-      "url": "https://www.ticketmaster.com/myles-smith-my-mess-my-heart-indianapolis-indiana-06-23-2026/event/05006471A2CE6EC0",
-      "dateLocal": "2026-06-23T22:30:00Z",
-      "dateDisplay": "2026-06-23 18:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "myles-smith-my-mess-my-heart-my-life-tour-everwise-amphitheater-at-white-river-state-park--exSJDZ",
       "source": "ticketmaster"
     },
     {
@@ -1578,6 +1564,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vv1AAZkosGkexSJDZ",
+      "name": "Myles Smith - My Mess, My Heart, My Life Tour",
+      "url": "https://www.ticketmaster.com/myles-smith-my-mess-my-heart-indianapolis-indiana-09-02-2026/event/05006471A2CE6EC0",
+      "dateLocal": "2026-09-02T22:30:00Z",
+      "dateDisplay": "2026-09-02 18:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "myles-smith-my-mess-my-heart-my-life-tour-everwise-amphitheater-at-white-river-state-park--exSJDZ",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv1AAZkupGkdclIr9",
       "name": "O.A.R. Three Decades Tour",
       "url": "https://www.ticketmaster.com/oar-three-decades-tour-indianapolis-indiana-09-03-2026/event/05006356EDAE8797",
@@ -1687,6 +1687,20 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "dan-shay-the-young-tour-ruoff-music-center-2026-09-11-MyyLug",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_1Ndhz2M",
+      "name": "underscores: Galleria - North American Chapter",
+      "url": "https://www.ticketmaster.com/underscores-galleria-north-american-chapter-indianapolis-indiana-09-11-2026/event/050064A8C36F83F7",
+      "dateLocal": "2026-09-12T00:00:00Z",
+      "dateDisplay": "2026-09-11 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "underscores-galleria-north-american-chapter-old-national-centre-2026-09-11-Ndhz2M",
       "source": "ticketmaster"
     },
     {
