@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T13:31:51Z",
+  "generatedAt": "2026-05-20T12:39:07Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -9,20 +9,6 @@
   },
   "count": 137,
   "events": [
-    {
-      "id": "vv1AAZk8gGkdanh9L",
-      "name": "Black Veil Brides: North American Tour 2026",
-      "url": "https://www.ticketmaster.com/black-veil-brides-north-american-tour-indianapolis-indiana-05-19-2026/event/05006435C9A9B5DF",
-      "dateLocal": "2026-05-19T22:35:00Z",
-      "dateDisplay": "2026-05-19 18:35:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "black-veil-brides-north-american-tour-2026-old-national-centre-2026-05-19-danh9L",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZkooGkd9miDq",
       "name": "Autumn!",
@@ -1925,6 +1911,20 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "celtic-thunder-celebrate-your-favorite-songs-old-national-centre-2026-09-26-eMEj_q",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_6GkB3WSXD",
+      "name": "Johnny Blue Skies & the Dark Clouds - Mutiny for the Masses 2026 Tour",
+      "url": "https://www.ticketmaster.com/johnny-blue-skies-the-dark-clouds-indianapolis-indiana-10-03-2026/event/0500647E92F73FBB",
+      "dateLocal": "2026-10-04T00:00:00Z",
+      "dateDisplay": "2026-10-03 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Gainbridge Fieldhouse",
+      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
+      "venueId": "KovZpZA6keIA",
+      "slug": "johnny-blue-skies-the-dark-clouds-mutiny-for-the-masses-2026-tour-gainbridge-fieldhouse-20-B3WSXD",
       "source": "ticketmaster"
     }
   ]
