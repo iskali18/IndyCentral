@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T12:39:07Z",
+  "generatedAt": "2026-05-21T13:33:09Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 137,
+  "count": 136,
   "events": [
-    {
-      "id": "vv1AAZkooGkd9miDq",
-      "name": "Autumn!",
-      "url": "https://www.ticketmaster.com/autumn-indianapolis-indiana-05-20-2026/event/05006451D7BACEDD",
-      "dateLocal": "2026-05-21T00:00:00Z",
-      "dateDisplay": "2026-05-20 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "autumn-old-national-centre-2026-05-20-d9miDq",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZ_7GkR0aj0t",
       "name": "Dance Gavin Dance with Special Guests",
