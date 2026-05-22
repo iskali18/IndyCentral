@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T13:33:09Z",
+  "generatedAt": "2026-05-22T12:35:02Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,7 +7,7 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 136,
+  "count": 134,
   "events": [
     {
       "id": "vv17fZ_7GkR0aj0t",
@@ -234,6 +234,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vv17fZ_dGkU2jJCD",
+      "name": "Post Malone Presents: The BIG ASS Stadium Tour Part 2",
+      "url": "https://www.ticketmaster.com/post-malone-presents-the-big-ass-indianapolis-indiana-06-12-2026/event/0500643D8F7263BB",
+      "dateLocal": "2026-06-12T23:00:00Z",
+      "dateDisplay": "2026-06-12 19:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Lucas Oil Stadium",
+      "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
+      "venueId": "KovZpZAdEJEA",
+      "slug": "post-malone-presents-the-big-ass-stadium-tour-part-2-lucas-oil-stadium-2026-06-12-U2jJCD",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv1AAZko_GkeNsSuJ",
       "name": "Indy Pride Presents Tash Sultana - North American Tour 2026",
       "url": "https://www.ticketmaster.com/indy-pride-presents-tash-sultana-north-indianapolis-indiana-06-12-2026/event/05006459A3C73366",
@@ -245,20 +259,6 @@
       "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
       "venueId": "KovZpZAEAAJA",
       "slug": "indy-pride-presents-tash-sultana-north-american-tour-2026-everwise-amphitheater-at-white-r-eNsSuJ",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZ_dGkU2jJCD",
-      "name": "Post Malone Presents: The BIG ASS Stadium Tour Part 2",
-      "url": "https://www.ticketmaster.com/post-malone-presents-the-big-ass-indianapolis-indiana-06-12-2026/event/0500643D8F7263BB",
-      "dateLocal": "2026-06-12T23:30:00Z",
-      "dateDisplay": "2026-06-12 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Lucas Oil Stadium",
-      "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
-      "venueId": "KovZpZAdEJEA",
-      "slug": "post-malone-presents-the-big-ass-stadium-tour-part-2-lucas-oil-stadium-2026-06-12-U2jJCD",
       "source": "ticketmaster"
     },
     {
@@ -1883,34 +1883,6 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "staind-break-the-cycle-25th-anniversary-tour-ruoff-music-center-2026-09-26-wQ6tPE",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZko0GkeMEj_q",
-      "name": "Celtic Thunder: Celebrate Your Favorite Songs",
-      "url": "https://www.ticketmaster.com/celtic-thunder-celebrate-your-favorite-songs-indianapolis-indiana-09-26-2026/event/05006464B79DC65D",
-      "dateLocal": "2026-09-26T23:30:00Z",
-      "dateDisplay": "2026-09-26 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "celtic-thunder-celebrate-your-favorite-songs-old-national-centre-2026-09-26-eMEj_q",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZ_6GkB3WSXD",
-      "name": "Johnny Blue Skies & the Dark Clouds - Mutiny for the Masses 2026 Tour",
-      "url": "https://www.ticketmaster.com/johnny-blue-skies-the-dark-clouds-indianapolis-indiana-10-03-2026/event/0500647E92F73FBB",
-      "dateLocal": "2026-10-04T00:00:00Z",
-      "dateDisplay": "2026-10-03 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Gainbridge Fieldhouse",
-      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
-      "venueId": "KovZpZA6keIA",
-      "slug": "johnny-blue-skies-the-dark-clouds-mutiny-for-the-masses-2026-tour-gainbridge-fieldhouse-20-B3WSXD",
       "source": "ticketmaster"
     }
   ]
