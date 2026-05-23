@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T12:35:02Z",
+  "generatedAt": "2026-05-23T11:36:58Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,50 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 134,
+  "count": 133,
   "events": [
-    {
-      "id": "vv17fZ_7GkR0aj0t",
-      "name": "Dance Gavin Dance with Special Guests",
-      "url": "https://www.ticketmaster.com/dance-gavin-dance-with-special-guests-indianapolis-indiana-05-22-2026/event/0500644BE425C929",
-      "dateLocal": "2026-05-22T22:30:00Z",
-      "dateDisplay": "2026-05-22 18:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "dance-gavin-dance-with-special-guests-old-national-centre-2026-05-22-R0aj0t",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "LvZ18QjUFAts8IYvG20dA",
-      "name": "R&B ONLY LIVE - Indianapolis, IN",
-      "url": "https://www.universe.com/events/r-b-only-live-indianapolis-in-tickets-ZX08DW?ref=ticketmaster",
-      "dateLocal": "2026-05-23T00:00:00Z",
-      "dateDisplay": "2026-05-22 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "rb-only-live-indianapolis-in-old-national-centre-2026-05-22-vG20dA",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZk34GketxzCY",
-      "name": "R&B ONLY",
-      "url": "https://www.universe.com/events/r-b-only-live-indianapolis-in-tickets-ZX08DW?unii-trigger-open=ZX08DW&unii-discount-code=SAVE50",
-      "dateLocal": "2026-05-23T01:00:00Z",
-      "dateDisplay": "2026-05-22 21:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "rb-only-old-national-centre-2026-05-22-etxzCY",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZko_GkeDDyrE",
       "name": "Bingo Loco - Ages 21+",
@@ -1883,6 +1841,34 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "staind-break-the-cycle-25th-anniversary-tour-ruoff-music-center-2026-09-26-wQ6tPE",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZko0GkeMEj_q",
+      "name": "Celtic Thunder: Celebrate Your Favorite Songs",
+      "url": "https://www.ticketmaster.com/celtic-thunder-celebrate-your-favorite-songs-indianapolis-indiana-09-26-2026/event/05006464B79DC65D",
+      "dateLocal": "2026-09-26T23:30:00Z",
+      "dateDisplay": "2026-09-26 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "celtic-thunder-celebrate-your-favorite-songs-old-national-centre-2026-09-26-eMEj_q",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_6GkB3WSXD",
+      "name": "Johnny Blue Skies & the Dark Clouds - Mutiny for the Masses 2026 Tour",
+      "url": "https://www.ticketmaster.com/johnny-blue-skies-the-dark-clouds-indianapolis-indiana-10-03-2026/event/0500647E92F73FBB",
+      "dateLocal": "2026-10-04T00:00:00Z",
+      "dateDisplay": "2026-10-03 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Gainbridge Fieldhouse",
+      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
+      "venueId": "KovZpZA6keIA",
+      "slug": "johnny-blue-skies-the-dark-clouds-mutiny-for-the-masses-2026-tour-gainbridge-fieldhouse-20-B3WSXD",
       "source": "ticketmaster"
     }
   ]
