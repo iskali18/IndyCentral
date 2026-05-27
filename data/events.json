@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T13:23:57Z",
+  "generatedAt": "2026-05-27T13:50:46Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,7 +7,7 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 132,
+  "count": 133,
   "events": [
     {
       "id": "vv17fZ_6GkRjOu-e",
@@ -1225,6 +1225,20 @@
       "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
       "venueId": "KovZpZAEAAJA",
       "slug": "young-the-giant-victory-garden-tour-with-cold-war-kids-everwise-amphitheater-at-white-rive-DpaoAq",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_5pQOEkD",
+      "name": "THE KEHLANI WORLD TOUR: North America",
+      "url": "https://www.ticketmaster.com/the-kehlani-world-tour-north-america-indianapolis-indiana-08-10-2026/event/050064B59A8271BB",
+      "dateLocal": "2026-08-10T22:30:00Z",
+      "dateDisplay": "2026-08-10 18:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "the-kehlani-world-tour-north-america-everwise-amphitheater-at-white-river-state-park-2026--pQOEkD",
       "source": "ticketmaster"
     },
     {
