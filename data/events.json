@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T13:35:08Z",
+  "generatedAt": "2026-05-30T11:45:57Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -9,20 +9,6 @@
   },
   "count": 133,
   "events": [
-    {
-      "id": "vv17fZ_6GkRjOu-e",
-      "name": "Emo Nite (18+)",
-      "url": "https://www.ticketmaster.com/emo-nite-18-indianapolis-indiana-05-29-2026/event/0500647BDC80D842",
-      "dateLocal": "2026-05-30T01:00:00Z",
-      "dateDisplay": "2026-05-29 21:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "emo-nite-18-old-national-centre-2026-05-29-RjOu-e",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZkCeGkdoklA5",
       "name": "Megan Moroney: The Cloud 9 Tour",
@@ -1869,6 +1855,20 @@
       "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
       "venueId": "KovZpZAdEJEA",
       "slug": "ed-sheeran-loop-tour-lucas-oil-stadium-2026-10-10-A1To9S",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_1QiwmGp",
+      "name": "Buddy Guy 90",
+      "url": "https://www.ticketmaster.com/buddy-guy-90-indianapolis-indiana-10-17-2026/event/050064A6ACCAE316",
+      "dateLocal": "2026-10-17T23:30:00Z",
+      "dateDisplay": "2026-10-17 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Clowes Memorial Hall",
+      "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
+      "venueId": "KovZpZAJdEkA",
+      "slug": "buddy-guy-90-clowes-memorial-hall-2026-10-17-QiwmGp",
       "source": "ticketmaster"
     }
   ]
