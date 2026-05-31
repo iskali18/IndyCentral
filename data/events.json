@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T11:45:57Z",
+  "generatedAt": "2026-05-31T11:51:18Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,36 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 133,
+  "count": 132,
   "events": [
-    {
-      "id": "vv1AAZkCeGkdoklA5",
-      "name": "Megan Moroney: The Cloud 9 Tour",
-      "url": "https://www.ticketmaster.com/megan-moroney-the-cloud-9-tour-indianapolis-indiana-05-30-2026/event/05006382D11AB14B",
-      "dateLocal": "2026-05-30T23:00:00Z",
-      "dateDisplay": "2026-05-30 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Gainbridge Fieldhouse",
-      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
-      "venueId": "KovZpZA6keIA",
-      "slug": "megan-moroney-the-cloud-9-tour-gainbridge-fieldhouse-2026-05-30-doklA5",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZ_6GkDlFu37",
-      "name": "¡NOCHE LATINA! (18+)",
-      "url": "https://www.ticketmaster.com/noche-latina-18-indianapolis-indiana-05-30-2026/event/0500647EEB20D484",
-      "dateLocal": "2026-05-31T01:00:00Z",
-      "dateDisplay": "2026-05-30 21:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "noche-latina-18-old-national-centre-2026-05-30-DlFu37",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1Fv8v0pZuzZ72ae1",
       "name": "Djg Celebration Of Choirs",
@@ -1869,6 +1841,20 @@
       "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
       "venueId": "KovZpZAJdEkA",
       "slug": "buddy-guy-90-clowes-memorial-hall-2026-10-17-QiwmGp",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_1XMUioK",
+      "name": "The Smashing Pumpkins: The Rats In A Cage Tour",
+      "url": "https://www.ticketmaster.com/the-smashing-pumpkins-the-rats-in-indianapolis-indiana-10-20-2026/event/050064AFB7DAC453",
+      "dateLocal": "2026-10-21T00:00:00Z",
+      "dateDisplay": "2026-10-20 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Gainbridge Fieldhouse",
+      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
+      "venueId": "KovZpZA6keIA",
+      "slug": "the-smashing-pumpkins-the-rats-in-a-cage-tour-gainbridge-fieldhouse-2026-10-20-XMUioK",
       "source": "ticketmaster"
     }
   ]
