@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T11:51:18Z",
+  "generatedAt": "2026-06-01T16:18:07Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -9,20 +9,6 @@
   },
   "count": 132,
   "events": [
-    {
-      "id": "vv1Fv8v0pZuzZ72ae1",
-      "name": "Djg Celebration Of Choirs",
-      "url": "https://www.ticketmaster.com/djg-celebration-of-choirs-indianapolis-indiana-05-31-2026/event/050064580378E819",
-      "dateLocal": "2026-05-31T22:30:00Z",
-      "dateDisplay": "2026-05-31 18:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Clowes Memorial Hall",
-      "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
-      "venueId": "KovZpZAJdEkA",
-      "slug": "djg-celebration-of-choirs-clowes-memorial-hall-2026-05-31-Z72ae1",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZkodGkdpCQ8G",
       "name": "DEVO: Mutate Don't Stagnate",
@@ -1312,6 +1298,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vv16AZk8g0UZA86FFd",
+      "name": "LINDSEY STIRLING - DUALITY UNTAMED TOUR",
+      "url": "https://www.ticketmaster.com/lindsey-stirling-duality-untamed-tour-indianapolis-indiana-08-22-2026/event/05006435936F6772",
+      "dateLocal": "2026-08-22T23:30:00Z",
+      "dateDisplay": "2026-08-22 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "lindsey-stirling-duality-untamed-tour-everwise-amphitheater-at-white-river-state-park-2026-A86FFd",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv1AAZk8gGkdOcjVO",
       "name": "Tedeschi Trucks Band and Alabama Shakes",
       "url": "https://www.ticketmaster.com/tedeschi-trucks-band-and-alabama-shakes-noblesville-indiana-08-22-2026/event/05006435E0B5CD20",
@@ -1323,20 +1323,6 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "tedeschi-trucks-band-and-alabama-shakes-ruoff-music-center-2026-08-22-dOcjVO",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv16AZk8g0UZA86FFd",
-      "name": "LINDSEY STIRLING - DUALITY UNTAMED TOUR",
-      "url": "https://www.ticketmaster.com/lindsey-stirling-duality-untamed-tour-indianapolis-indiana-08-22-2026/event/05006435936F6772",
-      "dateLocal": "2026-08-23T00:00:00Z",
-      "dateDisplay": "2026-08-22 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "lindsey-stirling-duality-untamed-tour-everwise-amphitheater-at-white-river-state-park-2026-A86FFd",
       "source": "ticketmaster"
     },
     {
@@ -1799,6 +1785,20 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "celtic-thunder-celebrate-your-favorite-songs-old-national-centre-2026-09-26-eMEj_q",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_5l9L5I3",
+      "name": "Bryson Tiller Presents: The Neo Trapsoul Tour",
+      "url": "https://www.ticketmaster.com/bryson-tiller-presents-the-neo-trapsoul-noblesville-indiana-10-02-2026/event/050064BAD77CBA12",
+      "dateLocal": "2026-10-02T23:30:00Z",
+      "dateDisplay": "2026-10-02 19:30:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "bryson-tiller-presents-the-neo-trapsoul-tour-ruoff-music-center-2026-10-02-l9L5I3",
       "source": "ticketmaster"
     },
     {
