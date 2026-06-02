@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T16:18:07Z",
+  "generatedAt": "2026-06-02T14:32:56Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,7 +7,7 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 132,
+  "count": 133,
   "events": [
     {
       "id": "vv1AAZkodGkdpCQ8G",
@@ -1732,6 +1732,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vvG1fZ_1DLwr4d",
+      "name": "Djg Indy Funkfest",
+      "url": "https://www.ticketmaster.com/djg-indy-funkfest-indianapolis-indiana-09-25-2026/event/050064AEDFC9E543",
+      "dateLocal": "2026-09-25T23:00:00Z",
+      "dateDisplay": "2026-09-25 19:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Clowes Memorial Hall",
+      "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
+      "venueId": "KovZpZAJdEkA",
+      "slug": "djg-indy-funkfest-clowes-memorial-hall-2026-09-25-DLwr4d",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv17fZ_dGklcdh7q",
       "name": "Leonid & Friends",
       "url": "https://www.ticketmaster.com/leonid-friends-indianapolis-indiana-09-25-2026/event/0500643AED0DB11D",
@@ -1816,6 +1830,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vvG1fZ_5387bB5",
+      "name": "Clint Black & Midland - Live In Concert: A Frontline Benefit Concert",
+      "url": "https://www.ticketmaster.com/clint-black-midland-live-in-concert-indianapolis-indiana-10-09-2026/event/050064B490118E8B",
+      "dateLocal": "2026-10-09T23:00:00Z",
+      "dateDisplay": "2026-10-09 19:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "clint-black-midland-live-in-concert-a-frontline-benefit-concert-everwise-amphitheater-at-w-387bB5",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv1kv8vN1_GA1To9S",
       "name": "Ed Sheeran: LOOP Tour",
       "url": "https://www.ticketmaster.com/ed-sheeran-loop-tour-indianapolis-indiana-10-10-2026/event/050063299AFD15F3",
@@ -1841,20 +1869,6 @@
       "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
       "venueId": "KovZpZAJdEkA",
       "slug": "buddy-guy-90-clowes-memorial-hall-2026-10-17-QiwmGp",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_1XMUioK",
-      "name": "The Smashing Pumpkins: The Rats In A Cage Tour",
-      "url": "https://www.ticketmaster.com/the-smashing-pumpkins-the-rats-in-indianapolis-indiana-10-20-2026/event/050064AFB7DAC453",
-      "dateLocal": "2026-10-21T00:00:00Z",
-      "dateDisplay": "2026-10-20 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Gainbridge Fieldhouse",
-      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
-      "venueId": "KovZpZA6keIA",
-      "slug": "the-smashing-pumpkins-the-rats-in-a-cage-tour-gainbridge-fieldhouse-2026-10-20-XMUioK",
       "source": "ticketmaster"
     }
   ]
