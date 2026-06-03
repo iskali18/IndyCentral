@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T14:32:56Z",
+  "generatedAt": "2026-06-03T15:06:17Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 133,
+  "count": 132,
   "events": [
-    {
-      "id": "vv1AAZkodGkdpCQ8G",
-      "name": "DEVO: Mutate Don't Stagnate",
-      "url": "https://www.ticketmaster.com/devo-mutate-dont-stagnate-indianapolis-indiana-06-02-2026/event/05006443D639A40C",
-      "dateLocal": "2026-06-03T00:00:00Z",
-      "dateDisplay": "2026-06-02 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "devo-mutate-dont-stagnate-old-national-centre-2026-06-02-dpCQ8G",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZ_AGkR3UTRW",
       "name": "Electronic Orchestra",
