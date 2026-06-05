@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T13:31:44Z",
+  "generatedAt": "2026-06-05T13:27:33Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -287,20 +287,6 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "connor-price-nic-d-iconic-tour-old-national-centre-2026-06-21-dJJuYz",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkoPGkdlcxRs",
-      "name": "Earl Sweatshirt & MIKE - Home on the Range Tour 2026",
-      "url": "https://www.ticketmaster.com/earl-sweatshirt-mike-home-on-the-indianapolis-indiana-06-24-2026/event/05006465EBB62BF1",
-      "dateLocal": "2026-06-25T00:00:00Z",
-      "dateDisplay": "2026-06-24 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "earl-sweatshirt-mike-home-on-the-range-tour-2026-old-national-centre-2026-06-24-dlcxRs",
       "source": "ticketmaster"
     },
     {
@@ -1407,6 +1393,20 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "kesha-the-freedom-tour-ruoff-music-center-2026-08-30-G7Sf6_",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_GFApUlB",
+      "name": "FATTMACK - The McKenzie Tour 2.0",
+      "url": "https://www.ticketmaster.com/fattmack-the-mckenzie-tour-20-indianapolis-indiana-08-30-2026/event/050064C2055B6AFA",
+      "dateLocal": "2026-08-31T00:00:00Z",
+      "dateDisplay": "2026-08-30 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "fattmack-the-mckenzie-tour-20-old-national-centre-2026-08-30-FApUlB",
       "source": "ticketmaster"
     },
     {
