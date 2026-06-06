@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T13:27:33Z",
+  "generatedAt": "2026-06-06T11:46:56Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -9,34 +9,6 @@
   },
   "count": 131,
   "events": [
-    {
-      "id": "vv17fZ_AGkR3UTRW",
-      "name": "Electronic Orchestra",
-      "url": "https://www.ticketmaster.com/electronic-orchestra-indianapolis-indiana-06-05-2026/event/0500645BD2DBFBFD",
-      "dateLocal": "2026-06-06T00:00:00Z",
-      "dateDisplay": "2026-06-05 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "electronic-orchestra-old-national-centre-2026-06-05-R3UTRW",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZbzGklFDQmZ",
-      "name": "Grupo Bryndis, Industria Del Amor, Guardianes Del Amor-Romanticos Tour",
-      "url": "https://www.ticketmaster.com/grupo-bryndis-industria-del-amor-guardianes-indianapolis-indiana-06-05-2026/event/0500638AC8EDAB80",
-      "dateLocal": "2026-06-06T00:00:00Z",
-      "dateDisplay": "2026-06-05 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "grupo-bryndis-industria-del-amor-guardianes-del-amor-romanticos-tour-old-national-centre-2-lFDQmZ",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZbSGkDIc9Ud",
       "name": "HARDY: THE COUNTRY! COUNTRY! TOUR!",
@@ -1410,6 +1382,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vvG1fZ_5nnGEAS",
+      "name": "Masego: Fix Your Face Tour",
+      "url": "https://www.ticketmaster.com/masego-fix-your-face-tour-indianapolis-indiana-09-01-2026/event/050064BAAA327173",
+      "dateLocal": "2026-09-02T00:00:00Z",
+      "dateDisplay": "2026-09-01 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "masego-fix-your-face-tour-old-national-centre-2026-09-01-nnGEAS",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv1AAZkosGkexSJDZ",
       "name": "Myles Smith - My Mess, My Heart, My Life Tour",
       "url": "https://www.ticketmaster.com/myles-smith-my-mess-my-heart-indianapolis-indiana-09-02-2026/event/05006471A2CE6EC0",
@@ -1561,6 +1547,20 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "cann-presents-yacht-rock-revue-primetime-ruoff-music-center-2026-09-12-m9Kgg9",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_59tsCf1",
+      "name": "Phoebe Bridgers: The Lost Tour",
+      "url": "https://www.ticketmaster.com/phoebe-bridgers-the-lost-tour-indianapolis-indiana-09-15-2026/event/050064B5E9C4E50A",
+      "dateLocal": "2026-09-15T23:30:00Z",
+      "dateDisplay": "2026-09-15 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Gainbridge Fieldhouse",
+      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
+      "venueId": "KovZpZA6keIA",
+      "slug": "phoebe-bridgers-the-lost-tour-gainbridge-fieldhouse-2026-09-15-9tsCf1",
       "source": "ticketmaster"
     },
     {
