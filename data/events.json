@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T11:46:56Z",
+  "generatedAt": "2026-06-07T12:02:24Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -9,34 +9,6 @@
   },
   "count": 131,
   "events": [
-    {
-      "id": "vv17fZbSGkDIc9Ud",
-      "name": "HARDY: THE COUNTRY! COUNTRY! TOUR!",
-      "url": "https://www.ticketmaster.com/hardy-the-country-country-tour-noblesville-indiana-06-06-2026/event/0500633EE8B57D83",
-      "dateLocal": "2026-06-06T23:00:00Z",
-      "dateDisplay": "2026-06-06 19:00:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "hardy-the-country-country-tour-ruoff-music-center-2026-06-06-DIc9Ud",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZ_FGkTjXx2G",
-      "name": "Mike Sherm",
-      "url": "https://www.ticketmaster.com/mike-sherm-indianapolis-indiana-06-06-2026/event/0500648FDCFA23CC",
-      "dateLocal": "2026-06-07T00:00:00Z",
-      "dateDisplay": "2026-06-06 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "mike-sherm-old-national-centre-2026-06-06-TjXx2G",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZ_eGkHqEh7d",
       "name": "KID CUDI PRESENTS: THE REBEL RAGERS TOUR 2026",
@@ -1841,6 +1813,34 @@
       "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
       "venueId": "KovZpZAdEJEA",
       "slug": "ed-sheeran-loop-tour-lucas-oil-stadium-2026-10-10-A1To9S",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_1QiwmGp",
+      "name": "Buddy Guy 90",
+      "url": "https://www.ticketmaster.com/buddy-guy-90-indianapolis-indiana-10-17-2026/event/050064A6ACCAE316",
+      "dateLocal": "2026-10-17T23:30:00Z",
+      "dateDisplay": "2026-10-17 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Clowes Memorial Hall",
+      "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
+      "venueId": "KovZpZAJdEkA",
+      "slug": "buddy-guy-90-clowes-memorial-hall-2026-10-17-QiwmGp",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_1XMUioK",
+      "name": "The Smashing Pumpkins: The Rats In A Cage Tour",
+      "url": "https://www.ticketmaster.com/the-smashing-pumpkins-the-rats-in-indianapolis-indiana-10-20-2026/event/050064AFB7DAC453",
+      "dateLocal": "2026-10-21T00:00:00Z",
+      "dateDisplay": "2026-10-20 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Gainbridge Fieldhouse",
+      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
+      "venueId": "KovZpZA6keIA",
+      "slug": "the-smashing-pumpkins-the-rats-in-a-cage-tour-gainbridge-fieldhouse-2026-10-20-XMUioK",
       "source": "ticketmaster"
     }
   ]
