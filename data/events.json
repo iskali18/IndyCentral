@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T12:02:24Z",
+  "generatedAt": "2026-06-08T14:30:57Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -1522,6 +1522,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vvG1fZ_GLK3WNo",
+      "name": "Phoebe Bridgers: The Lost Tour",
+      "url": "https://www.ticketmaster.com/phoebe-bridgers-the-lost-tour-indianapolis-indiana-09-14-2026/event/050064C7D34BD8D1",
+      "dateLocal": "2026-09-14T23:30:00Z",
+      "dateDisplay": "2026-09-14 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Gainbridge Fieldhouse",
+      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
+      "venueId": "KovZpZA6keIA",
+      "slug": "phoebe-bridgers-the-lost-tour-gainbridge-fieldhouse-2026-09-14-LK3WNo",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vvG1fZ_59tsCf1",
       "name": "Phoebe Bridgers: The Lost Tour",
       "url": "https://www.ticketmaster.com/phoebe-bridgers-the-lost-tour-indianapolis-indiana-09-15-2026/event/050064B5E9C4E50A",
@@ -1827,20 +1841,6 @@
       "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
       "venueId": "KovZpZAJdEkA",
       "slug": "buddy-guy-90-clowes-memorial-hall-2026-10-17-QiwmGp",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_1XMUioK",
-      "name": "The Smashing Pumpkins: The Rats In A Cage Tour",
-      "url": "https://www.ticketmaster.com/the-smashing-pumpkins-the-rats-in-indianapolis-indiana-10-20-2026/event/050064AFB7DAC453",
-      "dateLocal": "2026-10-21T00:00:00Z",
-      "dateDisplay": "2026-10-20 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Gainbridge Fieldhouse",
-      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
-      "venueId": "KovZpZA6keIA",
-      "slug": "the-smashing-pumpkins-the-rats-in-a-cage-tour-gainbridge-fieldhouse-2026-10-20-XMUioK",
       "source": "ticketmaster"
     }
   ]
