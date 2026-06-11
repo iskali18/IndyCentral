@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T13:49:21Z",
+  "generatedAt": "2026-06-11T14:12:13Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,36 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 131,
+  "count": 130,
   "events": [
-    {
-      "id": "vv17fZ_eGkHqEh7d",
-      "name": "KID CUDI PRESENTS: THE REBEL RAGERS TOUR 2026",
-      "url": "https://www.ticketmaster.com/kid-cudi-presents-the-rebel-ragers-noblesville-indiana-06-10-2026/event/0500642F1D9DB103",
-      "dateLocal": "2026-06-10T22:30:00Z",
-      "dateDisplay": "2026-06-10 18:30:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "kid-cudi-presents-the-rebel-ragers-tour-2026-ruoff-music-center-2026-06-10-HqEh7d",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZ_kGkmt5FVz",
-      "name": "Spacey Jane - If That Makes Sense Tour",
-      "url": "https://www.ticketmaster.com/spacey-jane-if-that-makes-sense-indianapolis-indiana-06-10-2026/event/0500646BA92C8D38",
-      "dateLocal": "2026-06-11T00:00:00Z",
-      "dateDisplay": "2026-06-10 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "spacey-jane-if-that-makes-sense-tour-old-national-centre-2026-06-10-mt5FVz",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZ_dGkU2jJCD",
       "name": "Post Malone Presents: The BIG ASS Stadium Tour Part 2",
@@ -1071,6 +1043,20 @@
       "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
       "venueId": "KovZpZA6keIA",
       "slug": "banda-ms-de-sergio-lizarraga-somos-tour-gainbridge-fieldhouse-2026-08-08-d9fOWS",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_GlrrD4X",
+      "name": "Emo Nite (Ages 18+)",
+      "url": "https://www.ticketmaster.com/emo-nite-ages-18-indianapolis-indiana-08-08-2026/event/050064CADE7BB57E",
+      "dateLocal": "2026-08-09T01:00:00Z",
+      "dateDisplay": "2026-08-08 21:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "emo-nite-ages-18-old-national-centre-2026-08-08-lrrD4X",
       "source": "ticketmaster"
     },
     {
