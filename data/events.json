@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T13:43:28Z",
+  "generatedAt": "2026-06-13T12:03:39Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,50 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 131,
+  "count": 129,
   "events": [
-    {
-      "id": "vv17fZ_dGkU2jJCD",
-      "name": "Post Malone Presents: The BIG ASS Stadium Tour Part 2",
-      "url": "https://www.ticketmaster.com/post-malone-presents-the-big-ass-indianapolis-indiana-06-12-2026/event/0500643D8F7263BB",
-      "dateLocal": "2026-06-12T23:00:00Z",
-      "dateDisplay": "2026-06-12 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Lucas Oil Stadium",
-      "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
-      "venueId": "KovZpZAdEJEA",
-      "slug": "post-malone-presents-the-big-ass-stadium-tour-part-2-lucas-oil-stadium-2026-06-12-U2jJCD",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZko_GkeNsSuJ",
-      "name": "Indy Pride Presents Tash Sultana - North American Tour 2026",
-      "url": "https://www.ticketmaster.com/indy-pride-presents-tash-sultana-north-indianapolis-indiana-06-12-2026/event/05006459A3C73366",
-      "dateLocal": "2026-06-12T23:30:00Z",
-      "dateDisplay": "2026-06-12 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "indy-pride-presents-tash-sultana-north-american-tour-2026-everwise-amphitheater-at-white-r-eNsSuJ",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkoVGkdNEqb7",
-      "name": "Pradabagshawty presents: The Five Problems Tour",
-      "url": "https://www.ticketmaster.com/pradabagshawty-presents-the-five-problems-tour-indianapolis-indiana-06-12-2026/event/05006474E39DD604",
-      "dateLocal": "2026-06-13T00:00:00Z",
-      "dateDisplay": "2026-06-12 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "pradabagshawty-presents-the-five-problems-tour-old-national-centre-2026-06-12-dNEqb7",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZbUGkRAdnhv",
       "name": "Meghan Trainor: The Get In Girl Tour",
@@ -1841,6 +1799,20 @@
       "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
       "venueId": "KovZpZA6keIA",
       "slug": "the-smashing-pumpkins-the-rats-in-a-cage-tour-gainbridge-fieldhouse-2026-10-20-XMUioK",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkoJGkdxp3XH",
+      "name": "Buena Vista Orchestra",
+      "url": "https://www.ticketmaster.com/buena-vista-orchestra-indianapolis-indiana-10-21-2026/event/05006466E2592FBC",
+      "dateLocal": "2026-10-22T00:00:00Z",
+      "dateDisplay": "2026-10-21 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "buena-vista-orchestra-old-national-centre-2026-10-21-dxp3XH",
       "source": "ticketmaster"
     }
   ]
