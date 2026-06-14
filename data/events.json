@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T12:03:39Z",
+  "generatedAt": "2026-06-14T12:16:51Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 129,
+  "count": 132,
   "events": [
-    {
-      "id": "vv17fZbUGkRAdnhv",
-      "name": "Meghan Trainor: The Get In Girl Tour",
-      "url": "https://www.ticketmaster.com/meghan-trainor-the-get-in-girl-noblesville-indiana-06-13-2026/event/0500636BC50EA6C1",
-      "dateLocal": "2026-06-13T22:30:00Z",
-      "dateDisplay": "2026-06-13 18:30:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "meghan-trainor-the-get-in-girl-tour-ruoff-music-center-2026-06-13-RAdnhv",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZk8JGkeBvUok",
       "name": "Sammy Hagar: The Best of All Worlds 2026",
@@ -1813,6 +1799,62 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "buena-vista-orchestra-old-national-centre-2026-10-21-dxp3XH",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkobGkeULrRX",
+      "name": "STING 3.0 Tour",
+      "url": "https://www.ticketmaster.com/sting-30-tour-indianapolis-indiana-10-22-2026/event/05006458B67DEBFE",
+      "dateLocal": "2026-10-23T00:00:00Z",
+      "dateDisplay": "2026-10-22 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "sting-30-tour-old-national-centre-2026-10-22-eULrRX",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkobGkeUOCYQ",
+      "name": "STING 3.0 Tour",
+      "url": "https://www.ticketmaster.com/sting-30-tour-indianapolis-indiana-10-23-2026/event/05006458B680EC1A",
+      "dateLocal": "2026-10-24T00:00:00Z",
+      "dateDisplay": "2026-10-23 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "sting-30-tour-old-national-centre-2026-10-23-eUOCYQ",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_G1SBGiQ",
+      "name": "Wheeler Walker Jr. - Pullin' Out: The Farewell Tour",
+      "url": "https://www.ticketmaster.com/wheeler-walker-jr-pullin-out-the-indianapolis-indiana-10-24-2026/event/050064C2B3E8CB1A",
+      "dateLocal": "2026-10-25T00:00:00Z",
+      "dateDisplay": "2026-10-24 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "wheeler-walker-jr-pullin-out-the-farewell-tour-old-national-centre-2026-10-24-1SBGiQ",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_kGkmhx6vd",
+      "name": "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour",
+      "url": "https://www.ticketmaster.com/disney-descendants-zombies-camp-rock-worlds-indianapolis-indiana-10-27-2026/event/0500646B9B887043",
+      "dateLocal": "2026-10-27T23:00:00Z",
+      "dateDisplay": "2026-10-27 19:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Gainbridge Fieldhouse",
+      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
+      "venueId": "KovZpZA6keIA",
+      "slug": "disney-descendants-zombies-camp-rock-worlds-collide-concert-tour-gainbridge-fieldhouse-202-mhx6vd",
       "source": "ticketmaster"
     }
   ]
