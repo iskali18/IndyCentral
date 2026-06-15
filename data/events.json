@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T12:16:51Z",
+  "generatedAt": "2026-06-15T16:05:19Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,36 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 132,
+  "count": 131,
   "events": [
-    {
-      "id": "vv1AAZk8JGkeBvUok",
-      "name": "Sammy Hagar: The Best of All Worlds 2026",
-      "url": "https://www.ticketmaster.com/sammy-hagar-the-best-of-all-noblesville-indiana-06-14-2026/event/05006426BA076446",
-      "dateLocal": "2026-06-14T22:30:00Z",
-      "dateDisplay": "2026-06-14 18:30:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "sammy-hagar-the-best-of-all-worlds-2026-ruoff-music-center-2026-06-14-eBvUok",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZ_dGkM9DuyP",
-      "name": "Freddie Gibbs: The Last Rabbit Tour - North America",
-      "url": "https://www.ticketmaster.com/freddie-gibbs-the-last-rabbit-tour-indianapolis-indiana-06-14-2026/event/0500643DD7ECDE65",
-      "dateLocal": "2026-06-15T00:00:00Z",
-      "dateDisplay": "2026-06-14 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "freddie-gibbs-the-last-rabbit-tour-north-america-old-national-centre-2026-06-14-M9DuyP",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZko0GkdJ6S8U",
       "name": "Passion Pit - The Pretty Penny Tour",
@@ -1326,6 +1298,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vvG1fZ_GlJjq53",
+      "name": "Ramon Ayala Y Sus Bravos Del Norte",
+      "url": "https://www.ticketmaster.com/ramon-ayala-y-sus-bravos-del-indianapolis-indiana-09-04-2026/event/050064CAE671D2D2",
+      "dateLocal": "2026-09-05T00:00:00Z",
+      "dateDisplay": "2026-09-04 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "ramon-ayala-y-sus-bravos-del-norte-old-national-centre-2026-09-04-lJjq53",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv17fZ_6GknHqytk",
       "name": "BABYMETAL WORLD TOUR 2026",
       "url": "https://www.ticketmaster.com/babymetal-world-tour-2026-noblesville-indiana-09-05-2026/event/0500647ABC779A46",
@@ -1578,6 +1564,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vvG1fZ_GnPtX0r",
+      "name": "honestav - The Sweet American Boy Tour ",
+      "url": "https://www.ticketmaster.com/honestav-the-sweet-american-boy-tour-indianapolis-indiana-09-18-2026/event/050064CAA5A7E91E",
+      "dateLocal": "2026-09-19T00:30:00Z",
+      "dateDisplay": "2026-09-18 20:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "honestav-the-sweet-american-boy-tour-old-national-centre-2026-09-18-nPtX0r",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv1AAZk8PGkdPS1F3",
       "name": "Pitbull - I'm Back with special guest Lil Jon",
       "url": "https://www.ticketmaster.com/pitbull-im-back-with-special-guest-noblesville-indiana-09-19-2026/event/05006425E5CCA212",
@@ -1704,6 +1704,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vvG1fZ_GpyYR6M",
+      "name": "Cash Money & No Limit Tour",
+      "url": "https://www.ticketmaster.com/cash-money-no-limit-tour-indianapolis-indiana-09-26-2026/event/050064C5B9C2F1F7",
+      "dateLocal": "2026-09-27T00:00:00Z",
+      "dateDisplay": "2026-09-26 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Gainbridge Fieldhouse",
+      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
+      "venueId": "KovZpZA6keIA",
+      "slug": "cash-money-no-limit-tour-gainbridge-fieldhouse-2026-09-26-pyYR6M",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vvG1fZ_5l9L5I3",
       "name": "Bryson Tiller Presents: The Neo Trapsoul Tour",
       "url": "https://www.ticketmaster.com/bryson-tiller-presents-the-neo-trapsoul-noblesville-indiana-10-02-2026/event/050064BAD77CBA12",
@@ -1827,34 +1841,6 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "sting-30-tour-old-national-centre-2026-10-23-eUOCYQ",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_G1SBGiQ",
-      "name": "Wheeler Walker Jr. - Pullin' Out: The Farewell Tour",
-      "url": "https://www.ticketmaster.com/wheeler-walker-jr-pullin-out-the-indianapolis-indiana-10-24-2026/event/050064C2B3E8CB1A",
-      "dateLocal": "2026-10-25T00:00:00Z",
-      "dateDisplay": "2026-10-24 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "wheeler-walker-jr-pullin-out-the-farewell-tour-old-national-centre-2026-10-24-1SBGiQ",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZ_kGkmhx6vd",
-      "name": "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour",
-      "url": "https://www.ticketmaster.com/disney-descendants-zombies-camp-rock-worlds-indianapolis-indiana-10-27-2026/event/0500646B9B887043",
-      "dateLocal": "2026-10-27T23:00:00Z",
-      "dateDisplay": "2026-10-27 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Gainbridge Fieldhouse",
-      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
-      "venueId": "KovZpZA6keIA",
-      "slug": "disney-descendants-zombies-camp-rock-worlds-collide-concert-tour-gainbridge-fieldhouse-202-mhx6vd",
       "source": "ticketmaster"
     }
   ]
