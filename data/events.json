@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T16:05:19Z",
+  "generatedAt": "2026-06-16T15:22:33Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,7 +7,7 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 131,
+  "count": 132,
   "events": [
     {
       "id": "vv1AAZko0GkdJ6S8U",
@@ -1337,6 +1337,20 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "rob-zombie-marilyn-manson-with-the-hu-orgy-ruoff-music-center-2026-09-06-UKdKWw",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_GSd7Sio",
+      "name": "ISAIAH RASHAD: Lil Sunny's Awful Road Trip",
+      "url": "https://www.ticketmaster.com/isaiah-rashad-lil-sunnys-awful-road-indianapolis-indiana-09-07-2026/event/050064CCC3133B11",
+      "dateLocal": "2026-09-08T00:00:00Z",
+      "dateDisplay": "2026-09-07 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "isaiah-rashad-lil-sunnys-awful-road-trip-old-national-centre-2026-09-07-Sd7Sio",
       "source": "ticketmaster"
     },
     {
