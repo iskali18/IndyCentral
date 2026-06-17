@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T15:22:33Z",
+  "generatedAt": "2026-06-17T14:03:31Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -9,20 +9,6 @@
   },
   "count": 132,
   "events": [
-    {
-      "id": "vv1AAZko0GkdJ6S8U",
-      "name": "Passion Pit - The Pretty Penny Tour",
-      "url": "https://www.ticketmaster.com/passion-pit-the-pretty-penny-tour-indianapolis-indiana-06-16-2026/event/05006464E61F3436",
-      "dateLocal": "2026-06-17T00:00:00Z",
-      "dateDisplay": "2026-06-16 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "passion-pit-the-pretty-penny-tour-old-national-centre-2026-06-16-dJ6S8U",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZk8gGkeNdzjY",
       "name": "GODSMACK - The Rise of Rock World Tour 2026",
@@ -1631,6 +1617,20 @@
       "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
       "venueId": "KovZpZAEAAJA",
       "slug": "logic-g-eazy-the-endless-summer-tour-part-ii-everwise-amphitheater-at-white-river-state-pa-dOb1Kd",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_GTvKDFH",
+      "name": "Dokken & Lita Ford",
+      "url": "https://www.ticketmaster.com/dokken-lita-ford-indianapolis-indiana-09-20-2026/event/050064CFC14FB23C",
+      "dateLocal": "2026-09-20T23:00:00Z",
+      "dateDisplay": "2026-09-20 19:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "dokken-lita-ford-old-national-centre-2026-09-20-TvKDFH",
       "source": "ticketmaster"
     },
     {
