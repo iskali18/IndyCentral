@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T13:43:14Z",
+  "generatedAt": "2026-06-19T13:50:52Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -9,20 +9,6 @@
   },
   "count": 132,
   "events": [
-    {
-      "id": "vv1AAZk8gGkeNdzjY",
-      "name": "GODSMACK - The Rise of Rock World Tour 2026",
-      "url": "https://www.ticketmaster.com/godsmack-the-rise-of-rock-world-noblesville-indiana-06-18-2026/event/05006435A30F8730",
-      "dateLocal": "2026-06-18T23:00:00Z",
-      "dateDisplay": "2026-06-18 19:00:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "godsmack-the-rise-of-rock-world-tour-2026-ruoff-music-center-2026-06-18-eNdzjY",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZkoAGkeW3Q8m",
       "name": "Kid Rock - Freedom 250 Tour",
@@ -77,6 +63,20 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "mgk-lost-americana-tour-ruoff-music-center-2026-06-20-dihwYG",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "ZkDnngzZBODcYE2Q-7cQrXxaIiaHh4",
+      "name": "Lost Americana Tour Live From Noblesville",
+      "url": "https://veeps.com/mgk/20eedc27-3da8-44b5-a7be-889a2c27c6d5",
+      "dateLocal": "2026-06-21T01:00:00Z",
+      "dateDisplay": "2026-06-20 21:00:00",
+      "city": "Noblesville",
+      "state": "IN",
+      "venueName": "Ruoff Music Center",
+      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
+      "venueId": "KovZpvEk7A",
+      "slug": "lost-americana-tour-live-from-noblesville-ruoff-music-center-2026-06-20-IiaHh4",
       "source": "ticketmaster"
     },
     {
@@ -1816,6 +1816,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vvG1fZ_1QXqepe",
+      "name": "The Rocky Horror Picture Show Spooktacular Tour with Barry Bostwick",
+      "url": "https://www.ticketmaster.com/the-rocky-horror-picture-show-spooktacular-indianapolis-indiana-10-21-2026/event/050064A6BE742582",
+      "dateLocal": "2026-10-21T23:30:00Z",
+      "dateDisplay": "2026-10-21 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "the-rocky-horror-picture-show-spooktacular-tour-with-barry-bostwick-old-national-centre-20-QXqepe",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv1AAZkoJGkdxp3XH",
       "name": "Buena Vista Orchestra",
       "url": "https://www.ticketmaster.com/buena-vista-orchestra-indianapolis-indiana-10-21-2026/event/05006466E2592FBC",
@@ -1841,20 +1855,6 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "sting-30-tour-old-national-centre-2026-10-22-eULrRX",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkobGkeUOCYQ",
-      "name": "STING 3.0 Tour",
-      "url": "https://www.ticketmaster.com/sting-30-tour-indianapolis-indiana-10-23-2026/event/05006458B680EC1A",
-      "dateLocal": "2026-10-24T00:00:00Z",
-      "dateDisplay": "2026-10-23 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "sting-30-tour-old-national-centre-2026-10-23-eUOCYQ",
       "source": "ticketmaster"
     }
   ]
