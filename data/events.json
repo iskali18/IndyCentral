@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T12:21:33Z",
+  "generatedAt": "2026-06-22T15:32:28Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,34 +7,20 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 133,
+  "count": 132,
   "events": [
     {
       "id": "vv17fZ_7GkYK-tes",
       "name": "Santana & The Doobie Brothers - Oneness Tour 2026",
-      "url": "https://www.ticketmaster.com/santana-the-doobie-brothers-oneness-tour-noblesville-indiana-06-21-2026/event/0500644C138690B1",
-      "dateLocal": "2026-06-21T23:00:00Z",
-      "dateDisplay": "2026-06-21 19:00:00",
+      "url": "https://www.ticketmaster.com/santana-the-doobie-brothers-oneness-tour-noblesville-indiana-06-22-2026/event/0500644C138690B1",
+      "dateLocal": "2026-06-22T23:00:00Z",
+      "dateDisplay": "2026-06-22 19:00:00",
       "city": "Noblesville",
       "state": "IN",
       "venueName": "Ruoff Music Center",
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
-      "slug": "santana-the-doobie-brothers-oneness-tour-2026-ruoff-music-center-2026-06-21-YK-tes",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkooGkdJJuYz",
-      "name": "Connor Price & Nic D \"Iconic Tour\"",
-      "url": "https://www.ticketmaster.com/connor-price-nic-d-iconic-tour-indianapolis-indiana-06-21-2026/event/05006451E698DC38",
-      "dateLocal": "2026-06-22T00:00:00Z",
-      "dateDisplay": "2026-06-21 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "connor-price-nic-d-iconic-tour-old-national-centre-2026-06-21-dJJuYz",
+      "slug": "santana-the-doobie-brothers-oneness-tour-2026-ruoff-music-center-2026-06-22-YK-tes",
       "source": "ticketmaster"
     },
     {
