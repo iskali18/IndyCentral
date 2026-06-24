@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T12:48:17Z",
+  "generatedAt": "2026-06-24T12:29:52Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,7 +7,7 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 132,
+  "count": 131,
   "events": [
     {
       "id": "vv17fZbwGkmps-4p",
@@ -1074,6 +1074,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vvG1fZ_GRmc7-3",
+      "name": "DON TOLIVER: NITROUS - OCTANE WORLD TOUR LEG 2",
+      "url": "https://www.ticketmaster.com/don-toliver-nitrous-octane-world-tour-indianapolis-indiana-08-26-2026/event/050064CBEEB44852",
+      "dateLocal": "2026-08-26T23:30:00Z",
+      "dateDisplay": "2026-08-26 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Gainbridge Fieldhouse",
+      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
+      "venueId": "KovZpZA6keIA",
+      "slug": "don-toliver-nitrous-octane-world-tour-leg-2-gainbridge-fieldhouse-2026-08-26-Rmc7-3",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv17fZ_7GkwU1ism",
       "name": "Caamp",
       "url": "https://www.ticketmaster.com/caamp-indianapolis-indiana-08-26-2026/event/0500644CB62ACC6E",
@@ -1536,6 +1550,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vvG1fZ_u5i_qL8",
+      "name": "Erykah Badu",
+      "url": "https://www.ticketmaster.com/erykah-badu-indianapolis-indiana-09-22-2026/event/050064D2EC65D7D0",
+      "dateLocal": "2026-09-23T00:00:00Z",
+      "dateDisplay": "2026-09-22 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "erykah-badu-everwise-amphitheater-at-white-river-state-park-2026-09-22-5i_qL8",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv1kfZ_kp3G7XbxT",
       "name": "Gary Allan",
       "url": "https://www.ticketmaster.com/gary-allan-indianapolis-indiana-09-24-2026/event/0500646592F988BF",
@@ -1813,48 +1841,6 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "rocky-in-concert-old-national-centre-2026-10-29-63WqaK",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_1BNRb1N",
-      "name": "Shakey Graves - Fondness, Etc. Tour",
-      "url": "https://www.ticketmaster.com/shakey-graves-fondness-etc-tour-indianapolis-indiana-10-30-2026/event/050064AEA3BD82A3",
-      "dateLocal": "2026-10-31T00:00:00Z",
-      "dateDisplay": "2026-10-30 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "shakey-graves-fondness-etc-tour-old-national-centre-2026-10-30-BNRb1N",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZko9Gkdr_jSx",
-      "name": "The Living Tombstone - The Multiplayer Tour",
-      "url": "https://www.ticketmaster.com/the-living-tombstone-the-multiplayer-tour-indianapolis-indiana-10-31-2026/event/05006457DE65CCE2",
-      "dateLocal": "2026-11-01T00:00:00Z",
-      "dateDisplay": "2026-10-31 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "the-living-tombstone-the-multiplayer-tour-old-national-centre-2026-10-31-dr_jSx",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZk3vGkeysDCl",
-      "name": "The Phil Collins Story",
-      "url": "https://www.ticketmaster.com/the-phil-collins-story-indianapolis-indiana-11-01-2026/event/05006481B9C7B3AB",
-      "dateLocal": "2026-11-02T00:00:00Z",
-      "dateDisplay": "2026-11-01 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "the-phil-collins-story-old-national-centre-2026-11-01-eysDCl",
       "source": "ticketmaster"
     }
   ]
