@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T12:27:23Z",
+  "generatedAt": "2026-06-27T11:47:12Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,64 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 131,
+  "count": 123,
   "events": [
-    {
-      "id": "vv1AAZkotGkeNf6Qz",
-      "name": "Five Iron Frenzy and The Suicide Machines w/Mustard Plug",
-      "url": "https://www.ticketmaster.com/five-iron-frenzy-and-the-suicide-indianapolis-indiana-06-26-2026/event/05006469A35076B8",
-      "dateLocal": "2026-06-26T23:00:00Z",
-      "dateDisplay": "2026-06-26 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "five-iron-frenzy-and-the-suicide-machines-wmustard-plug-old-national-centre-2026-06-26-eNf6Qz",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1Fv8v0GYopZ7GG7F",
-      "name": "Dave Matthews Band",
-      "url": "https://www.ticketmaster.com/dave-matthews-band-noblesville-indiana-06-26-2026/event/050064330456BB37",
-      "dateLocal": "2026-06-26T23:30:00Z",
-      "dateDisplay": "2026-06-26 19:30:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "dave-matthews-band-ruoff-music-center-2026-06-26-Z7GG7F",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1kv8v0P_GAu2kWr",
-      "name": "Trap Karaoke",
-      "url": "https://trapkaraoke.com/events/indianapolis-6-26",
-      "dateLocal": "2026-06-27T00:00:00Z",
-      "dateDisplay": "2026-06-26 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "trap-karaoke-old-national-centre-2026-06-26-Au2kWr",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZk8MGkdBKkuC",
-      "name": "Dave Matthews Band - 2 Day Lawn Pass (6/26 & 6/27)",
-      "url": "https://www.ticketmaster.com/dave-matthews-band-2-day-lawn-noblesville-indiana-06-26-2026/event/05006437FA4C634E",
-      "dateLocal": "2026-06-26",
-      "dateDisplay": "2026-06-26",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "dave-matthews-band-2-day-lawn-pass-626-627-ruoff-music-center-2026-06-26-dBKkuC",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1Fv8v0GYo_Z7GG75",
       "name": "Dave Matthews Band",
@@ -1785,62 +1729,6 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "sting-30-tour-old-national-centre-2026-10-23-eUOCYQ",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_G1SBGiQ",
-      "name": "Wheeler Walker Jr. - Pullin' Out: The Farewell Tour",
-      "url": "https://www.ticketmaster.com/wheeler-walker-jr-pullin-out-the-indianapolis-indiana-10-24-2026/event/050064C2B3E8CB1A",
-      "dateLocal": "2026-10-25T00:00:00Z",
-      "dateDisplay": "2026-10-24 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "wheeler-walker-jr-pullin-out-the-farewell-tour-old-national-centre-2026-10-24-1SBGiQ",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZ_kGkmhx6vd",
-      "name": "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour",
-      "url": "https://www.ticketmaster.com/disney-descendants-zombies-camp-rock-worlds-indianapolis-indiana-10-27-2026/event/0500646B9B887043",
-      "dateLocal": "2026-10-27T23:00:00Z",
-      "dateDisplay": "2026-10-27 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Gainbridge Fieldhouse",
-      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
-      "venueId": "KovZpZA6keIA",
-      "slug": "disney-descendants-zombies-camp-rock-worlds-collide-concert-tour-gainbridge-fieldhouse-202-mhx6vd",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_G63WqaK",
-      "name": "Rocky in Concert",
-      "url": "https://www.ticketmaster.com/rocky-in-concert-indianapolis-indiana-10-29-2026/event/050064C1D2F5D253",
-      "dateLocal": "2026-10-29T23:00:00Z",
-      "dateDisplay": "2026-10-29 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "rocky-in-concert-old-national-centre-2026-10-29-63WqaK",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_1BNRb1N",
-      "name": "Shakey Graves - Fondness, Etc. Tour",
-      "url": "https://www.ticketmaster.com/shakey-graves-fondness-etc-tour-indianapolis-indiana-10-30-2026/event/050064AEA3BD82A3",
-      "dateLocal": "2026-10-31T00:00:00Z",
-      "dateDisplay": "2026-10-30 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "shakey-graves-fondness-etc-tour-old-national-centre-2026-10-30-BNRb1N",
       "source": "ticketmaster"
     }
   ]
