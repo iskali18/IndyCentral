@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T11:47:12Z",
+  "generatedAt": "2026-06-28T11:58:50Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 123,
+  "count": 124,
   "events": [
-    {
-      "id": "vv1Fv8v0GYo_Z7GG75",
-      "name": "Dave Matthews Band",
-      "url": "https://www.ticketmaster.com/dave-matthews-band-noblesville-indiana-06-27-2026/event/050064330459BB3A",
-      "dateLocal": "2026-06-27T23:30:00Z",
-      "dateDisplay": "2026-06-27 19:30:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "dave-matthews-band-ruoff-music-center-2026-06-27-Z7GG75",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZ_kGkRpwuC5",
       "name": "The Pussycat Dolls: PCD FOREVER TOUR",
@@ -1729,6 +1715,34 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "sting-30-tour-old-national-centre-2026-10-23-eUOCYQ",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_G1SBGiQ",
+      "name": "Wheeler Walker Jr. - Pullin' Out: The Farewell Tour",
+      "url": "https://www.ticketmaster.com/wheeler-walker-jr-pullin-out-the-indianapolis-indiana-10-24-2026/event/050064C2B3E8CB1A",
+      "dateLocal": "2026-10-25T00:00:00Z",
+      "dateDisplay": "2026-10-24 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "wheeler-walker-jr-pullin-out-the-farewell-tour-old-national-centre-2026-10-24-1SBGiQ",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_kGkmhx6vd",
+      "name": "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour",
+      "url": "https://www.ticketmaster.com/disney-descendants-zombies-camp-rock-worlds-indianapolis-indiana-10-27-2026/event/0500646B9B887043",
+      "dateLocal": "2026-10-27T23:00:00Z",
+      "dateDisplay": "2026-10-27 19:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Gainbridge Fieldhouse",
+      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
+      "venueId": "KovZpZA6keIA",
+      "slug": "disney-descendants-zombies-camp-rock-worlds-collide-concert-tour-gainbridge-fieldhouse-202-mhx6vd",
       "source": "ticketmaster"
     }
   ]
