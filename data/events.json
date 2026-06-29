@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T11:58:50Z",
+  "generatedAt": "2026-06-29T14:29:13Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,36 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 124,
+  "count": 125,
   "events": [
-    {
-      "id": "vv17fZ_kGkRpwuC5",
-      "name": "The Pussycat Dolls: PCD FOREVER TOUR",
-      "url": "https://www.ticketmaster.com/the-pussycat-dolls-pcd-forever-tour-noblesville-indiana-06-28-2026/event/0500646BD6C8D38B",
-      "dateLocal": "2026-06-28T22:30:00Z",
-      "dateDisplay": "2026-06-28 18:30:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "the-pussycat-dolls-pcd-forever-tour-ruoff-music-center-2026-06-28-RpwuC5",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkuzGkeckbFK",
-      "name": "The Dead South",
-      "url": "https://www.ticketmaster.com/the-dead-south-indianapolis-indiana-06-28-2026/event/05006378AD198213",
-      "dateLocal": "2026-06-28T23:30:00Z",
-      "dateDisplay": "2026-06-28 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "the-dead-south-everwise-amphitheater-at-white-river-state-park-2026-06-28-eckbFK",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZkotGkd8u5gl",
       "name": "Satinder Sartaaj",
@@ -920,6 +892,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vvG1fZ_uxNq_eo",
+      "name": "Bingo Loco - Ages 21+",
+      "url": "https://www.ticketmaster.com/bingo-loco-ages-21-indianapolis-indiana-08-21-2026/event/050064D8A3759091",
+      "dateLocal": "2026-08-22T00:00:00Z",
+      "dateDisplay": "2026-08-21 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "bingo-loco-ages-21-old-national-centre-2026-08-21-xNq_eo",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv16AZk8g0UZA86FFd",
       "name": "LINDSEY STIRLING - DUALITY UNTAMED TOUR",
       "url": "https://www.ticketmaster.com/lindsey-stirling-duality-untamed-tour-indianapolis-indiana-08-22-2026/event/05006435936F6772",
@@ -1743,6 +1729,34 @@
       "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
       "venueId": "KovZpZA6keIA",
       "slug": "disney-descendants-zombies-camp-rock-worlds-collide-concert-tour-gainbridge-fieldhouse-202-mhx6vd",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_G63WqaK",
+      "name": "Rocky in Concert",
+      "url": "https://www.ticketmaster.com/rocky-in-concert-indianapolis-indiana-10-29-2026/event/050064C1D2F5D253",
+      "dateLocal": "2026-10-29T23:00:00Z",
+      "dateDisplay": "2026-10-29 19:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "rocky-in-concert-old-national-centre-2026-10-29-63WqaK",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_1BNRb1N",
+      "name": "Shakey Graves - Fondness, Etc. Tour",
+      "url": "https://www.ticketmaster.com/shakey-graves-fondness-etc-tour-indianapolis-indiana-10-30-2026/event/050064AEA3BD82A3",
+      "dateLocal": "2026-10-31T00:00:00Z",
+      "dateDisplay": "2026-10-30 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "shakey-graves-fondness-etc-tour-old-national-centre-2026-10-30-BNRb1N",
       "source": "ticketmaster"
     }
   ]
