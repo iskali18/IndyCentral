@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T14:29:13Z",
+  "generatedAt": "2026-06-30T12:25:00Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,7 +7,7 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 125,
+  "count": 121,
   "events": [
     {
       "id": "vv1AAZkotGkd8u5gl",
@@ -1701,62 +1701,6 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "sting-30-tour-old-national-centre-2026-10-23-eUOCYQ",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_G1SBGiQ",
-      "name": "Wheeler Walker Jr. - Pullin' Out: The Farewell Tour",
-      "url": "https://www.ticketmaster.com/wheeler-walker-jr-pullin-out-the-indianapolis-indiana-10-24-2026/event/050064C2B3E8CB1A",
-      "dateLocal": "2026-10-25T00:00:00Z",
-      "dateDisplay": "2026-10-24 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "wheeler-walker-jr-pullin-out-the-farewell-tour-old-national-centre-2026-10-24-1SBGiQ",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZ_kGkmhx6vd",
-      "name": "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour",
-      "url": "https://www.ticketmaster.com/disney-descendants-zombies-camp-rock-worlds-indianapolis-indiana-10-27-2026/event/0500646B9B887043",
-      "dateLocal": "2026-10-27T23:00:00Z",
-      "dateDisplay": "2026-10-27 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Gainbridge Fieldhouse",
-      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
-      "venueId": "KovZpZA6keIA",
-      "slug": "disney-descendants-zombies-camp-rock-worlds-collide-concert-tour-gainbridge-fieldhouse-202-mhx6vd",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_G63WqaK",
-      "name": "Rocky in Concert",
-      "url": "https://www.ticketmaster.com/rocky-in-concert-indianapolis-indiana-10-29-2026/event/050064C1D2F5D253",
-      "dateLocal": "2026-10-29T23:00:00Z",
-      "dateDisplay": "2026-10-29 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "rocky-in-concert-old-national-centre-2026-10-29-63WqaK",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_1BNRb1N",
-      "name": "Shakey Graves - Fondness, Etc. Tour",
-      "url": "https://www.ticketmaster.com/shakey-graves-fondness-etc-tour-indianapolis-indiana-10-30-2026/event/050064AEA3BD82A3",
-      "dateLocal": "2026-10-31T00:00:00Z",
-      "dateDisplay": "2026-10-30 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "shakey-graves-fondness-etc-tour-old-national-centre-2026-10-30-BNRb1N",
       "source": "ticketmaster"
     }
   ]
