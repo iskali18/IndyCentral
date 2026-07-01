@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T12:25:00Z",
+  "generatedAt": "2026-07-01T13:11:41Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,7 +7,7 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 121,
+  "count": 117,
   "events": [
     {
       "id": "vv1AAZkotGkd8u5gl",
@@ -1645,62 +1645,6 @@
       "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
       "venueId": "KovZpZA6keIA",
       "slug": "the-smashing-pumpkins-the-rats-in-a-cage-tour-gainbridge-fieldhouse-2026-10-20-XMUioK",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_1QXqepe",
-      "name": "The Rocky Horror Picture Show Spooktacular Tour with Barry Bostwick",
-      "url": "https://www.ticketmaster.com/the-rocky-horror-picture-show-spooktacular-indianapolis-indiana-10-21-2026/event/050064A6BE742582",
-      "dateLocal": "2026-10-21T23:30:00Z",
-      "dateDisplay": "2026-10-21 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "the-rocky-horror-picture-show-spooktacular-tour-with-barry-bostwick-old-national-centre-20-QXqepe",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkoJGkdxp3XH",
-      "name": "Buena Vista Orchestra",
-      "url": "https://www.ticketmaster.com/buena-vista-orchestra-indianapolis-indiana-10-21-2026/event/05006466E2592FBC",
-      "dateLocal": "2026-10-22T00:00:00Z",
-      "dateDisplay": "2026-10-21 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "buena-vista-orchestra-old-national-centre-2026-10-21-dxp3XH",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkobGkeULrRX",
-      "name": "STING 3.0 Tour",
-      "url": "https://www.ticketmaster.com/sting-30-tour-indianapolis-indiana-10-22-2026/event/05006458B67DEBFE",
-      "dateLocal": "2026-10-23T00:00:00Z",
-      "dateDisplay": "2026-10-22 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "sting-30-tour-old-national-centre-2026-10-22-eULrRX",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkobGkeUOCYQ",
-      "name": "STING 3.0 Tour",
-      "url": "https://www.ticketmaster.com/sting-30-tour-indianapolis-indiana-10-23-2026/event/05006458B680EC1A",
-      "dateLocal": "2026-10-24T00:00:00Z",
-      "dateDisplay": "2026-10-23 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "sting-30-tour-old-national-centre-2026-10-23-eUOCYQ",
       "source": "ticketmaster"
     }
   ]
