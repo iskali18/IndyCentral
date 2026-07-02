@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T13:11:41Z",
+  "generatedAt": "2026-07-02T12:21:38Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,7 +7,7 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 117,
+  "count": 115,
   "events": [
     {
       "id": "vv1AAZkotGkd8u5gl",
@@ -1617,34 +1617,6 @@
       "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
       "venueId": "KovZpZAdEJEA",
       "slug": "ed-sheeran-loop-tour-lucas-oil-stadium-2026-10-10-A1To9S",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_1QiwmGp",
-      "name": "Buddy Guy 90",
-      "url": "https://www.ticketmaster.com/buddy-guy-90-indianapolis-indiana-10-17-2026/event/050064A6ACCAE316",
-      "dateLocal": "2026-10-17T23:30:00Z",
-      "dateDisplay": "2026-10-17 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Clowes Memorial Hall",
-      "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
-      "venueId": "KovZpZAJdEkA",
-      "slug": "buddy-guy-90-clowes-memorial-hall-2026-10-17-QiwmGp",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_1XMUioK",
-      "name": "The Smashing Pumpkins: The Rats In A Cage Tour",
-      "url": "https://www.ticketmaster.com/the-smashing-pumpkins-the-rats-in-indianapolis-indiana-10-20-2026/event/050064AFB7DAC453",
-      "dateLocal": "2026-10-21T00:00:00Z",
-      "dateDisplay": "2026-10-20 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Gainbridge Fieldhouse",
-      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
-      "venueId": "KovZpZA6keIA",
-      "slug": "the-smashing-pumpkins-the-rats-in-a-cage-tour-gainbridge-fieldhouse-2026-10-20-XMUioK",
       "source": "ticketmaster"
     }
   ]
