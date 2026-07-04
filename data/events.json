@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T12:20:23Z",
+  "generatedAt": "2026-07-04T11:47:18Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 115,
+  "count": 114,
   "events": [
-    {
-      "id": "vv1AAZkotGkd8u5gl",
-      "name": "Satinder Sartaaj",
-      "url": "https://www.ticketmaster.com/satinder-sartaaj-indianapolis-indiana-07-03-2026/event/05006469D034BD6B",
-      "dateLocal": "2026-07-03T23:00:00Z",
-      "dateDisplay": "2026-07-03 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "satinder-sartaaj-old-national-centre-2026-07-03-d8u5gl",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZkuNGkewSFeu",
       "name": "Jack Johnson: SURFILMUSIC Tour 2026",
