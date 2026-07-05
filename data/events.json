@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T11:47:18Z",
+  "generatedAt": "2026-07-05T11:49:00Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 114,
+  "count": 113,
   "events": [
-    {
-      "id": "vv1AAZkuNGkewSFeu",
-      "name": "Jack Johnson: SURFILMUSIC Tour 2026",
-      "url": "https://www.ticketmaster.com/jack-johnson-surfilmusic-tour-2026-noblesville-indiana-07-04-2026/event/05006363B2CC808D",
-      "dateLocal": "2026-07-04T23:30:00Z",
-      "dateDisplay": "2026-07-04 19:30:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "jack-johnson-surfilmusic-tour-2026-ruoff-music-center-2026-07-04-ewSFeu",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZkoyGkegm_i4",
       "name": "Muse - The Wow! Signal Tour",
