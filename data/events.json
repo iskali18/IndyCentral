@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T14:02:56Z",
+  "generatedAt": "2026-07-07T12:39:13Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,7 +7,7 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 113,
+  "count": 116,
   "events": [
     {
       "id": "vv1AAZkoyGkegm_i4",
@@ -864,6 +864,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vvG1fZ_C1lrt4b",
+      "name": "Garth Brooks - Blame It All On My Roots Arena Tour",
+      "url": "https://www.ticketmaster.com/garth-brooks-blame-it-all-on-indianapolis-indiana-08-21-2026/event/050064E2AB7A9558",
+      "dateLocal": "2026-08-22T00:00:00Z",
+      "dateDisplay": "2026-08-21 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Gainbridge Fieldhouse",
+      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
+      "venueId": "KovZpZA6keIA",
+      "slug": "garth-brooks-blame-it-all-on-my-roots-arena-tour-gainbridge-fieldhouse-2026-08-21-1lrt4b",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vvG1fZ_uxNq_eo",
       "name": "Bingo Loco - Ages 21+",
       "url": "https://www.ticketmaster.com/bingo-loco-ages-21-indianapolis-indiana-08-21-2026/event/050064D8A3759091",
@@ -903,6 +917,20 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "tedeschi-trucks-band-and-alabama-shakes-ruoff-music-center-2026-08-22-dOcjVO",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_C1lLt4J",
+      "name": "Garth Brooks - Blame It All On My Roots Arena Tour",
+      "url": "https://www.ticketmaster.com/garth-brooks-blame-it-all-on-indianapolis-indiana-08-22-2026/event/050064E2AB7E9566",
+      "dateLocal": "2026-08-23T00:00:00Z",
+      "dateDisplay": "2026-08-22 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Gainbridge Fieldhouse",
+      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
+      "venueId": "KovZpZA6keIA",
+      "slug": "garth-brooks-blame-it-all-on-my-roots-arena-tour-gainbridge-fieldhouse-2026-08-22-1lLt4J",
       "source": "ticketmaster"
     },
     {
@@ -1267,6 +1295,20 @@
       "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
       "venueId": "KovZpZAEAAJA",
       "slug": "wtts-rock-on-the-river-mt-joy-2026-celebrating-10-years-of-mt-joy-everwise-amphitheater-at-ePzDvw",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_u6xbgSV",
+      "name": "Chief Keef",
+      "url": "https://www.ticketmaster.com/chief-keef-indianapolis-indiana-09-15-2026/event/050064D1E2635CF4",
+      "dateLocal": "2026-09-16T00:00:00Z",
+      "dateDisplay": "2026-09-15 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "chief-keef-old-national-centre-2026-09-15-6xbgSV",
       "source": "ticketmaster"
     },
     {
