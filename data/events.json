@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T12:39:13Z",
+  "generatedAt": "2026-07-08T11:58:15Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 116,
+  "count": 115,
   "events": [
-    {
-      "id": "vv1AAZkoyGkegm_i4",
-      "name": "Muse - The Wow! Signal Tour",
-      "url": "https://www.ticketmaster.com/muse-the-wow-signal-tour-noblesville-indiana-07-07-2026/event/05006479B5B99B15",
-      "dateLocal": "2026-07-07T23:00:00Z",
-      "dateDisplay": "2026-07-07 19:00:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "muse-the-wow-signal-tour-ruoff-music-center-2026-07-07-egm_i4",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1kfZbMONG7DGgw",
       "name": "Evanescence 2026 World Tour with Spiritbox and Nova Twins",
