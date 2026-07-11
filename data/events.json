@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T12:37:33Z",
+  "generatedAt": "2026-07-11T11:26:22Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,50 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 114,
+  "count": 112,
   "events": [
-    {
-      "id": "vv1AAZk8UGkdsGT_F",
-      "name": "The Fray - Summer of Light Tour with Dashboard Confessional",
-      "url": "https://www.ticketmaster.com/the-fray-summer-of-light-tour-indianapolis-indiana-07-10-2026/event/05006436F133F648",
-      "dateLocal": "2026-07-10T23:00:00Z",
-      "dateDisplay": "2026-07-10 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "the-fray-summer-of-light-tour-with-dashboard-confessional-everwise-amphitheater-at-white-r-dsGT_F",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkooGkdq5qCw",
-      "name": "Phish",
-      "url": "https://www.ticketmaster.com/phish-noblesville-indiana-07-10-2026/event/05006451DD2DD3B2",
-      "dateLocal": "2026-07-10T23:30:00Z",
-      "dateDisplay": "2026-07-10 19:30:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "phish-ruoff-music-center-2026-07-10-dq5qCw",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkofGkd-TtY2",
-      "name": "Phish: 3 Day Pass (7/10, 7/11, 7/12)",
-      "url": "https://www.ticketmaster.com/phish-3-day-pass-710-711-noblesville-indiana-07-10-2026/event/05006454E1FE9C0F",
-      "dateLocal": "2026-07-10",
-      "dateDisplay": "2026-07-10",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "phish-3-day-pass-710-711-712-ruoff-music-center-2026-07-10-d-TtY2",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZkooGkdqGuCU",
       "name": "Phish",
@@ -1603,6 +1561,20 @@
       "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
       "venueId": "KovZpZAdEJEA",
       "slug": "ed-sheeran-loop-tour-lucas-oil-stadium-2026-10-10-A1To9S",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_1QiwmGp",
+      "name": "Buddy Guy 90",
+      "url": "https://www.ticketmaster.com/buddy-guy-90-indianapolis-indiana-10-17-2026/event/050064A6ACCAE316",
+      "dateLocal": "2026-10-17T23:30:00Z",
+      "dateDisplay": "2026-10-17 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Clowes Memorial Hall",
+      "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
+      "venueId": "KovZpZAJdEkA",
+      "slug": "buddy-guy-90-clowes-memorial-hall-2026-10-17-QiwmGp",
       "source": "ticketmaster"
     }
   ]
