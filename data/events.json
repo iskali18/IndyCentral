@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T11:32:56Z",
+  "generatedAt": "2026-07-13T12:42:01Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,36 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 112,
+  "count": 110,
   "events": [
-    {
-      "id": "vv1AAZkooGkdquu2Z",
-      "name": "Phish",
-      "url": "https://www.ticketmaster.com/phish-noblesville-indiana-07-12-2026/event/05006451DD34D3C0",
-      "dateLocal": "2026-07-12T23:00:00Z",
-      "dateDisplay": "2026-07-12 19:00:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "phish-ruoff-music-center-2026-07-12-dquu2Z",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZ_eGkXwLhEY",
-      "name": "Death Cab for Cutie: I Built You A Tower World Tour",
-      "url": "https://www.ticketmaster.com/death-cab-for-cutie-i-built-indianapolis-indiana-07-12-2026/event/0500642FB27DB9F0",
-      "dateLocal": "2026-07-12T23:30:00Z",
-      "dateDisplay": "2026-07-12 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "death-cab-for-cutie-i-built-you-a-tower-world-tour-everwise-amphitheater-at-white-river-st-XwLhEY",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZk36GkdLwDtm",
       "name": "The Strokes - Reality Awaits North America",
