@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T11:46:55Z",
+  "generatedAt": "2026-07-15T11:51:14Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,7 +7,7 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 109,
+  "count": 110,
   "events": [
     {
       "id": "vv1AAZk36GkdLwDtm",
@@ -1368,6 +1368,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vvG1fZ_Chbiw97",
+      "name": "Highly Suspect & Yelawolf - The War Within Tour",
+      "url": "https://www.ticketmaster.com/highly-suspect-yelawolf-the-war-within-indianapolis-indiana-09-23-2026/event/050064E6D8B325C4",
+      "dateLocal": "2026-09-23T23:00:00Z",
+      "dateDisplay": "2026-09-23 19:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "highly-suspect-yelawolf-the-war-within-tour-old-national-centre-2026-09-23-hbiw97",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv1kfZ_kp3G7XbxT",
       "name": "Gary Allan",
       "url": "https://www.ticketmaster.com/gary-allan-indianapolis-indiana-09-24-2026/event/0500646592F988BF",
@@ -1522,17 +1536,17 @@
       "source": "ticketmaster"
     },
     {
-      "id": "vvG1fZ_1QiwmGp",
-      "name": "Buddy Guy 90",
-      "url": "https://www.ticketmaster.com/buddy-guy-90-indianapolis-indiana-10-17-2026/event/050064A6ACCAE316",
-      "dateLocal": "2026-10-17T23:30:00Z",
-      "dateDisplay": "2026-10-17 19:30:00",
+      "id": "vvG1fZ_CQD9jdO",
+      "name": "Rumours of Fleetwood Mac",
+      "url": "https://www.ticketmaster.com/rumours-of-fleetwood-mac-indianapolis-indiana-10-14-2026/event/050064E6BB5DC0E0",
+      "dateLocal": "2026-10-14T23:00:00Z",
+      "dateDisplay": "2026-10-14 19:00:00",
       "city": "Indianapolis",
       "state": "IN",
       "venueName": "Clowes Memorial Hall",
       "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
       "venueId": "KovZpZAJdEkA",
-      "slug": "buddy-guy-90-clowes-memorial-hall-2026-10-17-QiwmGp",
+      "slug": "rumours-of-fleetwood-mac-clowes-memorial-hall-2026-10-14-QD9jdO",
       "source": "ticketmaster"
     }
   ]
