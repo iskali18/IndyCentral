@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T11:54:55Z",
+  "generatedAt": "2026-07-17T11:42:31Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -570,20 +570,6 @@
       "source": "ticketmaster"
     },
     {
-      "id": "vv1AAZkoJGkd9fOWS",
-      "name": "Banda MS de Sergio Lizarraga - Somos Tour",
-      "url": "https://www.ticketmaster.com/banda-ms-de-sergio-lizarraga-somos-indianapolis-indiana-08-08-2026/event/05006466D7520F73",
-      "dateLocal": "2026-08-09T00:00:00Z",
-      "dateDisplay": "2026-08-08 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Gainbridge Fieldhouse",
-      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
-      "venueId": "KovZpZA6keIA",
-      "slug": "banda-ms-de-sergio-lizarraga-somos-tour-gainbridge-fieldhouse-2026-08-08-d9fOWS",
-      "source": "ticketmaster"
-    },
-    {
       "id": "vvG1fZ_GlrrD4X",
       "name": "Emo Nite (Ages 18+)",
       "url": "https://www.ticketmaster.com/emo-nite-ages-18-indianapolis-indiana-08-08-2026/event/050064CADE7BB57E",
@@ -906,6 +892,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vvG1fZ_CJNRF95",
+      "name": "¡NOCHE LATINA! (18+)",
+      "url": "https://www.ticketmaster.com/noche-latina-18-indianapolis-indiana-08-29-2026/event/050064E9A3BC85CB",
+      "dateLocal": "2026-08-30T01:00:00Z",
+      "dateDisplay": "2026-08-29 21:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "noche-latina-18-old-national-centre-2026-08-29-JNRF95",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv1kfZ_61FG7Sf6_",
       "name": "Kesha: The Freedom Tour",
       "url": "https://www.ticketmaster.com/kesha-the-freedom-tour-noblesville-indiana-08-30-2026/event/0500647288CD41D9",
@@ -1007,8 +1007,8 @@
       "id": "vv17fZ_eGkUKdKWw",
       "name": "Rob Zombie & Marilyn Manson with The Hu & Orgy",
       "url": "https://www.ticketmaster.com/rob-zombie-marilyn-manson-with-the-noblesville-indiana-09-06-2026/event/0500642D930D3F72",
-      "dateLocal": "2026-09-06T22:30:00Z",
-      "dateDisplay": "2026-09-06 18:30:00",
+      "dateLocal": "2026-09-06T22:15:00Z",
+      "dateDisplay": "2026-09-06 18:15:00",
       "city": "Noblesville",
       "state": "IN",
       "venueName": "Ruoff Music Center",
