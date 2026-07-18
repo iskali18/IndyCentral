@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T11:42:31Z",
+  "generatedAt": "2026-07-18T11:25:09Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 110,
+  "count": 111,
   "events": [
-    {
-      "id": "vv17fZ_dGkR2qnTP",
-      "name": "Southern Hospitality Tour: The Black Crowes and Whiskey Myers",
-      "url": "https://www.ticketmaster.com/southern-hospitality-tour-the-black-crowes-noblesville-indiana-07-17-2026/event/0500643BCF76AFE5",
-      "dateLocal": "2026-07-17T22:30:00Z",
-      "dateDisplay": "2026-07-17 18:30:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "southern-hospitality-tour-the-black-crowes-and-whiskey-myers-ruoff-music-center-2026-07-17-R2qnTP",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZ_AGknUwGB8",
       "name": "Tucker Wetmore: The Brunette World Tour ",
@@ -696,6 +682,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vvG1fZ_C1lqafD",
+      "name": "Garth Brooks - Blame It All On My Roots Arena Tour",
+      "url": "https://www.ticketmaster.com/garth-brooks-blame-it-all-on-indianapolis-indiana-08-20-2026/event/050064E2AB74953B",
+      "dateLocal": "2026-08-20T23:30:00Z",
+      "dateDisplay": "2026-08-20 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Gainbridge Fieldhouse",
+      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
+      "venueId": "KovZpZA6keIA",
+      "slug": "garth-brooks-blame-it-all-on-my-roots-arena-tour-gainbridge-fieldhouse-2026-08-20-1lqafD",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv1AAZk8gGkdrZGJh",
       "name": "Bonnie Raitt: Live 2026 with Special Guest Jon Cleary",
       "url": "https://www.ticketmaster.com/bonnie-raitt-live-2026-with-special-indianapolis-indiana-08-20-2026/event/05006435DE00C99B",
@@ -791,6 +791,20 @@
       "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
       "venueId": "KovZpZA6keIA",
       "slug": "garth-brooks-blame-it-all-on-my-roots-arena-tour-gainbridge-fieldhouse-2026-08-22-1lLt4J",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_C1lxa4D",
+      "name": "Garth Brooks - Blame It All On My Roots Arena Tour",
+      "url": "https://www.ticketmaster.com/garth-brooks-blame-it-all-on-indianapolis-indiana-08-23-2026/event/050064E2AB88957B",
+      "dateLocal": "2026-08-23T18:00:00Z",
+      "dateDisplay": "2026-08-23 14:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Gainbridge Fieldhouse",
+      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
+      "venueId": "KovZpZA6keIA",
+      "slug": "garth-brooks-blame-it-all-on-my-roots-arena-tour-gainbridge-fieldhouse-2026-08-23-1lxa4D",
       "source": "ticketmaster"
     },
     {
