@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T11:25:09Z",
+  "generatedAt": "2026-07-19T11:32:31Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -9,48 +9,6 @@
   },
   "count": 111,
   "events": [
-    {
-      "id": "vv17fZ_AGknUwGB8",
-      "name": "Tucker Wetmore: The Brunette World Tour ",
-      "url": "https://www.ticketmaster.com/tucker-wetmore-the-brunette-world-tour-indianapolis-indiana-07-18-2026/event/0500645AB6C8CE90",
-      "dateLocal": "2026-07-18T22:30:00Z",
-      "dateDisplay": "2026-07-18 18:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "tucker-wetmore-the-brunette-world-tour-everwise-amphitheater-at-white-river-state-park-202-nUwGB8",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZk8tGkel-UW3",
-      "name": "John Mellencamp Dancing Words Tour The Greatest Hits",
-      "url": "https://www.ticketmaster.com/john-mellencamp-dancing-words-tour-the-noblesville-indiana-07-18-2026/event/05006429AB876F52",
-      "dateLocal": "2026-07-19T00:00:00Z",
-      "dateDisplay": "2026-07-18 20:00:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "john-mellencamp-dancing-words-tour-the-greatest-hits-ruoff-music-center-2026-07-18-el-UW3",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZ_FGknyk5kw",
-      "name": "Debí Tirar Más Fiestas (18+)",
-      "url": "https://www.ticketmaster.com/debi-tirar-mas-fiestas-18-indianapolis-indiana-07-18-2026/event/0500648AB918B1B2",
-      "dateLocal": "2026-07-19T01:00:00Z",
-      "dateDisplay": "2026-07-18 21:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "debí-tirar-más-fiestas-18-old-national-centre-2026-07-18-nyk5kw",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1kv8v0oZGAuTL3L",
       "name": "Sarah McLachlan - Better Broken Tour",
@@ -1561,6 +1519,48 @@
       "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
       "venueId": "KovZpZAJdEkA",
       "slug": "buddy-guy-90-clowes-memorial-hall-2026-10-17-QiwmGp",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_1XMUioK",
+      "name": "The Smashing Pumpkins: The Rats In A Cage Tour",
+      "url": "https://www.ticketmaster.com/the-smashing-pumpkins-the-rats-in-indianapolis-indiana-10-20-2026/event/050064AFB7DAC453",
+      "dateLocal": "2026-10-21T00:00:00Z",
+      "dateDisplay": "2026-10-20 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Gainbridge Fieldhouse",
+      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
+      "venueId": "KovZpZA6keIA",
+      "slug": "the-smashing-pumpkins-the-rats-in-a-cage-tour-gainbridge-fieldhouse-2026-10-20-XMUioK",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_1QXqepe",
+      "name": "The Rocky Horror Picture Show Spooktacular Tour with Barry Bostwick",
+      "url": "https://www.ticketmaster.com/the-rocky-horror-picture-show-spooktacular-indianapolis-indiana-10-21-2026/event/050064A6BE742582",
+      "dateLocal": "2026-10-21T23:30:00Z",
+      "dateDisplay": "2026-10-21 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "the-rocky-horror-picture-show-spooktacular-tour-with-barry-bostwick-old-national-centre-20-QXqepe",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkoJGkdxp3XH",
+      "name": "Buena Vista Orchestra",
+      "url": "https://www.ticketmaster.com/buena-vista-orchestra-indianapolis-indiana-10-21-2026/event/05006466E2592FBC",
+      "dateLocal": "2026-10-22T00:00:00Z",
+      "dateDisplay": "2026-10-21 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "buena-vista-orchestra-old-national-centre-2026-10-21-dxp3XH",
       "source": "ticketmaster"
     }
   ]
