@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T11:32:31Z",
+  "generatedAt": "2026-07-20T12:26:18Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -9,34 +9,6 @@
   },
   "count": 111,
   "events": [
-    {
-      "id": "vv1kv8v0oZGAuTL3L",
-      "name": "Sarah McLachlan - Better Broken Tour",
-      "url": "https://www.ticketmaster.com/sarah-mclachlan-better-broken-tour-indianapolis-indiana-07-19-2026/event/050064440DFDF49F",
-      "dateLocal": "2026-07-19T23:30:00Z",
-      "dateDisplay": "2026-07-19 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "sarah-mclachlan-better-broken-tour-everwise-amphitheater-at-white-river-state-park-2026-07-AuTL3L",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkoyGkdlwr73",
-      "name": "Benson Boone: Wanted Man Tour",
-      "url": "https://www.ticketmaster.com/benson-boone-wanted-man-tour-indianapolis-indiana-07-19-2026/event/05006479EBC9E112",
-      "dateLocal": "2026-07-20T00:00:00Z",
-      "dateDisplay": "2026-07-19 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Gainbridge Fieldhouse",
-      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
-      "venueId": "KovZpZA6keIA",
-      "slug": "benson-boone-wanted-man-tour-gainbridge-fieldhouse-2026-07-19-dlwr73",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZko3GkdUn93A",
       "name": "Flyleaf with Lacey Sturm - 20th Anniversary Tour",
@@ -1561,6 +1533,34 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "buena-vista-orchestra-old-national-centre-2026-10-21-dxp3XH",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkobGkeULrRX",
+      "name": "STING 3.0 Tour",
+      "url": "https://www.ticketmaster.com/sting-30-tour-indianapolis-indiana-10-22-2026/event/05006458B67DEBFE",
+      "dateLocal": "2026-10-23T00:00:00Z",
+      "dateDisplay": "2026-10-22 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "sting-30-tour-old-national-centre-2026-10-22-eULrRX",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkobGkeUOCYQ",
+      "name": "STING 3.0 Tour",
+      "url": "https://www.ticketmaster.com/sting-30-tour-indianapolis-indiana-10-23-2026/event/05006458B680EC1A",
+      "dateLocal": "2026-10-24T00:00:00Z",
+      "dateDisplay": "2026-10-23 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "sting-30-tour-old-national-centre-2026-10-23-eUOCYQ",
       "source": "ticketmaster"
     }
   ]
