@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T12:26:18Z",
+  "generatedAt": "2026-07-21T12:01:31Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,7 +7,7 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 111,
+  "count": 110,
   "events": [
     {
       "id": "vv1AAZko3GkdUn93A",
@@ -1480,6 +1480,48 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vvG1fZ_Cxyu1Cx",
+      "name": "BOA Indianapolis Super Regional presented by Yamaha and Sweetwater",
+      "url": "https://www.ticketmaster.com/boa-indianapolis-super-regional-presented-by-indianapolis-indiana-10-16-2026/event/050064E8B934A3A2",
+      "dateLocal": "2026-10-16T11:00:00Z",
+      "dateDisplay": "2026-10-16 07:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Lucas Oil Stadium",
+      "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
+      "venueId": "KovZpZAdEJEA",
+      "slug": "boa-indianapolis-super-regional-presented-by-yamaha-and-sweetwater-lucas-oil-stadium-2026--xyu1Cx",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_Cxypn8t",
+      "name": "BOA Indianapolis Super Regional presented by Yamaha and Sweetwater",
+      "url": "https://www.ticketmaster.com/boa-indianapolis-super-regional-presented-by-indianapolis-indiana-10-17-2026/event/050064E8B95AA429",
+      "dateLocal": "2026-10-17T11:00:00Z",
+      "dateDisplay": "2026-10-17 07:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Lucas Oil Stadium",
+      "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
+      "venueId": "KovZpZAdEJEA",
+      "slug": "boa-indianapolis-super-regional-presented-by-yamaha-and-sweetwater-lucas-oil-stadium-2026--xypn8t",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_Cxyl1Kl",
+      "name": "BOA Indianapolis Super Regional presented by Yamaha and Sweetwater",
+      "url": "https://www.ticketmaster.com/boa-indianapolis-super-regional-presented-by-indianapolis-indiana-10-17-2026/event/050064E8B9ACA4EB",
+      "dateLocal": "2026-10-17T23:30:00Z",
+      "dateDisplay": "2026-10-17 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Lucas Oil Stadium",
+      "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
+      "venueId": "KovZpZAdEJEA",
+      "slug": "boa-indianapolis-super-regional-presented-by-yamaha-and-sweetwater-lucas-oil-stadium-2026--xyl1Kl",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vvG1fZ_1QiwmGp",
       "name": "Buddy Guy 90",
       "url": "https://www.ticketmaster.com/buddy-guy-90-indianapolis-indiana-10-17-2026/event/050064A6ACCAE316",
@@ -1505,62 +1547,6 @@
       "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
       "venueId": "KovZpZA6keIA",
       "slug": "the-smashing-pumpkins-the-rats-in-a-cage-tour-gainbridge-fieldhouse-2026-10-20-XMUioK",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_1QXqepe",
-      "name": "The Rocky Horror Picture Show Spooktacular Tour with Barry Bostwick",
-      "url": "https://www.ticketmaster.com/the-rocky-horror-picture-show-spooktacular-indianapolis-indiana-10-21-2026/event/050064A6BE742582",
-      "dateLocal": "2026-10-21T23:30:00Z",
-      "dateDisplay": "2026-10-21 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "the-rocky-horror-picture-show-spooktacular-tour-with-barry-bostwick-old-national-centre-20-QXqepe",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkoJGkdxp3XH",
-      "name": "Buena Vista Orchestra",
-      "url": "https://www.ticketmaster.com/buena-vista-orchestra-indianapolis-indiana-10-21-2026/event/05006466E2592FBC",
-      "dateLocal": "2026-10-22T00:00:00Z",
-      "dateDisplay": "2026-10-21 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "buena-vista-orchestra-old-national-centre-2026-10-21-dxp3XH",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkobGkeULrRX",
-      "name": "STING 3.0 Tour",
-      "url": "https://www.ticketmaster.com/sting-30-tour-indianapolis-indiana-10-22-2026/event/05006458B67DEBFE",
-      "dateLocal": "2026-10-23T00:00:00Z",
-      "dateDisplay": "2026-10-22 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "sting-30-tour-old-national-centre-2026-10-22-eULrRX",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkobGkeUOCYQ",
-      "name": "STING 3.0 Tour",
-      "url": "https://www.ticketmaster.com/sting-30-tour-indianapolis-indiana-10-23-2026/event/05006458B680EC1A",
-      "dateLocal": "2026-10-24T00:00:00Z",
-      "dateDisplay": "2026-10-23 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "sting-30-tour-old-national-centre-2026-10-23-eUOCYQ",
       "source": "ticketmaster"
     }
   ]
