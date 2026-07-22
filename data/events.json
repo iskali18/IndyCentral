@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T12:01:31Z",
+  "generatedAt": "2026-07-22T12:05:48Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,36 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 110,
+  "count": 108,
   "events": [
-    {
-      "id": "vv1AAZko3GkdUn93A",
-      "name": "Flyleaf with Lacey Sturm - 20th Anniversary Tour",
-      "url": "https://www.ticketmaster.com/flyleaf-with-lacey-sturm-20th-anniversary-indianapolis-indiana-07-21-2026/event/05006452F6A97485",
-      "dateLocal": "2026-07-21T23:00:00Z",
-      "dateDisplay": "2026-07-21 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "flyleaf-with-lacey-sturm-20th-anniversary-tour-old-national-centre-2026-07-21-dUn93A",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZk36GkdL3hE3",
-      "name": "JACK WHITE LIVE 2026",
-      "url": "https://www.ticketmaster.com/jack-white-live-2026-indianapolis-indiana-07-21-2026/event/05006487DF49B9D2",
-      "dateLocal": "2026-07-22T00:00:00Z",
-      "dateDisplay": "2026-07-21 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "jack-white-live-2026-everwise-amphitheater-at-white-river-state-park-2026-07-21-dL3hE3",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZkoaGkeMbIZw",
       "name": "Hilary Duff: the lucky me tour",
