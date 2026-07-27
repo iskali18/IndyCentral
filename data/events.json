@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T11:38:05Z",
+  "generatedAt": "2026-07-27T13:22:11Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 108,
+  "count": 107,
   "events": [
-    {
-      "id": "vv17fZ_AGkRd7m3w",
-      "name": "Beach Bunny",
-      "url": "https://www.ticketmaster.com/beach-bunny-indianapolis-indiana-07-26-2026/event/0500645BC312E4B2",
-      "dateLocal": "2026-07-27T00:00:00Z",
-      "dateDisplay": "2026-07-26 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "beach-bunny-old-national-centre-2026-07-26-Rd7m3w",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZ_dGkUpA6RT",
       "name": "ZAYN: The Konnakol Tour",
