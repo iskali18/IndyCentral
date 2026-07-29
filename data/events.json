@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T12:15:32Z",
+  "generatedAt": "2026-07-29T12:22:44Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,50 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 107,
+  "count": 106,
   "events": [
-    {
-      "id": "vv17fZ_dGkUpA6RT",
-      "name": "ZAYN: The Konnakol Tour",
-      "url": "https://www.ticketmaster.com/zayn-the-konnakol-tour-indianapolis-indiana-07-28-2026/event/0500643D96147BFF",
-      "dateLocal": "2026-07-29T00:00:00Z",
-      "dateDisplay": "2026-07-28 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Gainbridge Fieldhouse",
-      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
-      "venueId": "KovZpZA6keIA",
-      "slug": "zayn-the-konnakol-tour-gainbridge-fieldhouse-2026-07-28-UpA6RT",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZbSGkDDzz6B",
-      "name": "YUNGBLUD: IDOLS - THE WORLD TOUR",
-      "url": "https://www.ticketmaster.com/yungblud-idols-the-world-tour-indianapolis-indiana-07-28-2026/event/0500633EFBE381FA",
-      "dateLocal": "2026-07-29T00:00:00Z",
-      "dateDisplay": "2026-07-28 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "yungblud-idols-the-world-tour-everwise-amphitheater-at-white-river-state-park-2026-07-28-DDzz6B",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv16AZk3oPOZAG1Gda",
-      "name": "PJ Morton - Saturday Night Sunday Morning Tour",
-      "url": "https://www.ticketmaster.com/pj-morton-saturday-night-sunday-morning-indianapolis-indiana-07-28-2026/event/05006491960B9B28",
-      "dateLocal": "2026-07-29T00:00:00Z",
-      "dateDisplay": "2026-07-28 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "pj-morton-saturday-night-sunday-morning-tour-old-national-centre-2026-07-28-AG1Gda",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZ_dGkmMzyAD",
       "name": "Brit Floyd: The Moon, The Wall and Beyond",
@@ -514,6 +472,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vvG1fZ_2Npy26g",
+      "name": "Blade Rave (18+)",
+      "url": "https://www.ticketmaster.com/blade-rave-18-indianapolis-indiana-08-15-2026/event/050064F8D6E4F1F5",
+      "dateLocal": "2026-08-16T01:00:00Z",
+      "dateDisplay": "2026-08-15 21:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "blade-rave-18-old-national-centre-2026-08-15-Npy26g",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vvG1fZ_C1lqafD",
       "name": "Garth Brooks - Blame It All On My Roots Arena Tour",
       "url": "https://www.ticketmaster.com/garth-brooks-blame-it-all-on-indianapolis-indiana-08-20-2026/event/050064E2AB74953B",
@@ -847,6 +819,20 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "babymetal-world-tour-2026-ruoff-music-center-2026-09-05-nHqytk",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_2JIKz7q",
+      "name": "Club 90s Presents Mj Night",
+      "url": "https://www.ticketmaster.com/club-90s-presents-mj-night-indianapolis-indiana-09-05-2026/event/050064F9A84F811D",
+      "dateLocal": "2026-09-06T01:00:00Z",
+      "dateDisplay": "2026-09-05 21:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "club-90s-presents-mj-night-old-national-centre-2026-09-05-JIKz7q",
       "source": "ticketmaster"
     },
     {
