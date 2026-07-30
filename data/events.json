@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T12:22:44Z",
+  "generatedAt": "2026-07-30T12:05:54Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,36 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 106,
+  "count": 103,
   "events": [
-    {
-      "id": "vv17fZ_dGkmMzyAD",
-      "name": "Brit Floyd: The Moon, The Wall and Beyond",
-      "url": "https://www.ticketmaster.com/brit-floyd-the-moon-the-wall-indianapolis-indiana-07-29-2026/event/0500643BB7E3917B",
-      "dateLocal": "2026-07-30T00:00:00Z",
-      "dateDisplay": "2026-07-29 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "brit-floyd-the-moon-the-wall-and-beyond-everwise-amphitheater-at-white-river-state-park-20-mMzyAD",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkoxGkdjBmaZ",
-      "name": "Ashnikko: Smoochies Tour",
-      "url": "https://www.ticketmaster.com/ashnikko-smoochies-tour-indianapolis-indiana-07-29-2026/event/05006462DCEAE240",
-      "dateLocal": "2026-07-30T00:00:00Z",
-      "dateDisplay": "2026-07-29 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "ashnikko-smoochies-tour-old-national-centre-2026-07-29-djBmaZ",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZ_kGkiq50HG",
       "name": "Margaritaville Presents Jimmy Buffett's Coral Reefer Band",
@@ -1477,20 +1449,6 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "sting-30-tour-old-national-centre-2026-10-22-eULrRX",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkobGkeUOCYQ",
-      "name": "STING 3.0 Tour",
-      "url": "https://www.ticketmaster.com/sting-30-tour-indianapolis-indiana-10-23-2026/event/05006458B680EC1A",
-      "dateLocal": "2026-10-24T00:00:00Z",
-      "dateDisplay": "2026-10-23 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "sting-30-tour-old-national-centre-2026-10-23-eUOCYQ",
       "source": "ticketmaster"
     }
   ]
