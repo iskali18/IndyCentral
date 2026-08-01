@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T12:19:44Z",
+  "generatedAt": "2026-08-01T11:35:41Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,50 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 103,
+  "count": 100,
   "events": [
-    {
-      "id": "vv11v8v0jYv-Gbv8",
-      "name": "Turnpike Troubadours",
-      "url": "https://www.ticketmaster.com/turnpike-troubadours-indianapolis-indiana-07-31-2026/event/050064730061318F",
-      "dateLocal": "2026-07-31T23:00:00Z",
-      "dateDisplay": "2026-07-31 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "turnpike-troubadours-everwise-amphitheater-at-white-river-state-park-2026-07-31-v-Gbv8",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1kv8v0JZGA2PV5u",
-      "name": "Bop To The Top",
-      "url": "https://www.ticketmaster.com/bop-to-the-top-indianapolis-indiana-07-31-2026/event/050064980F9742CD",
-      "dateLocal": "2026-08-01T01:00:00Z",
-      "dateDisplay": "2026-07-31 21:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "bop-to-the-top-old-national-centre-2026-07-31-A2PV5u",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_1RdIhMQ",
-      "name": "Blisspop Presents: Hot In Herre: 2000's Dance Party (Ages 18+)",
-      "url": "https://www.ticketmaster.com/blisspop-presents-hot-in-herre-2000s-indianapolis-indiana-07-31-2026/event/050064ABC3A1BDDA",
-      "dateLocal": "2026-08-01T01:00:00Z",
-      "dateDisplay": "2026-07-31 21:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "blisspop-presents-hot-in-herre-2000s-dance-party-ages-18-old-national-centre-2026-07-31-RdIhMQ",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZku0GkdfV_BO",
       "name": "TRAIN - Drops of Jupiter: 25 Years in the Atmosphere",
