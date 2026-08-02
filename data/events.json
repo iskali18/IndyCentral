@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T11:35:41Z",
+  "generatedAt": "2026-08-02T11:35:47Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,50 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 100,
+  "count": 99,
   "events": [
-    {
-      "id": "vv1AAZku0GkdfV_BO",
-      "name": "TRAIN - Drops of Jupiter: 25 Years in the Atmosphere",
-      "url": "https://www.ticketmaster.com/train-drops-of-jupiter-25-years-noblesville-indiana-08-01-2026/event/05006364D4D19EA0",
-      "dateLocal": "2026-08-01T22:45:00Z",
-      "dateDisplay": "2026-08-01 18:45:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "train-drops-of-jupiter-25-years-in-the-atmosphere-ruoff-music-center-2026-08-01-dfV_BO",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkoKGkda-mH7",
-      "name": "Darius Rucker: Songs Of Summer Tour 2026",
-      "url": "https://www.ticketmaster.com/darius-rucker-songs-of-summer-tour-indianapolis-indiana-08-01-2026/event/05006453C986EF04",
-      "dateLocal": "2026-08-01T23:00:00Z",
-      "dateDisplay": "2026-08-01 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "darius-rucker-songs-of-summer-tour-2026-everwise-amphitheater-at-white-river-state-park-20-da-mH7",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZko3Gkd93elx",
-      "name": "Cat Power",
-      "url": "https://www.ticketmaster.com/cat-power-indianapolis-indiana-08-01-2026/event/05006452D7482AE2",
-      "dateLocal": "2026-08-02T00:00:00Z",
-      "dateDisplay": "2026-08-01 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "cat-power-old-national-centre-2026-08-01-d93elx",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1kv8v0jyGACfyvU",
       "name": "Dirty Heads and 311: So Glad You Made It Tour",
@@ -1407,6 +1365,34 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "sting-30-tour-old-national-centre-2026-10-23-eUOCYQ",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_G1SBGiQ",
+      "name": "Wheeler Walker Jr. - Pullin' Out: The Farewell Tour",
+      "url": "https://www.ticketmaster.com/wheeler-walker-jr-pullin-out-the-indianapolis-indiana-10-24-2026/event/050064C2B3E8CB1A",
+      "dateLocal": "2026-10-25T00:00:00Z",
+      "dateDisplay": "2026-10-24 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "wheeler-walker-jr-pullin-out-the-farewell-tour-old-national-centre-2026-10-24-1SBGiQ",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_kGkmhx6vd",
+      "name": "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour",
+      "url": "https://www.ticketmaster.com/disney-descendants-zombies-camp-rock-worlds-indianapolis-indiana-10-27-2026/event/0500646B9B887043",
+      "dateLocal": "2026-10-27T23:00:00Z",
+      "dateDisplay": "2026-10-27 19:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Gainbridge Fieldhouse",
+      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
+      "venueId": "KovZpZA6keIA",
+      "slug": "disney-descendants-zombies-camp-rock-worlds-collide-concert-tour-gainbridge-fieldhouse-202-mhx6vd",
       "source": "ticketmaster"
     }
   ]
