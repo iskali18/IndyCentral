@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T11:35:47Z",
+  "generatedAt": "2026-08-03T13:21:10Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -9,48 +9,6 @@
   },
   "count": 99,
   "events": [
-    {
-      "id": "vv1kv8v0jyGACfyvU",
-      "name": "Dirty Heads and 311: So Glad You Made It Tour",
-      "url": "https://www.ticketmaster.com/dirty-heads-and-311-so-glad-indianapolis-indiana-08-02-2026/event/050064739E539076",
-      "dateLocal": "2026-08-02T21:30:00Z",
-      "dateDisplay": "2026-08-02 17:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "dirty-heads-and-311-so-glad-you-made-it-tour-everwise-amphitheater-at-white-river-state-pa-ACfyvU",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkosGkeBRa9K",
-      "name": "DRIVEWAYS with special guests Like Roses & Action/Adventure",
-      "url": "https://www.ticketmaster.com/driveways-with-special-guests-like-roses-indianapolis-indiana-08-02-2026/event/05006471BABC95D3",
-      "dateLocal": "2026-08-02T23:00:00Z",
-      "dateDisplay": "2026-08-02 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "driveways-with-special-guests-like-roses-actionadventure-old-national-centre-2026-08-02-eBRa9K",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZkuzGkdnoBEf",
-      "name": "Chicago & Styx: The Windy Cities Tour",
-      "url": "https://www.ticketmaster.com/chicago-styx-the-windy-cities-tour-noblesville-indiana-08-02-2026/event/05006378EA47A9D4",
-      "dateLocal": "2026-08-02T23:00:00Z",
-      "dateDisplay": "2026-08-02 19:00:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "chicago-styx-the-windy-cities-tour-ruoff-music-center-2026-08-02-dnoBEf",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZk3fGkdCpHsb",
       "name": "Gigi Perez Live!",
@@ -1393,6 +1351,48 @@
       "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
       "venueId": "KovZpZA6keIA",
       "slug": "disney-descendants-zombies-camp-rock-worlds-collide-concert-tour-gainbridge-fieldhouse-202-mhx6vd",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_G63WqaK",
+      "name": "Rocky in Concert",
+      "url": "https://www.ticketmaster.com/rocky-in-concert-indianapolis-indiana-10-29-2026/event/050064C1D2F5D253",
+      "dateLocal": "2026-10-29T23:00:00Z",
+      "dateDisplay": "2026-10-29 19:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "rocky-in-concert-old-national-centre-2026-10-29-63WqaK",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_1BNRb1N",
+      "name": "Shakey Graves - Fondness, Etc. Tour",
+      "url": "https://www.ticketmaster.com/shakey-graves-fondness-etc-tour-indianapolis-indiana-10-30-2026/event/050064AEA3BD82A3",
+      "dateLocal": "2026-10-31T00:00:00Z",
+      "dateDisplay": "2026-10-30 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "shakey-graves-fondness-etc-tour-old-national-centre-2026-10-30-BNRb1N",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZko9Gkdr_jSx",
+      "name": "The Living Tombstone - The Multiplayer Tour",
+      "url": "https://www.ticketmaster.com/the-living-tombstone-the-multiplayer-tour-indianapolis-indiana-10-31-2026/event/05006457DE65CCE2",
+      "dateLocal": "2026-11-01T00:00:00Z",
+      "dateDisplay": "2026-10-31 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "the-living-tombstone-the-multiplayer-tour-old-national-centre-2026-10-31-dr_jSx",
       "source": "ticketmaster"
     }
   ]
