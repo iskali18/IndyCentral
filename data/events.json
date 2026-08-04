@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T13:21:10Z",
+  "generatedAt": "2026-08-04T12:20:13Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 99,
+  "count": 98,
   "events": [
-    {
-      "id": "vv1AAZk3fGkdCpHsb",
-      "name": "Gigi Perez Live!",
-      "url": "https://www.ticketmaster.com/gigi-perez-live-indianapolis-indiana-08-03-2026/event/05006494CE5BCC58",
-      "dateLocal": "2026-08-04T00:00:00Z",
-      "dateDisplay": "2026-08-03 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "gigi-perez-live-old-national-centre-2026-08-03-dCpHsb",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZ_aGkURemx3",
       "name": "beabadoobee",
