@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T12:20:13Z",
+  "generatedAt": "2026-08-05T12:18:43Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,36 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 98,
+  "count": 96,
   "events": [
-    {
-      "id": "vv17fZ_aGkURemx3",
-      "name": "beabadoobee",
-      "url": "https://www.ticketmaster.com/beabadoobee-indianapolis-indiana-08-04-2026/event/0500649DAF0AE892",
-      "dateLocal": "2026-08-04T23:30:00Z",
-      "dateDisplay": "2026-08-04 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "beabadoobee-everwise-amphitheater-at-white-river-state-park-2026-08-04-URemx3",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_1SmdC5l",
-      "name": "Waylon Wyatt - Dustpiles World Tour",
-      "url": "https://www.ticketmaster.com/waylon-wyatt-dustpiles-world-tour-indianapolis-indiana-08-04-2026/event/050064ACEE0CE2EB",
-      "dateLocal": "2026-08-04T23:30:00Z",
-      "dateDisplay": "2026-08-04 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "waylon-wyatt-dustpiles-world-tour-old-national-centre-2026-08-04-SmdC5l",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZkoIGkdRirVg",
       "name": "Herbie Hancock",
