@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T12:18:43Z",
+  "generatedAt": "2026-08-06T12:20:43Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,36 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 96,
+  "count": 95,
   "events": [
-    {
-      "id": "vv1AAZkoIGkdRirVg",
-      "name": "Herbie Hancock",
-      "url": "https://www.ticketmaster.com/herbie-hancock-indianapolis-indiana-08-05-2026/event/05006468EFB1ED35",
-      "dateLocal": "2026-08-05T23:30:00Z",
-      "dateDisplay": "2026-08-05 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "herbie-hancock-old-national-centre-2026-08-05-dRirVg",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZbUGkS4yDD4",
-      "name": "Drum Corps International 2026 World Championship Prelims",
-      "url": "https://www.ticketmaster.com/drum-corps-international-2026-world-championship-indianapolis-indiana-08-06-2026/event/0500636CD5E7BED5",
-      "dateLocal": "2026-08-06T16:00:00Z",
-      "dateDisplay": "2026-08-06 12:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Lucas Oil Stadium",
-      "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
-      "venueId": "KovZpZAdEJEA",
-      "slug": "drum-corps-international-2026-world-championship-prelims-lucas-oil-stadium-2026-08-06-S4yDD4",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZ_aGkS06s_O",
       "name": "The Psychedelic Furs with Special Guests Living Colour",
@@ -52,17 +24,17 @@
       "source": "ticketmaster"
     },
     {
-      "id": "vv17fZbUGkSTUWSB",
-      "name": "Drum Corps International 2026 World Championship Semifinals",
-      "url": "https://www.ticketmaster.com/drum-corps-international-2026-world-championship-indianapolis-indiana-08-07-2026/event/0500636CFFDBDCFA",
-      "dateLocal": "2026-08-07T12:30:00Z",
-      "dateDisplay": "2026-08-07 08:30:00",
+      "id": "vv17fZbUGkS4yDD4",
+      "name": "Drum Corps International 2026 World Champ Prelims 11:15am",
+      "url": "https://www.ticketmaster.com/drum-corps-international-2026-world-champ-indianapolis-indiana-08-06-2026/event/0500636CD5E7BED5",
+      "dateLocal": "2026-08-06",
+      "dateDisplay": "2026-08-06",
       "city": "Indianapolis",
       "state": "IN",
       "venueName": "Lucas Oil Stadium",
       "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
       "venueId": "KovZpZAdEJEA",
-      "slug": "drum-corps-international-2026-world-championship-semifinals-lucas-oil-stadium-2026-08-07-STUWSB",
+      "slug": "drum-corps-international-2026-world-champ-prelims-1115am-lucas-oil-stadium-2026-08-06-S4yDD4",
       "source": "ticketmaster"
     },
     {
@@ -91,6 +63,20 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "lynyrd-skynyrd-x-foreigner-double-trouble-double-vision-tour-ruoff-music-center-2026-08-07-ivwqGe",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZbUGkSTUWSB",
+      "name": "Drum Corps International 2026 World Champ Semis 8:30am",
+      "url": "https://www.ticketmaster.com/drum-corps-international-2026-world-champ-indianapolis-indiana-08-07-2026/event/0500636CFFDBDCFA",
+      "dateLocal": "2026-08-07",
+      "dateDisplay": "2026-08-07",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Lucas Oil Stadium",
+      "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
+      "venueId": "KovZpZAdEJEA",
+      "slug": "drum-corps-international-2026-world-champ-semis-830am-lucas-oil-stadium-2026-08-07-STUWSB",
       "source": "ticketmaster"
     },
     {
@@ -752,6 +738,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vvG1fZ_2DfeKq3",
+      "name": "Punchis Punchis: Banda Rave Experience (18+)",
+      "url": "https://www.ticketmaster.com/punchis-punchis-banda-rave-experience-18-indianapolis-indiana-09-12-2026/event/050064FED4093752",
+      "dateLocal": "2026-09-13T02:00:00Z",
+      "dateDisplay": "2026-09-12 22:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "punchis-punchis-banda-rave-experience-18-old-national-centre-2026-09-12-DfeKq3",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vvG1fZ_GLK3WNo",
       "name": "Phoebe Bridgers: The Lost Tour",
       "url": "https://www.ticketmaster.com/phoebe-bridgers-the-lost-tour-indianapolis-indiana-09-14-2026/event/050064C7D34BD8D1",
@@ -1337,20 +1337,6 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "shakey-graves-fondness-etc-tour-old-national-centre-2026-10-30-BNRb1N",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZko9Gkdr_jSx",
-      "name": "The Living Tombstone - The Multiplayer Tour",
-      "url": "https://www.ticketmaster.com/the-living-tombstone-the-multiplayer-tour-indianapolis-indiana-10-31-2026/event/05006457DE65CCE2",
-      "dateLocal": "2026-11-01T00:00:00Z",
-      "dateDisplay": "2026-10-31 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "the-living-tombstone-the-multiplayer-tour-old-national-centre-2026-10-31-dr_jSx",
       "source": "ticketmaster"
     }
   ]
