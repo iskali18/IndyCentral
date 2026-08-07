@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T12:20:43Z",
+  "generatedAt": "2026-08-07T11:09:37Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,36 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 95,
+  "count": 94,
   "events": [
-    {
-      "id": "vv17fZ_aGkS06s_O",
-      "name": "The Psychedelic Furs with Special Guests Living Colour",
-      "url": "https://www.ticketmaster.com/the-psychedelic-furs-with-special-guests-indianapolis-indiana-08-06-2026/event/0500649CE41F1660",
-      "dateLocal": "2026-08-06T23:30:00Z",
-      "dateDisplay": "2026-08-06 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "the-psychedelic-furs-with-special-guests-living-colour-old-national-centre-2026-08-06-S06s_O",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZbUGkS4yDD4",
-      "name": "Drum Corps International 2026 World Champ Prelims 11:15am",
-      "url": "https://www.ticketmaster.com/drum-corps-international-2026-world-champ-indianapolis-indiana-08-06-2026/event/0500636CD5E7BED5",
-      "dateLocal": "2026-08-06",
-      "dateDisplay": "2026-08-06",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Lucas Oil Stadium",
-      "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
-      "venueId": "KovZpZAdEJEA",
-      "slug": "drum-corps-international-2026-world-champ-prelims-1115am-lucas-oil-stadium-2026-08-06-S4yDD4",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1kv8v0ObGACz0Jg",
       "name": "Howard Jones: Things Can Only Get Better Tour",
@@ -1337,6 +1309,20 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "shakey-graves-fondness-etc-tour-old-national-centre-2026-10-30-BNRb1N",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZko9Gkdr_jSx",
+      "name": "The Living Tombstone - The Multiplayer Tour",
+      "url": "https://www.ticketmaster.com/the-living-tombstone-the-multiplayer-tour-indianapolis-indiana-10-31-2026/event/05006457DE65CCE2",
+      "dateLocal": "2026-11-01T00:00:00Z",
+      "dateDisplay": "2026-10-31 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "the-living-tombstone-the-multiplayer-tour-old-national-centre-2026-10-31-dr_jSx",
       "source": "ticketmaster"
     }
   ]
