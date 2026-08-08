@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T11:09:37Z",
+  "generatedAt": "2026-08-08T10:52:47Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,50 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 94,
+  "count": 93,
   "events": [
-    {
-      "id": "vv1kv8v0ObGACz0Jg",
-      "name": "Howard Jones: Things Can Only Get Better Tour",
-      "url": "https://www.ticketmaster.com/howard-jones-things-can-only-get-indianapolis-indiana-08-07-2026/event/050064818EE249B5",
-      "dateLocal": "2026-08-07T22:30:00Z",
-      "dateDisplay": "2026-08-07 18:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "howard-jones-things-can-only-get-better-tour-everwise-amphitheater-at-white-river-state-pa-ACz0Jg",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZbUGkivwqGe",
-      "name": "Lynyrd Skynyrd x Foreigner: Double Trouble Double Vision Tour",
-      "url": "https://www.ticketmaster.com/lynyrd-skynyrd-x-foreigner-double-trouble-noblesville-indiana-08-07-2026/event/0500636B01C9D302",
-      "dateLocal": "2026-08-07T22:30:00Z",
-      "dateDisplay": "2026-08-07 18:30:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "lynyrd-skynyrd-x-foreigner-double-trouble-double-vision-tour-ruoff-music-center-2026-08-07-ivwqGe",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZbUGkSTUWSB",
-      "name": "Drum Corps International 2026 World Champ Semis 8:30am",
-      "url": "https://www.ticketmaster.com/drum-corps-international-2026-world-champ-indianapolis-indiana-08-07-2026/event/0500636CFFDBDCFA",
-      "dateLocal": "2026-08-07",
-      "dateDisplay": "2026-08-07",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Lucas Oil Stadium",
-      "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
-      "venueId": "KovZpZAdEJEA",
-      "slug": "drum-corps-international-2026-world-champ-semis-830am-lucas-oil-stadium-2026-08-07-STUWSB",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZbUGkYs0-Al",
       "name": "Drum Corps International 2026 World Championship All-Age Finals",
@@ -91,20 +49,6 @@
       "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
       "venueId": "KovZpvEk7A",
       "slug": "five-finger-death-punch-ruoff-music-center-2026-08-08-dY7_ft",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_GlrrD4X",
-      "name": "Emo Nite (Ages 18+)",
-      "url": "https://www.ticketmaster.com/emo-nite-ages-18-indianapolis-indiana-08-08-2026/event/050064CADE7BB57E",
-      "dateLocal": "2026-08-09T01:00:00Z",
-      "dateDisplay": "2026-08-08 21:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "emo-nite-ages-18-old-national-centre-2026-08-08-lrrD4X",
       "source": "ticketmaster"
     },
     {
@@ -1323,6 +1267,48 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "the-living-tombstone-the-multiplayer-tour-old-national-centre-2026-10-31-dr_jSx",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZk3vGkeysDCl",
+      "name": "The Phil Collins Story",
+      "url": "https://www.ticketmaster.com/the-phil-collins-story-indianapolis-indiana-11-01-2026/event/05006481B9C7B3AB",
+      "dateLocal": "2026-11-02T00:00:00Z",
+      "dateDisplay": "2026-11-01 19:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "the-phil-collins-story-old-national-centre-2026-11-01-eysDCl",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkoPGkdlcxRs",
+      "name": "Earl Sweatshirt & MIKE - Home on the Range Tour 2026",
+      "url": "https://www.ticketmaster.com/earl-sweatshirt-mike-home-on-the-indianapolis-indiana-11-03-2026/event/05006465EBB62BF1",
+      "dateLocal": "2026-11-04T01:00:00Z",
+      "dateDisplay": "2026-11-03 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "earl-sweatshirt-mike-home-on-the-range-tour-2026-old-national-centre-2026-11-03-dlcxRs",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv11v8vN_aF0Q_vG",
+      "name": "Three Days Grace - Alienation Tour ",
+      "url": "https://www.ticketmaster.com/three-days-grace-alienation-tour-indianapolis-indiana-11-04-2026/event/050063649224699B",
+      "dateLocal": "2026-11-05T00:00:00Z",
+      "dateDisplay": "2026-11-04 19:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Gainbridge Fieldhouse",
+      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
+      "venueId": "KovZpZA6keIA",
+      "slug": "three-days-grace-alienation-tour-gainbridge-fieldhouse-2026-11-04-F0Q_vG",
       "source": "ticketmaster"
     }
   ]
