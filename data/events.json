@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T10:54:24Z",
+  "generatedAt": "2026-08-10T11:27:28Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 94,
+  "count": 93,
   "events": [
-    {
-      "id": "vv17fZ_7GkDpaoAq",
-      "name": "Young the Giant - Victory Garden Tour with Cold War Kids",
-      "url": "https://www.ticketmaster.com/young-the-giant-victory-garden-tour-indianapolis-indiana-08-09-2026/event/0500644ED625115D",
-      "dateLocal": "2026-08-09T22:30:00Z",
-      "dateDisplay": "2026-08-09 18:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "young-the-giant-victory-garden-tour-with-cold-war-kids-everwise-amphitheater-at-white-rive-DpaoAq",
-      "source": "ticketmaster"
-    },
     {
       "id": "vvG1fZ_5pQOEkD",
       "name": "THE KEHLANI WORLD TOUR: North America",
