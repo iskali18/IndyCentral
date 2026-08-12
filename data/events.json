@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T11:06:56Z",
+  "generatedAt": "2026-08-12T11:11:27Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,36 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 92,
+  "count": 93,
   "events": [
-    {
-      "id": "vv1AAZkodGkdaOtQA",
-      "name": "Simple Plan: Bigger Than You Think! Tour - The Sequel!",
-      "url": "https://www.ticketmaster.com/simple-plan-bigger-than-you-think-indianapolis-indiana-08-11-2026/event/05006443C9829685",
-      "dateLocal": "2026-08-11T23:00:00Z",
-      "dateDisplay": "2026-08-11 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "simple-plan-bigger-than-you-think-tour-the-sequel-everwise-amphitheater-at-white-river-sta-daOtQA",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZbzGkRdCWxL",
-      "name": "Tori Amos - In Times of Dragons Tour",
-      "url": "https://www.ticketmaster.com/tori-amos-in-times-of-dragons-indianapolis-indiana-08-11-2026/event/0500638BC33BD89F",
-      "dateLocal": "2026-08-11T23:30:00Z",
-      "dateDisplay": "2026-08-11 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "tori-amos-in-times-of-dragons-tour-old-national-centre-2026-08-11-RdCWxL",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZ_kGklfojbJ",
       "name": "ANDY GRAMMER - THE BIG STUPID HEART TOUR",
@@ -1295,6 +1267,48 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "the-maine-old-national-centre-2026-11-06-9K0pi_",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_uDesbSd",
+      "name": "2026 ISSMA Marching Band State Finals",
+      "url": "https://www.ticketmaster.com/2026-issma-marching-band-state-finals-indianapolis-indiana-11-07-2026/event/050064DEC2C58CC3",
+      "dateLocal": "2026-11-07T14:00:00Z",
+      "dateDisplay": "2026-11-07 09:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Lucas Oil Stadium",
+      "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
+      "venueId": "KovZpZAdEJEA",
+      "slug": "2026-issma-marching-band-state-finals-lucas-oil-stadium-2026-11-07-DesbSd",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_GR_f-bJ",
+      "name": "State Champs Performing 'Around The World And Back'",
+      "url": "https://www.ticketmaster.com/state-champs-performing-around-the-world-indianapolis-indiana-11-07-2026/event/050064CBD9521626",
+      "dateLocal": "2026-11-08T00:00:00Z",
+      "dateDisplay": "2026-11-07 19:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "state-champs-performing-around-the-world-and-back-old-national-centre-2026-11-07-R_f-bJ",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_G1xhQ-H",
+      "name": "LEVEL UP",
+      "url": "https://www.ticketmaster.com/level-up-indianapolis-indiana-11-07-2026/event/050064C2A26DA87C",
+      "dateLocal": "2026-11-08T02:00:00Z",
+      "dateDisplay": "2026-11-07 21:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "level-up-old-national-centre-2026-11-07-1xhQ-H",
       "source": "ticketmaster"
     }
   ]
