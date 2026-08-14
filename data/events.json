@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T11:12:02Z",
+  "generatedAt": "2026-08-14T11:10:15Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,36 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 94,
+  "count": 93,
   "events": [
-    {
-      "id": "vv17fZ_AGkmIb5bc",
-      "name": "moe.mentUM Tour: moe. & Umphrey's McGee",
-      "url": "https://www.ticketmaster.com/moementum-tour-moe-umphreys-mcgee-indianapolis-indiana-08-13-2026/event/0500645BA860B62D",
-      "dateLocal": "2026-08-13T22:30:00Z",
-      "dateDisplay": "2026-08-13 18:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "moementum-tour-moe-umphreys-mcgee-everwise-amphitheater-at-white-river-state-park-2026-08--mIb5bc",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZ_dGkR8Ylds",
-      "name": "American Football",
-      "url": "https://www.ticketmaster.com/american-football-indianapolis-indiana-08-13-2026/event/0500643BD0C2B0F1",
-      "dateLocal": "2026-08-14T00:00:00Z",
-      "dateDisplay": "2026-08-13 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "american-football-old-national-centre-2026-08-13-R8Ylds",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZ_dGkmmQzbn",
       "name": "Motionless In White: The Sweat and Blood Tour",
@@ -1267,6 +1239,20 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "the-maine-old-national-centre-2026-11-06-9K0pi_",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "LvZ18QEttD4G-734Yk6qT",
+      "name": "R&B ONLY LIVE - Indianapolis, IN",
+      "url": "https://www.universe.com/events/r-b-only-live-indianapolis-in-tickets-18GYDZ?ref=ticketmaster",
+      "dateLocal": "2026-11-07T01:00:00Z",
+      "dateDisplay": "2026-11-06 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "rb-only-live-indianapolis-in-old-national-centre-2026-11-06-4Yk6qT",
       "source": "ticketmaster"
     },
     {
