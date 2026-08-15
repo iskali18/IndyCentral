@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T11:10:15Z",
+  "generatedAt": "2026-08-15T10:41:46Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 93,
+  "count": 92,
   "events": [
-    {
-      "id": "vv17fZ_dGkmmQzbn",
-      "name": "Motionless In White: The Sweat and Blood Tour",
-      "url": "https://www.ticketmaster.com/motionless-in-white-the-sweat-and-indianapolis-indiana-08-14-2026/event/0500643BAE6B862A",
-      "dateLocal": "2026-08-14T22:30:00Z",
-      "dateDisplay": "2026-08-14 18:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "motionless-in-white-the-sweat-and-blood-tour-everwise-amphitheater-at-white-river-state-pa-mmQzbn",
-      "source": "ticketmaster"
-    },
     {
       "id": "vvG1fZ_2Npy26g",
       "name": "Blade Rave (18+)",
