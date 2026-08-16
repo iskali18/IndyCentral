@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T10:41:46Z",
+  "generatedAt": "2026-08-16T10:42:47Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 92,
+  "count": 93,
   "events": [
-    {
-      "id": "vvG1fZ_2Npy26g",
-      "name": "Blade Rave (18+)",
-      "url": "https://www.ticketmaster.com/blade-rave-18-indianapolis-indiana-08-15-2026/event/050064F8D6E4F1F5",
-      "dateLocal": "2026-08-16T01:00:00Z",
-      "dateDisplay": "2026-08-15 21:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "blade-rave-18-old-national-centre-2026-08-15-Npy26g",
-      "source": "ticketmaster"
-    },
     {
       "id": "vvG1fZ_C1lqafD",
       "name": "Garth Brooks - Blame It All On My Roots Arena Tour",
@@ -1295,6 +1281,34 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "wtlc-presents-jodeci-35th-anniversary-tour-of-forever-my-lady-old-national-centre-2026-11--rFZPKI",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_G5nBwDE",
+      "name": "WAGE WAR - EMERGENCY BROADCAST TOUR",
+      "url": "https://www.ticketmaster.com/wage-war-emergency-broadcast-tour-indianapolis-indiana-11-10-2026/event/050064C2EAEB2EE7",
+      "dateLocal": "2026-11-10T23:30:00Z",
+      "dateDisplay": "2026-11-10 18:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "wage-war-emergency-broadcast-tour-old-national-centre-2026-11-10-5nBwDE",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_FGkTeum61",
+      "name": "Little Feat: The Last Farewell Tour",
+      "url": "https://www.ticketmaster.com/little-feat-the-last-farewell-tour-indianapolis-indiana-11-11-2026/event/0500648FC236E1CA",
+      "dateLocal": "2026-11-12T00:30:00Z",
+      "dateDisplay": "2026-11-11 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "little-feat-the-last-farewell-tour-old-national-centre-2026-11-11-Teum61",
       "source": "ticketmaster"
     }
   ]
