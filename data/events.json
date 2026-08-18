@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T10:49:48Z",
+  "generatedAt": "2026-08-18T10:48:51Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,7 +7,7 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 95,
+  "count": 93,
   "events": [
     {
       "id": "vvG1fZ_C1lqafD",
@@ -906,6 +906,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vv17fZ_8GkwFCKA2",
+      "name": "Jonas Brothers: The Burning Up Tour All Over Again",
+      "url": "https://www.ticketmaster.com/jonas-brothers-the-burning-up-tour-indianapolis-indiana-10-15-2026/event/0500650C8839314F",
+      "dateLocal": "2026-10-15T23:30:00Z",
+      "dateDisplay": "2026-10-15 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Gainbridge Fieldhouse",
+      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
+      "venueId": "KovZpZA6keIA",
+      "slug": "jonas-brothers-the-burning-up-tour-all-over-again-gainbridge-fieldhouse-2026-10-15-wFCKA2",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vvG1fZ_Cxyu1Cx",
       "name": "BOA Indianapolis Super Regional presented by Yamaha and Sweetwater",
       "url": "https://www.ticketmaster.com/boa-indianapolis-super-regional-presented-by-indianapolis-indiana-10-16-2026/event/050064E8B934A3A2",
@@ -1102,6 +1116,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vv17fZ_8GkmsnFvt",
+      "name": "The R&B Tour - Starring Usher Raymond & Chris Brown",
+      "url": "https://www.ticketmaster.com/the-rb-tour-starring-usher-raymond-indianapolis-indiana-10-31-2026/event/0500650BB1A88069",
+      "dateLocal": "2026-10-31T23:30:00Z",
+      "dateDisplay": "2026-10-31 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Lucas Oil Stadium",
+      "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
+      "venueId": "KovZpZAdEJEA",
+      "slug": "the-rb-tour-starring-usher-raymond-chris-brown-lucas-oil-stadium-2026-10-31-msnFvt",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv1AAZko9Gkdr_jSx",
       "name": "The Living Tombstone - The Multiplayer Tour",
       "url": "https://www.ticketmaster.com/the-living-tombstone-the-multiplayer-tour-indianapolis-indiana-10-31-2026/event/05006457DE65CCE2",
@@ -1281,62 +1309,6 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "wtlc-presents-jodeci-35th-anniversary-tour-of-forever-my-lady-old-national-centre-2026-11--rFZPKI",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_G5nBwDE",
-      "name": "WAGE WAR - EMERGENCY BROADCAST TOUR",
-      "url": "https://www.ticketmaster.com/wage-war-emergency-broadcast-tour-indianapolis-indiana-11-10-2026/event/050064C2EAEB2EE7",
-      "dateLocal": "2026-11-10T23:30:00Z",
-      "dateDisplay": "2026-11-10 18:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "wage-war-emergency-broadcast-tour-old-national-centre-2026-11-10-5nBwDE",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZ_FGkTeum61",
-      "name": "Little Feat: The Last Farewell Tour",
-      "url": "https://www.ticketmaster.com/little-feat-the-last-farewell-tour-indianapolis-indiana-11-11-2026/event/0500648FC236E1CA",
-      "dateLocal": "2026-11-12T00:30:00Z",
-      "dateDisplay": "2026-11-11 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "little-feat-the-last-farewell-tour-old-national-centre-2026-11-11-Teum61",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_u6782F3",
-      "name": "Béla Fleck: My Bluegrass Heart",
-      "url": "https://www.ticketmaster.com/bela-fleck-my-bluegrass-heart-indianapolis-indiana-11-11-2026/event/050064D1C440F212",
-      "dateLocal": "2026-11-12T00:30:00Z",
-      "dateDisplay": "2026-11-11 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Clowes Memorial Hall",
-      "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
-      "venueId": "KovZpZAJdEkA",
-      "slug": "béla-fleck-my-bluegrass-heart-clowes-memorial-hall-2026-11-11-6782F3",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_2pacVMT",
-      "name": "Grand National Championships Presented By Yamaha And Sweetwater",
-      "url": "https://www.ticketmaster.com/grand-national-championships-presented-by-yamaha-indianapolis-indiana-11-12-2026/event/050064F589B74DFF",
-      "dateLocal": "2026-11-12T13:00:00Z",
-      "dateDisplay": "2026-11-12 08:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Lucas Oil Stadium",
-      "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
-      "venueId": "KovZpZAdEJEA",
-      "slug": "grand-national-championships-presented-by-yamaha-and-sweetwater-lucas-oil-stadium-2026-11--pacVMT",
       "source": "ticketmaster"
     }
   ]
