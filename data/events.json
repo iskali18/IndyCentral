@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T10:48:51Z",
+  "generatedAt": "2026-08-19T10:48:12Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,7 +7,7 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 93,
+  "count": 89,
   "events": [
     {
       "id": "vvG1fZ_C1lqafD",
@@ -153,8 +153,8 @@
       "id": "vv1AAZkowGkdeXQrY",
       "name": "Deep Purple with Special Guest Kansas",
       "url": "https://www.ticketmaster.com/deep-purple-with-special-guest-kansas-indianapolis-indiana-08-24-2026/event/05006472C2F9A7B0",
-      "dateLocal": "2026-08-24T22:00:00Z",
-      "dateDisplay": "2026-08-24 18:00:00",
+      "dateLocal": "2026-08-24T22:30:00Z",
+      "dateDisplay": "2026-08-24 18:30:00",
       "city": "Indianapolis",
       "state": "IN",
       "venueName": "Everwise Amphitheater at White River State Park",
@@ -1253,62 +1253,6 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "rb-only-live-indianapolis-in-old-national-centre-2026-11-06-4Yk6qT",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_uDesbSd",
-      "name": "2026 ISSMA Marching Band State Finals",
-      "url": "https://www.ticketmaster.com/2026-issma-marching-band-state-finals-indianapolis-indiana-11-07-2026/event/050064DEC2C58CC3",
-      "dateLocal": "2026-11-07T14:00:00Z",
-      "dateDisplay": "2026-11-07 09:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Lucas Oil Stadium",
-      "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
-      "venueId": "KovZpZAdEJEA",
-      "slug": "2026-issma-marching-band-state-finals-lucas-oil-stadium-2026-11-07-DesbSd",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_GR_f-bJ",
-      "name": "State Champs Performing 'Around The World And Back'",
-      "url": "https://www.ticketmaster.com/state-champs-performing-around-the-world-indianapolis-indiana-11-07-2026/event/050064CBD9521626",
-      "dateLocal": "2026-11-08T00:00:00Z",
-      "dateDisplay": "2026-11-07 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "state-champs-performing-around-the-world-and-back-old-national-centre-2026-11-07-R_f-bJ",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_G1xhQ-H",
-      "name": "LEVEL UP",
-      "url": "https://www.ticketmaster.com/level-up-indianapolis-indiana-11-07-2026/event/050064C2A26DA87C",
-      "dateLocal": "2026-11-08T02:00:00Z",
-      "dateDisplay": "2026-11-07 21:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "level-up-old-national-centre-2026-11-07-1xhQ-H",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_2rFZPKI",
-      "name": "WTLC Presents Jodeci - 35th Anniversary Tour of Forever My Lady",
-      "url": "https://www.ticketmaster.com/wtlc-presents-jodeci-35th-anniversary-tour-indianapolis-indiana-11-08-2026/event/050064F7880254E8",
-      "dateLocal": "2026-11-09T00:30:00Z",
-      "dateDisplay": "2026-11-08 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "wtlc-presents-jodeci-35th-anniversary-tour-of-forever-my-lady-old-national-centre-2026-11--rFZPKI",
       "source": "ticketmaster"
     }
   ]
