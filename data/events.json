@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T10:50:06Z",
+  "generatedAt": "2026-08-22T10:42:53Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,36 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 90,
+  "count": 91,
   "events": [
-    {
-      "id": "vvG1fZ_C1lrt4b",
-      "name": "Garth Brooks - Blame It All On My Roots Arena Tour",
-      "url": "https://www.ticketmaster.com/garth-brooks-blame-it-all-on-indianapolis-indiana-08-21-2026/event/050064E2AB7A9558",
-      "dateLocal": "2026-08-22T00:00:00Z",
-      "dateDisplay": "2026-08-21 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Gainbridge Fieldhouse",
-      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
-      "venueId": "KovZpZA6keIA",
-      "slug": "garth-brooks-blame-it-all-on-my-roots-arena-tour-gainbridge-fieldhouse-2026-08-21-1lrt4b",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_uxNq_eo",
-      "name": "Bingo Loco - Ages 21+",
-      "url": "https://www.ticketmaster.com/bingo-loco-ages-21-indianapolis-indiana-08-21-2026/event/050064D8A3759091",
-      "dateLocal": "2026-08-22T00:00:00Z",
-      "dateDisplay": "2026-08-21 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "bingo-loco-ages-21-old-national-centre-2026-08-21-xNq_eo",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv16AZk8g0UZA86FFd",
       "name": "LINDSEY STIRLING - DUALITY UNTAMED TOUR",
@@ -136,6 +108,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vv17fZ_7GkwU1ism",
+      "name": "Caamp",
+      "url": "https://www.ticketmaster.com/caamp-indianapolis-indiana-08-26-2026/event/0500644CB62ACC6E",
+      "dateLocal": "2026-08-26T23:15:00Z",
+      "dateDisplay": "2026-08-26 19:15:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Everwise Amphitheater at White River State Park",
+      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
+      "venueId": "KovZpZAEAAJA",
+      "slug": "caamp-everwise-amphitheater-at-white-river-state-park-2026-08-26-wU1ism",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vvG1fZ_GRmc7-3",
       "name": "DON TOLIVER: NITROUS - OCTANE WORLD TOUR LEG 2",
       "url": "https://www.ticketmaster.com/don-toliver-nitrous-octane-world-tour-indianapolis-indiana-08-26-2026/event/050064CBEEB44852",
@@ -147,20 +133,6 @@
       "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
       "venueId": "KovZpZA6keIA",
       "slug": "don-toliver-nitrous-octane-world-tour-leg-2-gainbridge-fieldhouse-2026-08-26-Rmc7-3",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZ_7GkwU1ism",
-      "name": "Caamp",
-      "url": "https://www.ticketmaster.com/caamp-indianapolis-indiana-08-26-2026/event/0500644CB62ACC6E",
-      "dateLocal": "2026-08-26T23:30:00Z",
-      "dateDisplay": "2026-08-26 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "caamp-everwise-amphitheater-at-white-river-state-park-2026-08-26-wU1ism",
       "source": "ticketmaster"
     },
     {
@@ -1267,6 +1239,48 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "wtlc-presents-jodeci-35th-anniversary-tour-of-forever-my-lady-old-national-centre-2026-11--rFZPKI",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_G5nBwDE",
+      "name": "WAGE WAR - EMERGENCY BROADCAST TOUR",
+      "url": "https://www.ticketmaster.com/wage-war-emergency-broadcast-tour-indianapolis-indiana-11-10-2026/event/050064C2EAEB2EE7",
+      "dateLocal": "2026-11-10T23:30:00Z",
+      "dateDisplay": "2026-11-10 18:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "wage-war-emergency-broadcast-tour-old-national-centre-2026-11-10-5nBwDE",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_FGkTeum61",
+      "name": "Little Feat: The Last Farewell Tour",
+      "url": "https://www.ticketmaster.com/little-feat-the-last-farewell-tour-indianapolis-indiana-11-11-2026/event/0500648FC236E1CA",
+      "dateLocal": "2026-11-12T00:30:00Z",
+      "dateDisplay": "2026-11-11 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "little-feat-the-last-farewell-tour-old-national-centre-2026-11-11-Teum61",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_u6782F3",
+      "name": "Béla Fleck: My Bluegrass Heart",
+      "url": "https://www.ticketmaster.com/bela-fleck-my-bluegrass-heart-indianapolis-indiana-11-11-2026/event/050064D1C440F212",
+      "dateLocal": "2026-11-12T00:30:00Z",
+      "dateDisplay": "2026-11-11 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Clowes Memorial Hall",
+      "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
+      "venueId": "KovZpZAJdEkA",
+      "slug": "béla-fleck-my-bluegrass-heart-clowes-memorial-hall-2026-11-11-6782F3",
       "source": "ticketmaster"
     }
   ]
