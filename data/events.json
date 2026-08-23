@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T10:42:53Z",
+  "generatedAt": "2026-08-23T10:43:38Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -9,48 +9,6 @@
   },
   "count": 91,
   "events": [
-    {
-      "id": "vv16AZk8g0UZA86FFd",
-      "name": "LINDSEY STIRLING - DUALITY UNTAMED TOUR",
-      "url": "https://www.ticketmaster.com/lindsey-stirling-duality-untamed-tour-indianapolis-indiana-08-22-2026/event/05006435936F6772",
-      "dateLocal": "2026-08-22T23:30:00Z",
-      "dateDisplay": "2026-08-22 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "lindsey-stirling-duality-untamed-tour-everwise-amphitheater-at-white-river-state-park-2026-A86FFd",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZk8gGkdOcjVO",
-      "name": "Tedeschi Trucks Band and Alabama Shakes",
-      "url": "https://www.ticketmaster.com/tedeschi-trucks-band-and-alabama-shakes-noblesville-indiana-08-22-2026/event/05006435E0B5CD20",
-      "dateLocal": "2026-08-22T23:30:00Z",
-      "dateDisplay": "2026-08-22 19:30:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "tedeschi-trucks-band-and-alabama-shakes-ruoff-music-center-2026-08-22-dOcjVO",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_C1lLt4J",
-      "name": "Garth Brooks - Blame It All On My Roots Arena Tour",
-      "url": "https://www.ticketmaster.com/garth-brooks-blame-it-all-on-indianapolis-indiana-08-22-2026/event/050064E2AB7E9566",
-      "dateLocal": "2026-08-23T00:00:00Z",
-      "dateDisplay": "2026-08-22 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Gainbridge Fieldhouse",
-      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
-      "venueId": "KovZpZA6keIA",
-      "slug": "garth-brooks-blame-it-all-on-my-roots-arena-tour-gainbridge-fieldhouse-2026-08-22-1lLt4J",
-      "source": "ticketmaster"
-    },
     {
       "id": "vvG1fZ_C1lxa4D",
       "name": "Garth Brooks - Blame It All On My Roots Arena Tour",
@@ -1281,6 +1239,48 @@
       "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
       "venueId": "KovZpZAJdEkA",
       "slug": "béla-fleck-my-bluegrass-heart-clowes-memorial-hall-2026-11-11-6782F3",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_2pacVMT",
+      "name": "Grand National Championships Presented By Yamaha And Sweetwater",
+      "url": "https://www.ticketmaster.com/grand-national-championships-presented-by-yamaha-indianapolis-indiana-11-12-2026/event/050064F589B74DFF",
+      "dateLocal": "2026-11-12T13:00:00Z",
+      "dateDisplay": "2026-11-12 08:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Lucas Oil Stadium",
+      "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
+      "venueId": "KovZpZAdEJEA",
+      "slug": "grand-national-championships-presented-by-yamaha-and-sweetwater-lucas-oil-stadium-2026-11--pacVMT",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_2L7VYU7",
+      "name": "Honey Revenge x Dead Poet Society",
+      "url": "https://www.ticketmaster.com/honey-revenge-x-dead-poet-society-indianapolis-indiana-11-12-2026/event/050064F7C4D30D84",
+      "dateLocal": "2026-11-13T00:00:00Z",
+      "dateDisplay": "2026-11-12 19:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "honey-revenge-x-dead-poet-society-old-national-centre-2026-11-12-L7VYU7",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_2p5Yg6m",
+      "name": "Grand National Championships Presented By Yamaha And Sweetwater",
+      "url": "https://www.ticketmaster.com/grand-national-championships-presented-by-yamaha-indianapolis-indiana-11-13-2026/event/050064F58BC351EE",
+      "dateLocal": "2026-11-13T12:00:00Z",
+      "dateDisplay": "2026-11-13 07:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Lucas Oil Stadium",
+      "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
+      "venueId": "KovZpZAdEJEA",
+      "slug": "grand-national-championships-presented-by-yamaha-and-sweetwater-lucas-oil-stadium-2026-11--p5Yg6m",
       "source": "ticketmaster"
     }
   ]
