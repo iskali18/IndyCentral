@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T10:55:38Z",
+  "generatedAt": "2026-08-25T10:52:06Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 90,
+  "count": 89,
   "events": [
-    {
-      "id": "vv1AAZkowGkdeXQrY",
-      "name": "Deep Purple with Special Guest Kansas",
-      "url": "https://www.ticketmaster.com/deep-purple-with-special-guest-kansas-indianapolis-indiana-08-24-2026/event/05006472C2F9A7B0",
-      "dateLocal": "2026-08-24T22:30:00Z",
-      "dateDisplay": "2026-08-24 18:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "deep-purple-with-special-guest-kansas-everwise-amphitheater-at-white-river-state-park-2026-deXQrY",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZkoNGkdswels",
       "name": "Dogstar: ALL IN NOW TOUR",
