@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T10:52:06Z",
+  "generatedAt": "2026-08-26T10:52:51Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 89,
+  "count": 88,
   "events": [
-    {
-      "id": "vv1AAZkoNGkdswels",
-      "name": "Dogstar: ALL IN NOW TOUR",
-      "url": "https://www.ticketmaster.com/dogstar-all-in-now-tour-indianapolis-indiana-08-25-2026/event/05006463F1C82AF1",
-      "dateLocal": "2026-08-26T00:00:00Z",
-      "dateDisplay": "2026-08-25 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "dogstar-all-in-now-tour-old-national-centre-2026-08-25-dswels",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZ_7GkwU1ism",
       "name": "Caamp",
