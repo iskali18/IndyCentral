@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T10:52:51Z",
+  "generatedAt": "2026-08-27T20:34:03Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,36 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 88,
+  "count": 86,
   "events": [
-    {
-      "id": "vv17fZ_7GkwU1ism",
-      "name": "Caamp",
-      "url": "https://www.ticketmaster.com/caamp-indianapolis-indiana-08-26-2026/event/0500644CB62ACC6E",
-      "dateLocal": "2026-08-26T23:15:00Z",
-      "dateDisplay": "2026-08-26 19:15:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "caamp-everwise-amphitheater-at-white-river-state-park-2026-08-26-wU1ism",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_GRmc7-3",
-      "name": "DON TOLIVER: NITROUS - OCTANE WORLD TOUR LEG 2",
-      "url": "https://www.ticketmaster.com/don-toliver-nitrous-octane-world-tour-indianapolis-indiana-08-26-2026/event/050064CBEEB44852",
-      "dateLocal": "2026-08-26T23:30:00Z",
-      "dateDisplay": "2026-08-26 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Gainbridge Fieldhouse",
-      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
-      "venueId": "KovZpZA6keIA",
-      "slug": "don-toliver-nitrous-octane-world-tour-leg-2-gainbridge-fieldhouse-2026-08-26-Rmc7-3",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZbUGkzAA00L",
       "name": "The Return Of The Carnival Of Sins: Mötley Crüe",
@@ -1091,8 +1063,8 @@
       "id": "vvG1fZ_uDesbSd",
       "name": "2026 ISSMA Marching Band State Finals",
       "url": "https://www.ticketmaster.com/2026-issma-marching-band-state-finals-indianapolis-indiana-11-07-2026/event/050064DEC2C58CC3",
-      "dateLocal": "2026-11-07T14:00:00Z",
-      "dateDisplay": "2026-11-07 09:00:00",
+      "dateLocal": "2026-11-07T14:30:00Z",
+      "dateDisplay": "2026-11-07 09:30:00",
       "city": "Indianapolis",
       "state": "IN",
       "venueName": "Lucas Oil Stadium",
