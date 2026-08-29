@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T21:11:09Z",
+  "generatedAt": "2026-08-29T15:06:02Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -9,20 +9,6 @@
   },
   "count": 78,
   "events": [
-    {
-      "id": "vv17fZbUGkzAA00L",
-      "name": "The Return Of The Carnival Of Sins: Mötley Crüe",
-      "url": "https://www.ticketmaster.com/the-return-of-the-carnival-of-noblesville-indiana-08-28-2026/event/0500636E0516491F",
-      "dateLocal": "2026-08-28T22:30:00Z",
-      "dateDisplay": "2026-08-28 18:30:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "the-return-of-the-carnival-of-sins-mötley-crüe-ruoff-music-center-2026-08-28-zAA00L",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZkoPGkezxGS-",
       "name": "NEEDTOBREATHE: The Long Surrender Tour",
@@ -1099,6 +1085,20 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "level-up-old-national-centre-2026-11-07-1xhQ-H",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_2rFZPKI",
+      "name": "WTLC Presents Jodeci - 35th Anniversary Tour of Forever My Lady",
+      "url": "https://www.ticketmaster.com/wtlc-presents-jodeci-35th-anniversary-tour-indianapolis-indiana-11-08-2026/event/050064F7880254E8",
+      "dateLocal": "2026-11-09T00:30:00Z",
+      "dateDisplay": "2026-11-08 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "wtlc-presents-jodeci-35th-anniversary-tour-of-forever-my-lady-old-national-centre-2026-11--rFZPKI",
       "source": "ticketmaster"
     }
   ]
