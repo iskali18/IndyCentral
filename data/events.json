@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T15:06:02Z",
+  "generatedAt": "2026-08-30T14:52:58Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,36 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 78,
+  "count": 79,
   "events": [
-    {
-      "id": "vv1AAZkoPGkezxGS-",
-      "name": "NEEDTOBREATHE: The Long Surrender Tour",
-      "url": "https://www.ticketmaster.com/needtobreathe-the-long-surrender-tour-indianapolis-indiana-08-29-2026/event/05006465B888CCE1",
-      "dateLocal": "2026-08-29T23:00:00Z",
-      "dateDisplay": "2026-08-29 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "needtobreathe-the-long-surrender-tour-everwise-amphitheater-at-white-river-state-park-2026-ezxGS-",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_CJNRF95",
-      "name": "¡NOCHE LATINA! (18+)",
-      "url": "https://www.ticketmaster.com/noche-latina-18-indianapolis-indiana-08-29-2026/event/050064E9A3BC85CB",
-      "dateLocal": "2026-08-30T01:00:00Z",
-      "dateDisplay": "2026-08-29 21:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "noche-latina-18-old-national-centre-2026-08-29-JNRF95",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1kfZ_61FG7Sf6_",
       "name": "Kesha: The Freedom Tour",
@@ -1099,6 +1071,48 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "wtlc-presents-jodeci-35th-anniversary-tour-of-forever-my-lady-old-national-centre-2026-11--rFZPKI",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_G5nBwDE",
+      "name": "WAGE WAR - EMERGENCY BROADCAST TOUR",
+      "url": "https://www.ticketmaster.com/wage-war-emergency-broadcast-tour-indianapolis-indiana-11-10-2026/event/050064C2EAEB2EE7",
+      "dateLocal": "2026-11-10T23:30:00Z",
+      "dateDisplay": "2026-11-10 18:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "wage-war-emergency-broadcast-tour-old-national-centre-2026-11-10-5nBwDE",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_FGkTeum61",
+      "name": "Little Feat: The Last Farewell Tour",
+      "url": "https://www.ticketmaster.com/little-feat-the-last-farewell-tour-indianapolis-indiana-11-11-2026/event/0500648FC236E1CA",
+      "dateLocal": "2026-11-12T00:30:00Z",
+      "dateDisplay": "2026-11-11 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "little-feat-the-last-farewell-tour-old-national-centre-2026-11-11-Teum61",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_u6782F3",
+      "name": "Béla Fleck: My Bluegrass Heart",
+      "url": "https://www.ticketmaster.com/bela-fleck-my-bluegrass-heart-indianapolis-indiana-11-11-2026/event/050064D1C440F212",
+      "dateLocal": "2026-11-12T00:30:00Z",
+      "dateDisplay": "2026-11-11 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Clowes Memorial Hall",
+      "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
+      "venueId": "KovZpZAJdEkA",
+      "slug": "béla-fleck-my-bluegrass-heart-clowes-memorial-hall-2026-11-11-6782F3",
       "source": "ticketmaster"
     }
   ]
