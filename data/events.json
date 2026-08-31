@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T14:52:58Z",
+  "generatedAt": "2026-08-31T17:38:04Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,36 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 79,
+  "count": 73,
   "events": [
-    {
-      "id": "vv1kfZ_61FG7Sf6_",
-      "name": "Kesha: The Freedom Tour",
-      "url": "https://www.ticketmaster.com/kesha-the-freedom-tour-noblesville-indiana-08-30-2026/event/0500647288CD41D9",
-      "dateLocal": "2026-08-30T23:00:00Z",
-      "dateDisplay": "2026-08-30 19:00:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "kesha-the-freedom-tour-ruoff-music-center-2026-08-30-G7Sf6_",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_GFApUlB",
-      "name": "FATTMACK - The McKenzie Tour 2.0",
-      "url": "https://www.ticketmaster.com/fattmack-the-mckenzie-tour-20-indianapolis-indiana-08-30-2026/event/050064C2055B6AFA",
-      "dateLocal": "2026-08-31T00:00:00Z",
-      "dateDisplay": "2026-08-30 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "fattmack-the-mckenzie-tour-20-old-national-centre-2026-08-30-FApUlB",
-      "source": "ticketmaster"
-    },
     {
       "id": "vvG1fZ_5nnGEAS",
       "name": "Masego: Fix Your Face Tour",
@@ -189,20 +161,6 @@
       "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
       "venueId": "KovZpZAdEJEA",
       "slug": "bruno-mars-the-romantic-tour-lucas-oil-stadium-2026-09-09-lNuhph",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZ_kGkRPLX3O",
-      "name": "93.9X Presents: The Pretty Reckless - Dear God Tour",
-      "url": "https://www.ticketmaster.com/939x-presents-the-pretty-reckless-dear-indianapolis-indiana-09-09-2026/event/0500646BE57FE4A0",
-      "dateLocal": "2026-09-10T00:00:00Z",
-      "dateDisplay": "2026-09-09 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "939x-presents-the-pretty-reckless-dear-god-tour-old-national-centre-2026-09-09-RPLX3O",
       "source": "ticketmaster"
     },
     {
@@ -483,6 +441,20 @@
       "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
       "venueId": "KovZpZAEAAJA",
       "slug": "erykah-badu-everwise-amphitheater-at-white-river-state-park-2026-09-22-5i_qL8",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_kGkRPLX3O",
+      "name": "93.9X Presents: The Pretty Reckless - Dear God Tour",
+      "url": "https://www.ticketmaster.com/939x-presents-the-pretty-reckless-dear-indianapolis-indiana-09-22-2026/event/0500646BE57FE4A0",
+      "dateLocal": "2026-09-23T00:00:00Z",
+      "dateDisplay": "2026-09-22 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "939x-presents-the-pretty-reckless-dear-god-tour-old-national-centre-2026-09-22-RPLX3O",
       "source": "ticketmaster"
     },
     {
@@ -1057,62 +1029,6 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "level-up-old-national-centre-2026-11-07-1xhQ-H",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_2rFZPKI",
-      "name": "WTLC Presents Jodeci - 35th Anniversary Tour of Forever My Lady",
-      "url": "https://www.ticketmaster.com/wtlc-presents-jodeci-35th-anniversary-tour-indianapolis-indiana-11-08-2026/event/050064F7880254E8",
-      "dateLocal": "2026-11-09T00:30:00Z",
-      "dateDisplay": "2026-11-08 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "wtlc-presents-jodeci-35th-anniversary-tour-of-forever-my-lady-old-national-centre-2026-11--rFZPKI",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_G5nBwDE",
-      "name": "WAGE WAR - EMERGENCY BROADCAST TOUR",
-      "url": "https://www.ticketmaster.com/wage-war-emergency-broadcast-tour-indianapolis-indiana-11-10-2026/event/050064C2EAEB2EE7",
-      "dateLocal": "2026-11-10T23:30:00Z",
-      "dateDisplay": "2026-11-10 18:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "wage-war-emergency-broadcast-tour-old-national-centre-2026-11-10-5nBwDE",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZ_FGkTeum61",
-      "name": "Little Feat: The Last Farewell Tour",
-      "url": "https://www.ticketmaster.com/little-feat-the-last-farewell-tour-indianapolis-indiana-11-11-2026/event/0500648FC236E1CA",
-      "dateLocal": "2026-11-12T00:30:00Z",
-      "dateDisplay": "2026-11-11 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "little-feat-the-last-farewell-tour-old-national-centre-2026-11-11-Teum61",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_u6782F3",
-      "name": "Béla Fleck: My Bluegrass Heart",
-      "url": "https://www.ticketmaster.com/bela-fleck-my-bluegrass-heart-indianapolis-indiana-11-11-2026/event/050064D1C440F212",
-      "dateLocal": "2026-11-12T00:30:00Z",
-      "dateDisplay": "2026-11-11 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Clowes Memorial Hall",
-      "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
-      "venueId": "KovZpZAJdEkA",
-      "slug": "béla-fleck-my-bluegrass-heart-clowes-memorial-hall-2026-11-11-6782F3",
       "source": "ticketmaster"
     }
   ]
