@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T14:56:42Z",
+  "generatedAt": "2026-09-02T14:32:09Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 73,
+  "count": 71,
   "events": [
-    {
-      "id": "vvG1fZ_5nnGEAS",
-      "name": "Masego: Fix Your Face Tour",
-      "url": "https://www.ticketmaster.com/masego-fix-your-face-tour-indianapolis-indiana-09-01-2026/event/050064BAAA327173",
-      "dateLocal": "2026-09-02T00:00:00Z",
-      "dateDisplay": "2026-09-01 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "masego-fix-your-face-tour-old-national-centre-2026-09-01-nnGEAS",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZkosGkexSJDZ",
       "name": "Myles Smith - My Mess, My Heart, My Life Tour",
@@ -1015,20 +1001,6 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "state-champs-performing-around-the-world-and-back-old-national-centre-2026-11-07-R_f-bJ",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_G1xhQ-H",
-      "name": "LEVEL UP",
-      "url": "https://www.ticketmaster.com/level-up-indianapolis-indiana-11-07-2026/event/050064C2A26DA87C",
-      "dateLocal": "2026-11-08T02:00:00Z",
-      "dateDisplay": "2026-11-07 21:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "level-up-old-national-centre-2026-11-07-1xhQ-H",
       "source": "ticketmaster"
     }
   ]
