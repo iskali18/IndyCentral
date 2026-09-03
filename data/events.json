@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T14:32:09Z",
+  "generatedAt": "2026-09-03T14:36:42Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -9,20 +9,6 @@
   },
   "count": 71,
   "events": [
-    {
-      "id": "vv1AAZkosGkexSJDZ",
-      "name": "Myles Smith - My Mess, My Heart, My Life Tour",
-      "url": "https://www.ticketmaster.com/myles-smith-my-mess-my-heart-indianapolis-indiana-09-02-2026/event/05006471A2CE6EC0",
-      "dateLocal": "2026-09-02T22:30:00Z",
-      "dateDisplay": "2026-09-02 18:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "myles-smith-my-mess-my-heart-my-life-tour-everwise-amphitheater-at-white-river-state-park--exSJDZ",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZkupGkdclIr9",
       "name": "O.A.R. Three Decades Tour",
@@ -1001,6 +987,20 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "state-champs-performing-around-the-world-and-back-old-national-centre-2026-11-07-R_f-bJ",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_G1xhQ-H",
+      "name": "LEVEL UP",
+      "url": "https://www.ticketmaster.com/level-up-indianapolis-indiana-11-07-2026/event/050064C2A26DA87C",
+      "dateLocal": "2026-11-08T02:00:00Z",
+      "dateDisplay": "2026-11-07 21:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "level-up-old-national-centre-2026-11-07-1xhQ-H",
       "source": "ticketmaster"
     }
   ]
