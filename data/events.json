@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T14:36:42Z",
+  "generatedAt": "2026-09-04T14:23:44Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -9,20 +9,6 @@
   },
   "count": 71,
   "events": [
-    {
-      "id": "vv1AAZkupGkdclIr9",
-      "name": "O.A.R. Three Decades Tour",
-      "url": "https://www.ticketmaster.com/oar-three-decades-tour-indianapolis-indiana-09-03-2026/event/05006356EDAE8797",
-      "dateLocal": "2026-09-03T22:30:00Z",
-      "dateDisplay": "2026-09-03 18:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "oar-three-decades-tour-everwise-amphitheater-at-white-river-state-park-2026-09-03-dclIr9",
-      "source": "ticketmaster"
-    },
     {
       "id": "vvG1fZ_GlJjq53",
       "name": "Ramon Ayala Y Sus Bravos Del Norte",
@@ -1001,6 +987,20 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "level-up-old-national-centre-2026-11-07-1xhQ-H",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_2rFZPKI",
+      "name": "WTLC Presents Jodeci - 35th Anniversary Tour of Forever My Lady",
+      "url": "https://www.ticketmaster.com/wtlc-presents-jodeci-35th-anniversary-tour-indianapolis-indiana-11-08-2026/event/050064F7880254E8",
+      "dateLocal": "2026-11-09T00:30:00Z",
+      "dateDisplay": "2026-11-08 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "wtlc-presents-jodeci-35th-anniversary-tour-of-forever-my-lady-old-national-centre-2026-11--rFZPKI",
       "source": "ticketmaster"
     }
   ]
