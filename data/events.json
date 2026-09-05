@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T14:23:44Z",
+  "generatedAt": "2026-09-05T13:27:57Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 71,
+  "count": 70,
   "events": [
-    {
-      "id": "vvG1fZ_GlJjq53",
-      "name": "Ramon Ayala Y Sus Bravos Del Norte",
-      "url": "https://www.ticketmaster.com/ramon-ayala-y-sus-bravos-del-indianapolis-indiana-09-04-2026/event/050064CAE671D2D2",
-      "dateLocal": "2026-09-05T00:00:00Z",
-      "dateDisplay": "2026-09-04 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "ramon-ayala-y-sus-bravos-del-norte-old-national-centre-2026-09-04-lJjq53",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZ_6GknHqytk",
       "name": "BABYMETAL WORLD TOUR 2026",
