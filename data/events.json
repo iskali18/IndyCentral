@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T13:27:57Z",
+  "generatedAt": "2026-09-06T13:42:13Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,36 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 70,
+  "count": 68,
   "events": [
-    {
-      "id": "vv17fZ_6GknHqytk",
-      "name": "BABYMETAL WORLD TOUR 2026",
-      "url": "https://www.ticketmaster.com/babymetal-world-tour-2026-noblesville-indiana-09-05-2026/event/0500647ABC779A46",
-      "dateLocal": "2026-09-05T23:20:00Z",
-      "dateDisplay": "2026-09-05 19:20:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "babymetal-world-tour-2026-ruoff-music-center-2026-09-05-nHqytk",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_2JIKz7q",
-      "name": "Club 90s Presents Mj Night",
-      "url": "https://www.ticketmaster.com/club-90s-presents-mj-night-indianapolis-indiana-09-05-2026/event/050064F9A84F811D",
-      "dateLocal": "2026-09-06T01:00:00Z",
-      "dateDisplay": "2026-09-05 21:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "club-90s-presents-mj-night-old-national-centre-2026-09-05-JIKz7q",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZ_eGkUKdKWw",
       "name": "Rob Zombie & Marilyn Manson with The Hu & Orgy",
