@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T13:42:13Z",
+  "generatedAt": "2026-09-07T15:53:57Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -9,20 +9,6 @@
   },
   "count": 68,
   "events": [
-    {
-      "id": "vv17fZ_eGkUKdKWw",
-      "name": "Rob Zombie & Marilyn Manson with The Hu & Orgy",
-      "url": "https://www.ticketmaster.com/rob-zombie-marilyn-manson-with-the-noblesville-indiana-09-06-2026/event/0500642D930D3F72",
-      "dateLocal": "2026-09-06T22:15:00Z",
-      "dateDisplay": "2026-09-06 18:15:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "rob-zombie-marilyn-manson-with-the-hu-orgy-ruoff-music-center-2026-09-06-UKdKWw",
-      "source": "ticketmaster"
-    },
     {
       "id": "vvG1fZ_GSd7Sio",
       "name": "ISAIAH RASHAD: Lil Sunny's Awful Road Trip",
@@ -959,6 +945,20 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "wtlc-presents-jodeci-35th-anniversary-tour-of-forever-my-lady-old-national-centre-2026-11--rFZPKI",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_G5nBwDE",
+      "name": "WAGE WAR - EMERGENCY BROADCAST TOUR",
+      "url": "https://www.ticketmaster.com/wage-war-emergency-broadcast-tour-indianapolis-indiana-11-10-2026/event/050064C2EAEB2EE7",
+      "dateLocal": "2026-11-10T23:30:00Z",
+      "dateDisplay": "2026-11-10 18:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "wage-war-emergency-broadcast-tour-old-national-centre-2026-11-10-5nBwDE",
       "source": "ticketmaster"
     }
   ]
