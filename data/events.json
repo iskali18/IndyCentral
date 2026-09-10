@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T14:38:43Z",
+  "generatedAt": "2026-09-10T14:29:12Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 67,
+  "count": 68,
   "events": [
-    {
-      "id": "vv17fZbyGklNuhph",
-      "name": "Bruno Mars - The Romantic Tour",
-      "url": "https://www.ticketmaster.com/bruno-mars-the-romantic-tour-indianapolis-indiana-09-09-2026/event/0500639AE335B59B",
-      "dateLocal": "2026-09-09T23:00:00Z",
-      "dateDisplay": "2026-09-09 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Lucas Oil Stadium",
-      "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
-      "venueId": "KovZpZAdEJEA",
-      "slug": "bruno-mars-the-romantic-tour-lucas-oil-stadium-2026-09-09-lNuhph",
-      "source": "ticketmaster"
-    },
     {
       "id": "vvG1fZ_1MyyLug",
       "name": "Dan + Shay: The Young Tour",
@@ -641,7 +627,7 @@
     },
     {
       "id": "vvG1fZ_G1SBGiQ",
-      "name": "Wheeler Walker Jr. - Pullin' Out: The Farewell Tour",
+      "name": "Wheeler Walker Jr. - Pullin' Out: The Farewell Tour with Colton Bowlin",
       "url": "https://www.ticketmaster.com/wheeler-walker-jr-pullin-out-the-indianapolis-indiana-10-24-2026/event/050064C2B3E8CB1A",
       "dateLocal": "2026-10-25T00:00:00Z",
       "dateDisplay": "2026-10-24 20:00:00",
@@ -650,7 +636,7 @@
       "venueName": "Old National Centre",
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
-      "slug": "wheeler-walker-jr-pullin-out-the-farewell-tour-old-national-centre-2026-10-24-1SBGiQ",
+      "slug": "wheeler-walker-jr-pullin-out-the-farewell-tour-with-colton-bowlin-old-national-centre-2026-1SBGiQ",
       "source": "ticketmaster"
     },
     {
@@ -945,6 +931,34 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "little-feat-the-last-farewell-tour-old-national-centre-2026-11-11-Teum61",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_u6782F3",
+      "name": "Béla Fleck: My Bluegrass Heart",
+      "url": "https://www.ticketmaster.com/bela-fleck-my-bluegrass-heart-indianapolis-indiana-11-11-2026/event/050064D1C440F212",
+      "dateLocal": "2026-11-12T00:30:00Z",
+      "dateDisplay": "2026-11-11 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Clowes Memorial Hall",
+      "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
+      "venueId": "KovZpZAJdEkA",
+      "slug": "béla-fleck-my-bluegrass-heart-clowes-memorial-hall-2026-11-11-6782F3",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_2pacVMT",
+      "name": "Grand National Championships Presented By Yamaha And Sweetwater",
+      "url": "https://www.ticketmaster.com/grand-national-championships-presented-by-yamaha-indianapolis-indiana-11-12-2026/event/050064F589B74DFF",
+      "dateLocal": "2026-11-12T13:00:00Z",
+      "dateDisplay": "2026-11-12 08:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Lucas Oil Stadium",
+      "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
+      "venueId": "KovZpZAdEJEA",
+      "slug": "grand-national-championships-presented-by-yamaha-and-sweetwater-lucas-oil-stadium-2026-11--pacVMT",
       "source": "ticketmaster"
     }
   ]
