@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T14:29:12Z",
+  "generatedAt": "2026-09-11T14:28:22Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,7 +7,7 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 68,
+  "count": 69,
   "events": [
     {
       "id": "vvG1fZ_1MyyLug",
@@ -959,6 +959,20 @@
       "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
       "venueId": "KovZpZAdEJEA",
       "slug": "grand-national-championships-presented-by-yamaha-and-sweetwater-lucas-oil-stadium-2026-11--pacVMT",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_2L7VYU7",
+      "name": "Honey Revenge x Dead Poet Society",
+      "url": "https://www.ticketmaster.com/honey-revenge-x-dead-poet-society-indianapolis-indiana-11-12-2026/event/050064F7C4D30D84",
+      "dateLocal": "2026-11-13T00:00:00Z",
+      "dateDisplay": "2026-11-12 19:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "honey-revenge-x-dead-poet-society-old-national-centre-2026-11-12-L7VYU7",
       "source": "ticketmaster"
     }
   ]
