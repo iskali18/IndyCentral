@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T14:28:22Z",
+  "generatedAt": "2026-09-12T13:37:29Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,36 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 69,
+  "count": 68,
   "events": [
-    {
-      "id": "vvG1fZ_1MyyLug",
-      "name": "Dan + Shay: The Young Tour",
-      "url": "https://www.ticketmaster.com/dan-shay-the-young-tour-noblesville-indiana-09-11-2026/event/050064ADF9E5F375",
-      "dateLocal": "2026-09-11T23:00:00Z",
-      "dateDisplay": "2026-09-11 19:00:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "dan-shay-the-young-tour-ruoff-music-center-2026-09-11-MyyLug",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_1Ndhz2M",
-      "name": "underscores: Galleria - North American Chapter",
-      "url": "https://www.ticketmaster.com/underscores-galleria-north-american-chapter-indianapolis-indiana-09-11-2026/event/050064A8C36F83F7",
-      "dateLocal": "2026-09-12T00:00:00Z",
-      "dateDisplay": "2026-09-11 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "underscores-galleria-north-american-chapter-old-national-centre-2026-09-11-Ndhz2M",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZ_dGkm9Kgg9",
       "name": "CANN PRESENTS: YACHT ROCK REVUE - PRIMETIME",
@@ -973,6 +945,20 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "honey-revenge-x-dead-poet-society-old-national-centre-2026-11-12-L7VYU7",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_2p5Yg6m",
+      "name": "Grand National Championships Presented By Yamaha And Sweetwater",
+      "url": "https://www.ticketmaster.com/grand-national-championships-presented-by-yamaha-indianapolis-indiana-11-13-2026/event/050064F58BC351EE",
+      "dateLocal": "2026-11-13T12:00:00Z",
+      "dateDisplay": "2026-11-13 07:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Lucas Oil Stadium",
+      "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
+      "venueId": "KovZpZAdEJEA",
+      "slug": "grand-national-championships-presented-by-yamaha-and-sweetwater-lucas-oil-stadium-2026-11--p5Yg6m",
       "source": "ticketmaster"
     }
   ]
