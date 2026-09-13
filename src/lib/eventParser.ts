@@ -20,8 +20,43 @@ interface RawMeta {
   "Display Time"?: string;
 }
 
+function decodeHtmlEntities(s: string): string {
+  return s
+    .replace(/&amp;/g, "&")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;|&apos;/g, "'")
+    .replace(/&nbsp;/g, " ");
+}
+
+// Strip a line down to plain readable text: unwrap <a>...</a> to its visible
+// text, drop any other tags, then decode entities.
+function stripHtmlToText(s: string): string {
+  const withoutAnchors = s.replace(/<a\b[^>]*>(.*?)<\/a>/gi, "$1");
+  const withoutTags = withoutAnchors.replace(/<[^>]+>/g, "");
+  return decodeHtmlEntities(withoutTags).trim();
+}
+
+// Google Calendar's description field is not plain text — when entered
+// through the Calendar UI, line breaks become <br> tags and URLs get
+// auto-wrapped in <a href="...">...</a>. Convert that back into plain,
+// newline-separated text before we do any line-based metadata parsing.
+function normalizeCalendarDescription(raw: string): string {
+  return raw
+    .replace(/<br\s*\/?>/gi, "\n")
+    .replace(/<\/(p|div)>/gi, "\n")
+    .replace(/<(p|div)[^>]*>/gi, "");
+}
+
+function extractHref(line: string): string | null {
+  const match = line.match(/<a\b[^>]*\bhref\s*=\s*["']([^"']+)["'][^>]*>/i);
+  return match ? match[1] : null;
+}
+
 function parseMetadata(description: string): { meta: RawMeta; cleanedDescription: string } {
-  const lines = (description || "").split(/\r?\n/);
+  const normalized = normalizeCalendarDescription(description || "");
+  const lines = normalized.split(/\r?\n/);
   const meta: RawMeta = {};
   let cutIndex = lines.length;
 
@@ -34,14 +69,18 @@ function parseMetadata(description: string): { meta: RawMeta; cleanedDescription
     const match = line.match(/^(Categories|Official URL|Series|Display Dates|Display Time)\s*:\s*(.*)$/i);
     if (match) {
       const key = META_KEYS.find((k) => k.toLowerCase() === match[1].toLowerCase())!;
-      (meta as Record<string, string>)[key] = match[2].trim();
+      const rawValue = match[2];
+      // "Official URL" needs the actual href, not the auto-linked display
+      // text (they're usually identical, but not guaranteed).
+      const value = key === "Official URL" ? extractHref(rawValue) || stripHtmlToText(rawValue) : stripHtmlToText(rawValue);
+      (meta as Record<string, string>)[key] = value;
       cutIndex = i;
     } else {
       break;
     }
   }
 
-  const cleaned = lines.slice(0, cutIndex).join("\n").trim();
+  const cleaned = stripHtmlToText(lines.slice(0, cutIndex).join("\n").trim());
   return { meta, cleanedDescription: cleaned };
 }
 
