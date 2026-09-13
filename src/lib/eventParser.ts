@@ -10,7 +10,7 @@ import { CANONICAL_CATEGORIES } from "./types";
 import { computeFormattedDate, formatClockTime, datePartOf, monthGroupLabel } from "./dateFormat";
 import { TIME_ZONE } from "./googleCalendar";
 
-const META_KEYS = ["Categories", "Official URL", "Series", "Display Dates", "Display Time"] as const;
+const META_KEYS = ["Categories", "Official URL", "Series", "Display Dates", "Display Time", "Venue"] as const;
 
 interface RawMeta {
   Categories?: string;
@@ -18,6 +18,7 @@ interface RawMeta {
   Series?: string;
   "Display Dates"?: string;
   "Display Time"?: string;
+  Venue?: string;
 }
 
 function decodeHtmlEntities(s: string): string {
@@ -65,7 +66,7 @@ function parseMetadata(description: string): { meta: RawMeta; cleanedDescription
       cutIndex = i;
       continue;
     }
-    const match = line.match(/^(Categories|Official URL|Series|Display Dates|Display Time)\s*:\s*(.*)$/i);
+    const match = line.match(/^(Categories|Official URL|Series|Display Dates|Display Time|Venue)\s*:\s*(.*)$/i);
     if (match) {
       const key = META_KEYS.find((k) => k.toLowerCase() === match[1].toLowerCase())!;
       (meta as Record<string, string>)[key] = match[2].trim();
@@ -177,11 +178,17 @@ export function runPipeline(rawEntries: RawCalEvent[]): PipelineResult {
     const dates = resolveDates(raw);
     const categories = validateCategories(meta.Categories, raw.summary || "Untitled event", dates.startISO);
 
+    // Google Calendar locations are typically "Venue Name, Street, City, ST
+    // ZIP, Country" (from Places autocomplete). Default to just the venue
+    // name; a "Venue:" metadata line overrides this for the rare case where
+    // that heuristic doesn't produce the right result.
+    const simplifiedVenue = meta.Venue || (raw.location || "").split(",")[0].trim();
+
     return {
       id: raw.id,
       title: raw.summary || "Untitled event",
       description: cleanedDescription,
-      location: raw.location || "",
+      location: simplifiedVenue,
       categories,
       officialUrl: meta["Official URL"] || undefined,
       seriesRaw: meta.Series || undefined,

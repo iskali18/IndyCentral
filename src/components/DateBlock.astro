@@ -1,51 +1,43 @@
 ---
 interface Props {
-  topLine: string;
   bottomLine: string;
 }
-const { topLine, bottomLine } = Astro.props;
+const { bottomLine } = Astro.props;
 ---
 <div class="date-block">
-  {topLine && <span class="date-top">{topLine}</span>}
   <span class="date-bottom">{bottomLine}</span>
 </div>
 
 <style>
   .date-block {
     display: flex;
-    flex-direction: column;
     align-items: center;
     justify-content: center;
     min-width: 84px;
     max-width: 110px;
-    padding: 0.5rem 0.4rem;
-    gap: 0.2rem;
+    padding: 0.85rem 0.5rem;
     flex-shrink: 0;
     text-align: center;
-  }
-
-  .date-top {
-    font-size: 0.66rem;
-    font-weight: 700;
-    letter-spacing: 0.08em;
-    color: var(--brand);
-    text-transform: uppercase;
+    background: var(--bg-surface);
+    border: 1px solid var(--border-sub);
+    border-radius: var(--radius);
   }
 
   .date-bottom {
     font-family: var(--font-display);
-    font-size: 1.4rem;
+    font-size: 1.55rem;
     font-weight: 700;
-    color: var(--text);
-    line-height: 1.05;
+    color: var(--brand);
+    line-height: 1.15;
   }
 
   @media (max-width: 600px) {
     .date-block {
-      min-width: 64px;
+      min-width: 68px;
+      padding: 0.65rem 0.4rem;
     }
     .date-bottom {
-      font-size: 1.1rem;
+      font-size: 1.3rem;
     }
   }
 </style>

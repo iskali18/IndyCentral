@@ -1,0 +1,42 @@
+---
+interface Props {
+  src: string;
+  alt: string;
+  caption?: string;
+}
+const { src, alt, caption } = Astro.props;
+---
+<figure class="editorial-image">
+  <img src={src} alt={alt} loading="lazy" />
+  {caption && <figcaption>{caption}</figcaption>}
+</figure>
+
+<style>
+  .editorial-image {
+    margin: 2.5rem 0;
+  }
+
+  .editorial-image img {
+    width: 100%;
+    aspect-ratio: 2.4 / 1;
+    object-fit: cover;
+    border-radius: var(--radius-lg);
+    display: block;
+  }
+
+  .editorial-image figcaption {
+    margin-top: 0.6rem;
+    font-size: 0.9rem;
+    font-style: italic;
+    color: var(--text-muted);
+  }
+
+  @media (max-width: 600px) {
+    .editorial-image {
+      margin: 1.75rem 0;
+    }
+    .editorial-image img {
+      aspect-ratio: 4 / 3;
+    }
+  }
+</style>

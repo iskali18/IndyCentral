@@ -18,12 +18,12 @@ img, svg { display: block; max-width: 100%; }
   --bg-elevated:   #eef1f6;
   --bg-elevated-2: #e3e8f0;
 
-  --border:        #dde3ec;
-  --border-sub:    #e8ecf2;
+  --border:        #c1c9d6;
+  --border-sub:    #9aa5b8;
 
   --text:          #14243f;
   --text-muted:    #64748b;
-  --text-dim:      #4b5a72;
+  --text-dim:      #3a3a3a;
 
   --brand:         #1b3b6f;
 
@@ -46,6 +46,7 @@ body {
   font-family: var(--font-body);
   background: var(--bg);
   color: var(--text);
+  font-weight: 500;
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
 }

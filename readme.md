@@ -30,13 +30,32 @@ Display Time: Thursdays–Sundays, 5–10 p.m.
 - `Categories` — one or more of: Concerts & Music, Festivals, Arts & Culture,
   Fall & Halloween, Holiday, Family (separated by `|`).
 - `Official URL` — the event's CTA link. If omitted, no CTA is shown.
+- `Venue` — overrides the venue name shown on the site. By default, the
+  site uses everything before the first comma in the Calendar event's
+  Location field (works well for Google Places-style addresses like
+  "Indianapolis Zoo, 1200 W Washington St, Indianapolis, IN..." → shows
+  just "Indianapolis Zoo"). Only add this line if that default produces
+  the wrong result.
 - `Series` — ties multiple Calendar entries ("legs") together into one
   grouped display item. Only use this for multi-leg / non-contiguous
   events (e.g. a film series). A continuous single-run event stays one
   Calendar entry.
 - `Display Dates` / `Display Time` — override the automatically computed
   date/time text. Required for events with a recurring pattern the site
-  can't compute on its own (e.g. "Wed–Sun, Sept 23–Nov 1").
+  can't compute on its own. Use the plural weekday form when the pattern
+  repeats weekly (e.g. "Wednesdays–Sundays, Sept 23–Nov 1") — the singular
+  abbreviated form ("Wed–Sun, Sept 23–Nov 1") reads as one continuous
+  multi-day span rather than a repeating weekly pattern.
+
+## Editorial images on the Events page
+
+Wide atmospheric photos can be inserted between event listings as visual
+breaks — edit `src/lib/editorialImages.ts` directly. Each entry needs:
+`src` (path under `/public/images/editorial/`), `alt`, an optional
+`caption`, and `afterEventTitle` (the exact title of the event/series it
+should follow). Not tied to Calendar data — these don't affect filtering,
+sorting, or which events show up. If the event named in `afterEventTitle`
+expires and drops off the site, the image stops appearing too.
 
 ## Setup
 
