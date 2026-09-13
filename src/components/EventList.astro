@@ -1,0 +1,46 @@
+---
+import StandaloneEventRow from "./StandaloneEventRow.astro";
+import SeriesGroupBlock from "./SeriesGroupBlock.astro";
+import type { MonthGroup } from "../lib/types";
+
+interface Props {
+  monthGroups: MonthGroup[];
+}
+const { monthGroups } = Astro.props;
+---
+{monthGroups.map((group) => (
+  <div class="month-group">
+    <h2 class="month-heading">{group.label}</h2>
+    <ul class="event-list" role="list">
+      {group.items.map((item) =>
+        item.kind === "standalone" ? (
+          <StandaloneEventRow item={item} />
+        ) : (
+          <SeriesGroupBlock item={item} />
+        )
+      )}
+    </ul>
+  </div>
+))}
+
+<style>
+  .month-group {
+    margin-bottom: 2.5rem;
+  }
+
+  .month-heading {
+    font-family: var(--font-display);
+    font-size: 0.85rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    padding-bottom: 0.6rem;
+    margin-bottom: 0.4rem;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .event-list {
+    list-style: none;
+  }
+</style>

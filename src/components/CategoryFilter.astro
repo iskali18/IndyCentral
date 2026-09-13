@@ -1,0 +1,84 @@
+---
+import { CANONICAL_CATEGORIES } from "../lib/types";
+---
+<div class="category-filter" role="group" aria-label="Filter events by category">
+  <button type="button" class="filter-btn" data-category="All" aria-pressed="true">All</button>
+  {CANONICAL_CATEGORIES.map((c) => (
+    <button type="button" class="filter-btn" data-category={c} aria-pressed="false">
+      {c}
+    </button>
+  ))}
+</div>
+
+<style>
+  .category-filter {
+    display: flex;
+    gap: 0.5rem;
+    overflow-x: auto;
+    padding-bottom: 0.25rem;
+    margin-bottom: 1.5rem;
+    scrollbar-width: thin;
+  }
+
+  .filter-btn {
+    flex-shrink: 0;
+    font-family: var(--font-body);
+    font-size: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    color: var(--text-dim);
+    background: transparent;
+    border: 1px solid var(--border-sub);
+    border-radius: 999px;
+    padding: 0.4em 0.95em;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+  }
+
+  .filter-btn:hover {
+    border-color: var(--accent-dim);
+    color: var(--text);
+  }
+
+  .filter-btn[aria-pressed="true"] {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: #000;
+  }
+</style>
+
+<script>
+  const buttons = document.querySelectorAll<HTMLButtonElement>(".filter-btn");
+
+  function applyFilter(selected: string) {
+    document.querySelectorAll<HTMLElement>(".event-row").forEach((row) => {
+      const cats = (row.dataset.categories || "").split("|").filter(Boolean);
+      row.hidden = selected !== "All" && !cats.includes(selected);
+    });
+
+    document.querySelectorAll<HTMLElement>(".series-group").forEach((group) => {
+      let anyVisible = false;
+      group.querySelectorAll<HTMLElement>(".series-leg").forEach((leg) => {
+        const cats = (leg.dataset.categories || "").split("|").filter(Boolean);
+        const match = selected === "All" || cats.includes(selected);
+        leg.hidden = !match;
+        if (match) anyVisible = true;
+      });
+      group.hidden = !anyVisible;
+    });
+
+    document.querySelectorAll<HTMLElement>(".month-group").forEach((mg) => {
+      const items = mg.querySelectorAll<HTMLElement>(".event-row, .series-group");
+      const anyVisible = Array.from(items).some((el) => !el.hidden);
+      mg.hidden = !anyVisible;
+    });
+  }
+
+  buttons.forEach((btn) => {
+    btn.addEventListener("click", () => {
+      buttons.forEach((b) => b.setAttribute("aria-pressed", String(b === btn)));
+      applyFilter(btn.dataset.category || "All");
+    });
+  });
+</script>

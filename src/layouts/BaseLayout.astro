@@ -1,7 +1,14 @@
 ---
 import "../styles/global.css";
 
-const { title, description } = Astro.props;
+interface Props {
+  title: string;
+  description: string;
+  structuredData?: Record<string, unknown>;
+}
+
+const { title, description, structuredData } = Astro.props;
+const year = new Date().getFullYear();
 ---
 <!doctype html>
 <html lang="en">
@@ -10,6 +17,7 @@ const { title, description } = Astro.props;
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{title}</title>
   <meta name="description" content={description} />
+  <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-1KPW1930R4"></script>
   <script>
@@ -22,14 +30,17 @@ const { title, description } = Astro.props;
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,400&display=swap" rel="stylesheet" />
+
+  {structuredData && (
+    <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
+  )}
 </head>
 <body>
   <header class="site-header">
     <div class="container">
       <a href="/" class="site-logo">IndyCentral</a>
       <nav class="site-nav" aria-label="Primary">
-        <a href="/#concerts">Concerts</a>
-        <a href="/#about">About</a>
+        <a href="/events/">Events</a>
       </nav>
     </div>
   </header>
@@ -37,5 +48,15 @@ const { title, description } = Astro.props;
   <main>
     <slot />
   </main>
+
+  <footer class="legal-footer">
+    <div class="container legal-footer-inner">
+      <p class="legal-footer-copy">&copy; {year} IndyCentral</p>
+      <nav class="legal-footer-nav" aria-label="Legal">
+        <a href="/privacy/">Privacy</a>
+        <a href="/terms/">Terms</a>
+      </nav>
+    </div>
+  </footer>
 </body>
 </html>

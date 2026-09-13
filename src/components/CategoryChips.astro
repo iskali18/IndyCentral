@@ -1,0 +1,34 @@
+---
+interface Props {
+  categories: string[];
+}
+const { categories } = Astro.props;
+---
+{categories.length > 0 && (
+  <ul class="category-chips" role="list">
+    {categories.map((c) => (
+      <li class="category-chip">{c}</li>
+    ))}
+  </ul>
+)}
+
+<style>
+  .category-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    list-style: none;
+  }
+
+  .category-chip {
+    font-size: 0.68rem;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    border: 1px solid var(--border-sub);
+    border-radius: 999px;
+    padding: 0.28em 0.75em;
+    white-space: nowrap;
+  }
+</style>

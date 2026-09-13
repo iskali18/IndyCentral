@@ -1,0 +1,90 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import CategoryFilter from "../../components/CategoryFilter.astro";
+import EventList from "../../components/EventList.astro";
+import { getEventsData } from "../../lib/events";
+
+const data = await getEventsData();
+
+const structuredData = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  name: "Indianapolis Events",
+  url: new URL("/events/", Astro.site).toString(),
+  description:
+    "Find concerts, festivals, seasonal events and destination events in Indianapolis and nearby communities.",
+  isPartOf: {
+    "@type": "WebSite",
+    name: "IndyCentral",
+    url: Astro.site?.toString(),
+  },
+};
+---
+<BaseLayout
+  title="Indianapolis Events | Concerts, Festivals & Seasonal Events | IndyCentral"
+  description="Find concerts, festivals, seasonal events and destination events in Indianapolis and nearby communities. IndyCentral brings noteworthy events from venues and organizations across the metro into one place."
+  structuredData={structuredData}
+>
+  <section class="events-hero">
+    <div class="container">
+      <h1>Indianapolis Events</h1>
+      <p class="intro">
+        Find concerts, festivals, seasonal events and destination events in Indianapolis and nearby
+        communities. IndyCentral brings noteworthy events from venues and organizations across the
+        metro into one place — it's a curated selection, not an exhaustive community calendar.
+      </p>
+    </div>
+  </section>
+
+  <section class="events-list-section">
+    <div class="container">
+      {!data.ok && (
+        <p class="empty">We're having trouble loading events right now. Please check back shortly.</p>
+      )}
+
+      {data.ok && data.flatSorted.length === 0 && (
+        <p class="empty">No events are currently listed — check back soon.</p>
+      )}
+
+      {data.ok && data.flatSorted.length > 0 && (
+        <>
+          <CategoryFilter />
+          <EventList monthGroups={data.monthGroups} />
+        </>
+      )}
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .events-hero {
+    padding: 4.5rem 0 2.5rem;
+  }
+
+  .events-hero h1 {
+    font-family: var(--font-display);
+    font-size: clamp(2.4rem, 6vw, 3.6rem);
+    font-weight: 700;
+    letter-spacing: 0.01em;
+    color: var(--text);
+    line-height: 1.05;
+    margin-bottom: 1rem;
+  }
+
+  .intro {
+    font-size: 1rem;
+    line-height: 1.75;
+    color: var(--text-dim);
+    max-width: 62ch;
+  }
+
+  .events-list-section {
+    padding-bottom: 5rem;
+  }
+
+  .empty {
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    padding: 1.5rem 0;
+  }
+</style>

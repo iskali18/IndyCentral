@@ -1,0 +1,107 @@
+---
+import DateBlock from "./DateBlock.astro";
+import CategoryChips from "./CategoryChips.astro";
+import type { StandaloneItem } from "../lib/types";
+
+interface Props {
+  item: StandaloneItem;
+}
+const { item } = Astro.props;
+const metaParts = [item.location, item.timeLabel].filter(Boolean) as string[];
+---
+<li class="event-row" data-categories={item.categories.join("|")}>
+  <DateBlock topLine={item.date.topLine} bottomLine={item.date.bottomLine} />
+  <div class="event-body">
+    <h3 class="event-title">{item.title}</h3>
+    {metaParts.length > 0 && <p class="event-meta">{metaParts.join(" · ")}</p>}
+    {item.description && <p class="event-desc">{item.description}</p>}
+    <div class="event-footer">
+      <CategoryChips categories={item.categories} />
+      {item.officialUrl && (
+        <a class="event-cta" href={item.officialUrl} target="_blank" rel="noopener noreferrer">
+          Official event site →
+        </a>
+      )}
+    </div>
+  </div>
+</li>
+
+<style>
+  .event-row {
+    display: grid;
+    grid-template-columns: 100px 1fr;
+    gap: 1.25rem;
+    padding: 1.5rem 0;
+    border-bottom: 1px solid var(--border-sub);
+    align-items: start;
+  }
+
+  .event-row:last-child {
+    border-bottom: none;
+  }
+
+  .event-body {
+    min-width: 0;
+  }
+
+  .event-title {
+    font-family: var(--font-display);
+    font-size: 1.35rem;
+    font-weight: 700;
+    letter-spacing: 0.01em;
+    color: var(--text);
+    line-height: 1.15;
+    margin-bottom: 0.35rem;
+  }
+
+  .event-meta {
+    font-size: 0.88rem;
+    color: var(--text-dim);
+    margin-bottom: 0.6rem;
+  }
+
+  .event-desc {
+    font-size: 0.95rem;
+    line-height: 1.65;
+    color: var(--text-dim);
+    max-width: 62ch;
+    margin-bottom: 1rem;
+    white-space: pre-line;
+  }
+
+  .event-footer {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem 1.5rem;
+  }
+
+  .event-cta {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--accent);
+    white-space: nowrap;
+    transition: color 0.15s ease;
+  }
+
+  .event-cta:hover {
+    color: var(--accent-dim);
+  }
+
+  @media (max-width: 600px) {
+    .event-row {
+      grid-template-columns: 64px 1fr;
+      gap: 0.85rem;
+      padding: 1.15rem 0;
+    }
+
+    .event-title {
+      font-size: 1.15rem;
+    }
+
+    .event-meta {
+      white-space: normal;
+    }
+  }
+</style>
