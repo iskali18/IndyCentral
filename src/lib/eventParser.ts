@@ -30,28 +30,27 @@ function decodeHtmlEntities(s: string): string {
     .replace(/&nbsp;/g, " ");
 }
 
-// Strip a line down to plain readable text: unwrap <a>...</a> to its visible
-// text, drop any other tags, then decode entities.
-function stripHtmlToText(s: string): string {
-  const withoutAnchors = s.replace(/<a\b[^>]*>(.*?)<\/a>/gi, "$1");
-  const withoutTags = withoutAnchors.replace(/<[^>]+>/g, "");
-  return decodeHtmlEntities(withoutTags).trim();
-}
-
-// Google Calendar's description field is not plain text — when entered
-// through the Calendar UI, line breaks become <br> tags and URLs get
-// auto-wrapped in <a href="...">...</a>. Convert that back into plain,
-// newline-separated text before we do any line-based metadata parsing.
+// Google Calendar's description field is not plain text. Depending on how
+// it was entered, it can contain: <br> tags instead of real line breaks,
+// paragraphs wrapped in <p>/<div>, auto-linkified URLs as <a href="...">,
+// stray formatting <span>/<b>/<font> wrappers, and leftover &nbsp;/&amp;
+// entities (sometimes trailing at the very end of the text). Any one of
+// these left unhandled can make a metadata line silently fail to match —
+// so the whole description is normalized down to clean, plain,
+// newline-separated text in one pass BEFORE any line-based parsing.
 function normalizeCalendarDescription(raw: string): string {
-  return raw
-    .replace(/<br\s*\/?>/gi, "\n")
-    .replace(/<\/(p|div)>/gi, "\n")
-    .replace(/<(p|div)[^>]*>/gi, "");
-}
-
-function extractHref(line: string): string | null {
-  const match = line.match(/<a\b[^>]*\bhref\s*=\s*["']([^"']+)["'][^>]*>/i);
-  return match ? match[1] : null;
+  let s = raw;
+  // Block-level boundaries -> real newlines.
+  s = s.replace(/<br\s*\/?>/gi, "\n");
+  s = s.replace(/<\/(p|div|li)>/gi, "\n");
+  s = s.replace(/<(p|div|li|ul|ol)[^>]*>/gi, "");
+  // Links -> just the URL (covers "Official URL:" and any other link;
+  // auto-linkified text and the href are identical in the normal case).
+  s = s.replace(/<a\b[^>]*\bhref\s*=\s*["']([^"']+)["'][^>]*>.*?<\/a>/gi, "$1");
+  // Any remaining tags (span, b, i, u, font, etc.) — drop the tag, keep
+  // whatever text is inside it.
+  s = s.replace(/<[^>]+>/g, "");
+  return decodeHtmlEntities(s);
 }
 
 function parseMetadata(description: string): { meta: RawMeta; cleanedDescription: string } {
@@ -69,18 +68,14 @@ function parseMetadata(description: string): { meta: RawMeta; cleanedDescription
     const match = line.match(/^(Categories|Official URL|Series|Display Dates|Display Time)\s*:\s*(.*)$/i);
     if (match) {
       const key = META_KEYS.find((k) => k.toLowerCase() === match[1].toLowerCase())!;
-      const rawValue = match[2];
-      // "Official URL" needs the actual href, not the auto-linked display
-      // text (they're usually identical, but not guaranteed).
-      const value = key === "Official URL" ? extractHref(rawValue) || stripHtmlToText(rawValue) : stripHtmlToText(rawValue);
-      (meta as Record<string, string>)[key] = value;
+      (meta as Record<string, string>)[key] = match[2].trim();
       cutIndex = i;
     } else {
       break;
     }
   }
 
-  const cleaned = stripHtmlToText(lines.slice(0, cutIndex).join("\n").trim());
+  const cleaned = lines.slice(0, cutIndex).join("\n").trim();
   return { meta, cleanedDescription: cleaned };
 }
 
