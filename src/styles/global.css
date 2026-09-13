@@ -2,6 +2,15 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 img, svg { display: block; max-width: 100%; }
 
+/* Several components (event rows, series legs) set their own `display`
+   (grid/flex) for layout, which — per normal CSS cascade rules — silently
+   overrides the browser's built-in `[hidden] { display: none }` rule when
+   specificity ties. The category filter script relies on the `hidden`
+   property to show/hide items, so this override must always win. */
+[hidden] {
+  display: none !important;
+}
+
 /* ── Design Tokens ──────────────────────────────────────────────────────── */
 :root {
   --bg:            #080c14;
