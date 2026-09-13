@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T13:37:29Z",
+  "generatedAt": "2026-09-13T14:27:02Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,36 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 68,
+  "count": 69,
   "events": [
-    {
-      "id": "vv17fZ_dGkm9Kgg9",
-      "name": "CANN PRESENTS: YACHT ROCK REVUE - PRIMETIME",
-      "url": "https://www.ticketmaster.com/cann-presents-yacht-rock-revue-primetime-noblesville-indiana-09-12-2026/event/0500643B974F5D57",
-      "dateLocal": "2026-09-13T00:00:00Z",
-      "dateDisplay": "2026-09-12 20:00:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "cann-presents-yacht-rock-revue-primetime-ruoff-music-center-2026-09-12-m9Kgg9",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_2DfeKq3",
-      "name": "Punchis Punchis: Banda Rave Experience (18+)",
-      "url": "https://www.ticketmaster.com/punchis-punchis-banda-rave-experience-18-indianapolis-indiana-09-12-2026/event/050064FED4093752",
-      "dateLocal": "2026-09-13T02:00:00Z",
-      "dateDisplay": "2026-09-12 22:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "punchis-punchis-banda-rave-experience-18-old-national-centre-2026-09-12-DfeKq3",
-      "source": "ticketmaster"
-    },
     {
       "id": "vvG1fZ_GLK3WNo",
       "name": "Phoebe Bridgers: The Lost Tour",
@@ -959,6 +931,48 @@
       "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
       "venueId": "KovZpZAdEJEA",
       "slug": "grand-national-championships-presented-by-yamaha-and-sweetwater-lucas-oil-stadium-2026-11--p5Yg6m",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_kGkM7scL0",
+      "name": "Aj McLean: the Better Man Tour",
+      "url": "https://www.ticketmaster.com/aj-mclean-the-better-man-tour-indianapolis-indiana-11-13-2026/event/0500646DC4C6D7E4",
+      "dateLocal": "2026-11-14T01:00:00Z",
+      "dateDisplay": "2026-11-13 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Clowes Memorial Hall",
+      "venueUrl": "https://www.ticketmaster.com/clowes-memorial-hall-tickets-indianapolis/venue/41111",
+      "venueId": "KovZpZAJdEkA",
+      "slug": "aj-mclean-the-better-man-tour-clowes-memorial-hall-2026-11-13-M7scL0",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_2p2h4x1",
+      "name": "Grand National Championships Presented By Yamaha And Sweetwater",
+      "url": "https://www.ticketmaster.com/grand-national-championships-presented-by-yamaha-indianapolis-indiana-11-14-2026/event/050064F58F6D588A",
+      "dateLocal": "2026-11-14T12:00:00Z",
+      "dateDisplay": "2026-11-14 07:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Lucas Oil Stadium",
+      "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
+      "venueId": "KovZpZAdEJEA",
+      "slug": "grand-national-championships-presented-by-yamaha-and-sweetwater-lucas-oil-stadium-2026-11--p2h4x1",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_297lWLu",
+      "name": "Grand National Championships Presented By Yamaha And Sweetwater",
+      "url": "https://www.ticketmaster.com/grand-national-championships-presented-by-yamaha-indianapolis-indiana-11-14-2026/event/050064F5C4AFD7CD",
+      "dateLocal": "2026-11-15T00:00:00Z",
+      "dateDisplay": "2026-11-14 19:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Lucas Oil Stadium",
+      "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
+      "venueId": "KovZpZAdEJEA",
+      "slug": "grand-national-championships-presented-by-yamaha-and-sweetwater-lucas-oil-stadium-2026-11--97lWLu",
       "source": "ticketmaster"
     }
   ]
