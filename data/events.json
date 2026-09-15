@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T16:23:24Z",
+  "generatedAt": "2026-09-15T15:03:15Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 69,
+  "count": 68,
   "events": [
-    {
-      "id": "vvG1fZ_GLK3WNo",
-      "name": "Phoebe Bridgers: The Lost Tour",
-      "url": "https://www.ticketmaster.com/phoebe-bridgers-the-lost-tour-indianapolis-indiana-09-14-2026/event/050064C7D34BD8D1",
-      "dateLocal": "2026-09-14T23:30:00Z",
-      "dateDisplay": "2026-09-14 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Gainbridge Fieldhouse",
-      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
-      "venueId": "KovZpZA6keIA",
-      "slug": "phoebe-bridgers-the-lost-tour-gainbridge-fieldhouse-2026-09-14-LK3WNo",
-      "source": "ticketmaster"
-    },
     {
       "id": "vvG1fZ_59tsCf1",
       "name": "Phoebe Bridgers: The Lost Tour",
