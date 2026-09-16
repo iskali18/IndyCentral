@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T15:03:15Z",
+  "generatedAt": "2026-09-16T15:00:22Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,50 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 68,
+  "count": 67,
   "events": [
-    {
-      "id": "vvG1fZ_59tsCf1",
-      "name": "Phoebe Bridgers: The Lost Tour",
-      "url": "https://www.ticketmaster.com/phoebe-bridgers-the-lost-tour-indianapolis-indiana-09-15-2026/event/050064B5E9C4E50A",
-      "dateLocal": "2026-09-15T23:30:00Z",
-      "dateDisplay": "2026-09-15 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Gainbridge Fieldhouse",
-      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
-      "venueId": "KovZpZA6keIA",
-      "slug": "phoebe-bridgers-the-lost-tour-gainbridge-fieldhouse-2026-09-15-9tsCf1",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZk8MGkePzDvw",
-      "name": "WTTS Rock on the River - Mt. Joy 2026: Celebrating 10 Years of Mt. Joy",
-      "url": "https://www.ticketmaster.com/wtts-rock-on-the-river-mt-indianapolis-indiana-09-15-2026/event/05006437A5E3B072",
-      "dateLocal": "2026-09-15T23:30:00Z",
-      "dateDisplay": "2026-09-15 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "wtts-rock-on-the-river-mt-joy-2026-celebrating-10-years-of-mt-joy-everwise-amphitheater-at-ePzDvw",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_u6xbgSV",
-      "name": "Chief Keef",
-      "url": "https://www.ticketmaster.com/chief-keef-indianapolis-indiana-09-15-2026/event/050064D1E2635CF4",
-      "dateLocal": "2026-09-16T00:00:00Z",
-      "dateDisplay": "2026-09-15 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "chief-keef-old-national-centre-2026-09-15-6xbgSV",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZ_7GkYHxHOG",
       "name": "Breaking Benjamin",
@@ -959,6 +917,34 @@
       "venueUrl": "https://www.ticketmaster.com/lucas-oil-stadium-tickets-indianapolis/venue/41855",
       "venueId": "KovZpZAdEJEA",
       "slug": "grand-national-championships-presented-by-yamaha-and-sweetwater-lucas-oil-stadium-2026-11--97lWLu",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_G5CRRZm",
+      "name": "Little Big Town - For The Art Of It Tour",
+      "url": "https://www.ticketmaster.com/little-big-town-for-the-art-indianapolis-indiana-11-14-2026/event/050064C2CEBEF02E",
+      "dateLocal": "2026-11-15T00:30:00Z",
+      "dateDisplay": "2026-11-14 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "little-big-town-for-the-art-of-it-tour-old-national-centre-2026-11-14-5CRRZm",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_CLCJgDD",
+      "name": "Daily Bread - Vanishing Point Tour",
+      "url": "https://www.ticketmaster.com/daily-bread-vanishing-point-tour-indianapolis-indiana-11-15-2026/event/050064E7CE9B5EFB",
+      "dateLocal": "2026-11-16T00:00:00Z",
+      "dateDisplay": "2026-11-15 19:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "daily-bread-vanishing-point-tour-old-national-centre-2026-11-15-LCJgDD",
       "source": "ticketmaster"
     }
   ]
