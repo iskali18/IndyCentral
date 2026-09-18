@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T15:04:03Z",
+  "generatedAt": "2026-09-18T14:32:29Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 65,
+  "count": 63,
   "events": [
-    {
-      "id": "vv17fZbwGkmtToV0",
-      "name": "WTTS Rock to Read: Big Head Todd and the Monsters - Winter Tour 2026",
-      "url": "https://www.ticketmaster.com/wtts-rock-to-read-big-head-indianapolis-indiana-09-17-2026/event/0500632BA9FD1D24",
-      "dateLocal": "2026-09-17T23:30:00Z",
-      "dateDisplay": "2026-09-17 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "wtts-rock-to-read-big-head-todd-and-the-monsters-winter-tour-2026-old-national-centre-2026-mtToV0",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZ_dGkzAs6c0",
       "name": "Tim McGraw: Pawn Shop Guitar Tour 2026",
@@ -542,6 +528,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vv1kv8vPasGAuGoXQ",
+      "name": "¡NOCHE LATINA! (21+)",
+      "url": "https://www.ticketmaster.com/noche-latina-21-indianapolis-indiana-10-30-2026/event/050065271D311F9A",
+      "dateLocal": "2026-10-31T03:00:00Z",
+      "dateDisplay": "2026-10-30 23:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "noche-latina-21-old-national-centre-2026-10-30-AuGoXQ",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vv17fZ_8GkmsnFvt",
       "name": "The R&B Tour - Starring Usher Raymond & Chris Brown",
       "url": "https://www.ticketmaster.com/the-rb-tour-starring-usher-raymond-indianapolis-indiana-10-31-2026/event/0500650BB1A88069",
@@ -889,34 +889,6 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "little-big-town-for-the-art-of-it-tour-old-national-centre-2026-11-14-5CRRZm",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_CLCJgDD",
-      "name": "Daily Bread - Vanishing Point Tour",
-      "url": "https://www.ticketmaster.com/daily-bread-vanishing-point-tour-indianapolis-indiana-11-15-2026/event/050064E7CE9B5EFB",
-      "dateLocal": "2026-11-16T00:00:00Z",
-      "dateDisplay": "2026-11-15 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "daily-bread-vanishing-point-tour-old-national-centre-2026-11-15-LCJgDD",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZ_oGklFrGC3",
-      "name": "Skilla Baby: The Price of Fame Tour (18+)",
-      "url": "https://www.ticketmaster.com/skilla-baby-the-price-of-fame-indianapolis-indiana-11-15-2026/event/0500651AC878C392",
-      "dateLocal": "2026-11-16T01:00:00Z",
-      "dateDisplay": "2026-11-15 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "skilla-baby-the-price-of-fame-tour-18-old-national-centre-2026-11-15-lFrGC3",
       "source": "ticketmaster"
     }
   ]
