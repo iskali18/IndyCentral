@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T14:32:29Z",
+  "generatedAt": "2026-09-19T13:56:06Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,50 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 63,
+  "count": 65,
   "events": [
-    {
-      "id": "vv17fZ_dGkzAs6c0",
-      "name": "Tim McGraw: Pawn Shop Guitar Tour 2026",
-      "url": "https://www.ticketmaster.com/tim-mcgraw-pawn-shop-guitar-tour-noblesville-indiana-09-18-2026/event/0500643E05C47B64",
-      "dateLocal": "2026-09-18T23:00:00Z",
-      "dateDisplay": "2026-09-18 19:00:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "tim-mcgraw-pawn-shop-guitar-tour-2026-ruoff-music-center-2026-09-18-zAs6c0",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZk3pGkdhJ2dA",
-      "name": "Suki Waterhouse: The Loveland Tour",
-      "url": "https://www.ticketmaster.com/suki-waterhouse-the-loveland-tour-indianapolis-indiana-09-18-2026/event/05006496DB98F0C5",
-      "dateLocal": "2026-09-18T23:30:00Z",
-      "dateDisplay": "2026-09-18 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "suki-waterhouse-the-loveland-tour-old-national-centre-2026-09-18-dhJ2dA",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_GnPtX0r",
-      "name": "honestav - The Sweet American Boy Tour ",
-      "url": "https://www.ticketmaster.com/honestav-the-sweet-american-boy-tour-indianapolis-indiana-09-18-2026/event/050064CAA5A7E91E",
-      "dateLocal": "2026-09-19T00:30:00Z",
-      "dateDisplay": "2026-09-18 20:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "honestav-the-sweet-american-boy-tour-old-national-centre-2026-09-18-nPtX0r",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1AAZk8PGkdPS1F3",
       "name": "Pitbull - I'm Back with special guest Lil Jon",
@@ -889,6 +847,76 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "little-big-town-for-the-art-of-it-tour-old-national-centre-2026-11-14-5CRRZm",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_CLCJgDD",
+      "name": "Daily Bread - Vanishing Point Tour",
+      "url": "https://www.ticketmaster.com/daily-bread-vanishing-point-tour-indianapolis-indiana-11-15-2026/event/050064E7CE9B5EFB",
+      "dateLocal": "2026-11-16T00:00:00Z",
+      "dateDisplay": "2026-11-15 19:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "daily-bread-vanishing-point-tour-old-national-centre-2026-11-15-LCJgDD",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_oGklFrGC3",
+      "name": "Skilla Baby: The Price of Fame Tour (18+)",
+      "url": "https://www.ticketmaster.com/skilla-baby-the-price-of-fame-indianapolis-indiana-11-15-2026/event/0500651AC878C392",
+      "dateLocal": "2026-11-16T01:00:00Z",
+      "dateDisplay": "2026-11-15 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "skilla-baby-the-price-of-fame-tour-18-old-national-centre-2026-11-15-lFrGC3",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_CT6qd3V",
+      "name": "Shaun Cassidy -  UNWRAPPED: Songs & Stories For The Holidays",
+      "url": "https://www.ticketmaster.com/shaun-cassidy-unwrapped-songs-stories-for-indianapolis-indiana-11-17-2026/event/050064EFC77434B4",
+      "dateLocal": "2026-11-18T00:30:00Z",
+      "dateDisplay": "2026-11-17 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "shaun-cassidy-unwrapped-songs-stories-for-the-holidays-old-national-centre-2026-11-17-T6qd3V",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_uLNqP4f",
+      "name": "Medium Build Presents The King of Having Fun on Tour",
+      "url": "https://www.ticketmaster.com/medium-build-presents-the-king-of-indianapolis-indiana-11-17-2026/event/050064D7E3765554",
+      "dateLocal": "2026-11-18T01:00:00Z",
+      "dateDisplay": "2026-11-17 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "medium-build-presents-the-king-of-having-fun-on-tour-old-national-centre-2026-11-17-LNqP4f",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_GlxuH8a",
+      "name": "STS9 - Human Dream Tour",
+      "url": "https://www.ticketmaster.com/sts9-human-dream-tour-indianapolis-indiana-11-18-2026/event/050064CAE237C409",
+      "dateLocal": "2026-11-19T01:00:00Z",
+      "dateDisplay": "2026-11-18 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "sts9-human-dream-tour-old-national-centre-2026-11-18-lxuH8a",
       "source": "ticketmaster"
     }
   ]
