@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T13:56:06Z",
+  "generatedAt": "2026-09-20T14:15:47Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,22 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 65,
+  "count": 66,
   "events": [
-    {
-      "id": "vv1AAZk8PGkdPS1F3",
-      "name": "Pitbull - I'm Back with special guest Lil Jon",
-      "url": "https://www.ticketmaster.com/pitbull-im-back-with-special-guest-noblesville-indiana-09-19-2026/event/05006425E5CCA212",
-      "dateLocal": "2026-09-20T00:00:00Z",
-      "dateDisplay": "2026-09-19 20:00:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "pitbull-im-back-with-special-guest-lil-jon-ruoff-music-center-2026-09-19-dPS1F3",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv17fZ_6GkS6miMJ",
       "name": "$uicideboy$ Present Grey Day Tour 2026 W. Destroy Lonely & More",
@@ -917,6 +903,34 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "sts9-human-dream-tour-old-national-centre-2026-11-18-lxuH8a",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1Fv8vPA8PUZ7u1ke",
+      "name": "Yung Gravy: The Joyrider Tour",
+      "url": "https://www.ticketmaster.com/yung-gravy-the-joyrider-tour-indianapolis-indiana-11-19-2026/event/050065150976C951",
+      "dateLocal": "2026-11-20T01:00:00Z",
+      "dateDisplay": "2026-11-19 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "yung-gravy-the-joyrider-tour-old-national-centre-2026-11-19-Z7u1ke",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_GKtAkWM",
+      "name": "Chat Pile - Who Loves The Sun Tour 2026",
+      "url": "https://www.ticketmaster.com/chat-pile-who-loves-the-sun-indianapolis-indiana-11-20-2026/event/050064C4E9146F77",
+      "dateLocal": "2026-11-21T00:30:00Z",
+      "dateDisplay": "2026-11-20 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "chat-pile-who-loves-the-sun-tour-2026-old-national-centre-2026-11-20-KtAkWM",
       "source": "ticketmaster"
     }
   ]
