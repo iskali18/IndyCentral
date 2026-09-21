@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T14:15:47Z",
+  "generatedAt": "2026-09-21T16:29:11Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,50 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 66,
+  "count": 64,
   "events": [
-    {
-      "id": "vv17fZ_6GkS6miMJ",
-      "name": "$uicideboy$ Present Grey Day Tour 2026 W. Destroy Lonely & More",
-      "url": "https://www.ticketmaster.com/uicideboy-present-grey-day-tour-2026-noblesville-indiana-09-20-2026/event/0500647CC7BACDE6",
-      "dateLocal": "2026-09-20T22:30:00Z",
-      "dateDisplay": "2026-09-20 18:30:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "uicideboy-present-grey-day-tour-2026-w-destroy-lonely-more-ruoff-music-center-2026-09-20-S6miMJ",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZk3bGkdOb1Kd",
-      "name": "Logic & G-Eazy: The Endless Summer Tour Part II",
-      "url": "https://www.ticketmaster.com/logic-geazy-the-endless-summer-tour-indianapolis-indiana-09-20-2026/event/05006498E060A4C3",
-      "dateLocal": "2026-09-20T23:00:00Z",
-      "dateDisplay": "2026-09-20 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "logic-g-eazy-the-endless-summer-tour-part-ii-everwise-amphitheater-at-white-river-state-pa-dOb1Kd",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_GTvKDFH",
-      "name": "Dokken & Lita Ford",
-      "url": "https://www.ticketmaster.com/dokken-lita-ford-indianapolis-indiana-09-20-2026/event/050064CFC14FB23C",
-      "dateLocal": "2026-09-20T23:00:00Z",
-      "dateDisplay": "2026-09-20 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "dokken-lita-ford-old-national-centre-2026-09-20-TvKDFH",
-      "source": "ticketmaster"
-    },
     {
       "id": "vvG1fZ_u5i_qL8",
       "name": "Erykah Badu",
@@ -931,6 +889,20 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "chat-pile-who-loves-the-sun-tour-2026-old-national-centre-2026-11-20-KtAkWM",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_uMm3c2e",
+      "name": "RAY VOLPE - VOLPETRON ETERNAL TOUR",
+      "url": "https://www.ticketmaster.com/ray-volpe-volpetron-eternal-tour-indianapolis-indiana-11-20-2026/event/050064DDEE4AD3C2",
+      "dateLocal": "2026-11-21T02:00:00Z",
+      "dateDisplay": "2026-11-20 21:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "ray-volpe-volpetron-eternal-tour-old-national-centre-2026-11-20-Mm3c2e",
       "source": "ticketmaster"
     }
   ]
