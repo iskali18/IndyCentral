@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T16:29:11Z",
+  "generatedAt": "2026-09-22T14:59:50Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,7 +7,7 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 64,
+  "count": 65,
   "events": [
     {
       "id": "vvG1fZ_u5i_qL8",
@@ -903,6 +903,20 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "ray-volpe-volpetron-eternal-tour-old-national-centre-2026-11-20-Mm3c2e",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vvG1fZ_5lbulYo",
+      "name": "Dweezil Zappa DZ20: Like Father, Like Son",
+      "url": "https://www.ticketmaster.com/dweezil-zappa-dz20-like-father-like-indianapolis-indiana-11-21-2026/event/050064BAD836BC11",
+      "dateLocal": "2026-11-22T01:00:00Z",
+      "dateDisplay": "2026-11-21 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "dweezil-zappa-dz20-like-father-like-son-old-national-centre-2026-11-21-lbulYo",
       "source": "ticketmaster"
     }
   ]
