@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T14:59:50Z",
+  "generatedAt": "2026-09-24T15:11:56Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -9,48 +9,6 @@
   },
   "count": 65,
   "events": [
-    {
-      "id": "vvG1fZ_u5i_qL8",
-      "name": "Erykah Badu",
-      "url": "https://www.ticketmaster.com/erykah-badu-indianapolis-indiana-09-22-2026/event/050064D2EC65D7D0",
-      "dateLocal": "2026-09-23T00:00:00Z",
-      "dateDisplay": "2026-09-22 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Everwise Amphitheater at White River State Park",
-      "venueUrl": "https://www.ticketmaster.com/everwise-amphitheater-at-white-river-state-tickets-indianapolis/venue/41695",
-      "venueId": "KovZpZAEAAJA",
-      "slug": "erykah-badu-everwise-amphitheater-at-white-river-state-park-2026-09-22-5i_qL8",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv17fZ_kGkRPLX3O",
-      "name": "93.9X Presents: The Pretty Reckless - Dear God Tour",
-      "url": "https://www.ticketmaster.com/939x-presents-the-pretty-reckless-dear-indianapolis-indiana-09-22-2026/event/0500646BE57FE4A0",
-      "dateLocal": "2026-09-23T00:00:00Z",
-      "dateDisplay": "2026-09-22 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "939x-presents-the-pretty-reckless-dear-god-tour-old-national-centre-2026-09-22-RPLX3O",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_Chbiw97",
-      "name": "Highly Suspect & Yelawolf - The War Within Tour",
-      "url": "https://www.ticketmaster.com/highly-suspect-yelawolf-the-war-within-indianapolis-indiana-09-23-2026/event/050064E6D8B325C4",
-      "dateLocal": "2026-09-23T23:00:00Z",
-      "dateDisplay": "2026-09-23 19:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "highly-suspect-yelawolf-the-war-within-tour-old-national-centre-2026-09-23-hbiw97",
-      "source": "ticketmaster"
-    },
     {
       "id": "vv1kfZ_kp3G7XbxT",
       "name": "Gary Allan",
@@ -528,6 +486,20 @@
       "source": "ticketmaster"
     },
     {
+      "id": "vv1AAZkfUGkdfzIfL",
+      "name": "Hunxho's \"2night Only\" Tour",
+      "url": "https://www.ticketmaster.com/hunxhos-2night-only-tour-indianapolis-indiana-11-04-2026/event/05006536D4E2851F",
+      "dateLocal": "2026-11-05T01:00:00Z",
+      "dateDisplay": "2026-11-04 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "hunxhos-2night-only-tour-old-national-centre-2026-11-04-dfzIfL",
+      "source": "ticketmaster"
+    },
+    {
       "id": "vvG1fZ_G9u8KD4",
       "name": "20 Years of Nekrogoblikon with Special Guests Aborted",
       "url": "https://www.ticketmaster.com/20-years-of-nekrogoblikon-with-special-indianapolis-indiana-11-05-2026/event/050064C5CD413ED5",
@@ -651,6 +623,20 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "wtlc-presents-jodeci-35th-anniversary-tour-of-forever-my-lady-old-national-centre-2026-11--rFZPKI",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkfsGkd_IvZu",
+      "name": "Trippie Redd - The Non-disclosure Agreement Tour",
+      "url": "https://www.ticketmaster.com/trippie-redd-the-nondisclosure-agreement-tour-indianapolis-indiana-11-08-2026/event/05006531D9A0100D",
+      "dateLocal": "2026-11-09T01:00:00Z",
+      "dateDisplay": "2026-11-08 20:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "trippie-redd-the-non-disclosure-agreement-tour-old-national-centre-2026-11-08-d_IvZu",
       "source": "ticketmaster"
     },
     {
@@ -917,6 +903,20 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "dweezil-zappa-dz20-like-father-like-son-old-national-centre-2026-11-21-lbulYo",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv17fZ_3Gkl8-XTh",
+      "name": "DJ Meredith Marks - YOU. CAN. DANCE. Tour",
+      "url": "https://www.ticketmaster.com/dj-meredith-marks-you-can-dance-indianapolis-indiana-11-21-2026/event/0500652AD087EFDB",
+      "dateLocal": "2026-11-22T01:30:00Z",
+      "dateDisplay": "2026-11-21 20:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "dj-meredith-marks-you-can-dance-tour-old-national-centre-2026-11-21-l8-XTh",
       "source": "ticketmaster"
     }
   ]
