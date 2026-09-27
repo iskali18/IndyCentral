@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T14:32:32Z",
+  "generatedAt": "2026-09-27T15:10:39Z",
   "market": {
     "label": "Indianapolis, IN metro",
     "lat": 39.7684,
@@ -7,50 +7,8 @@
     "radiusMiles": 35,
     "daysAhead": 180
   },
-  "count": 63,
+  "count": 62,
   "events": [
-    {
-      "id": "vv17fZ_dGkwQ6tPE",
-      "name": "Staind: Break The Cycle 25th Anniversary Tour",
-      "url": "https://www.ticketmaster.com/staind-break-the-cycle-25th-anniversary-noblesville-indiana-09-26-2026/event/0500643C9A1E9967",
-      "dateLocal": "2026-09-26T22:00:00Z",
-      "dateDisplay": "2026-09-26 18:00:00",
-      "city": "Noblesville",
-      "state": "IN",
-      "venueName": "Ruoff Music Center",
-      "venueUrl": "https://www.ticketmaster.com/ruoff-music-center-tickets-noblesville/venue/41099",
-      "venueId": "KovZpvEk7A",
-      "slug": "staind-break-the-cycle-25th-anniversary-tour-ruoff-music-center-2026-09-26-wQ6tPE",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vv1AAZko0GkeMEj_q",
-      "name": "Celtic Thunder: Celebrate Your Favorite Songs",
-      "url": "https://www.ticketmaster.com/celtic-thunder-celebrate-your-favorite-songs-indianapolis-indiana-09-26-2026/event/05006464B79DC65D",
-      "dateLocal": "2026-09-26T23:30:00Z",
-      "dateDisplay": "2026-09-26 19:30:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Old National Centre",
-      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
-      "venueId": "KovZpZAEAkvA",
-      "slug": "celtic-thunder-celebrate-your-favorite-songs-old-national-centre-2026-09-26-eMEj_q",
-      "source": "ticketmaster"
-    },
-    {
-      "id": "vvG1fZ_GpyYR6M",
-      "name": "Cash Money & No Limit Tour",
-      "url": "https://www.ticketmaster.com/cash-money-no-limit-tour-indianapolis-indiana-09-26-2026/event/050064C5B9C2F1F7",
-      "dateLocal": "2026-09-27T00:00:00Z",
-      "dateDisplay": "2026-09-26 20:00:00",
-      "city": "Indianapolis",
-      "state": "IN",
-      "venueName": "Gainbridge Fieldhouse",
-      "venueUrl": "https://www.ticketmaster.com/gainbridge-fieldhouse-tickets-indianapolis/venue/41417",
-      "venueId": "KovZpZA6keIA",
-      "slug": "cash-money-no-limit-tour-gainbridge-fieldhouse-2026-09-26-pyYR6M",
-      "source": "ticketmaster"
-    },
     {
       "id": "vvG1fZ_5l9L5I3",
       "name": "Bryson Tiller Presents: The Neo Trapsoul Tour",
@@ -889,6 +847,34 @@
       "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
       "venueId": "KovZpZAEAkvA",
       "slug": "turnover-down-on-earth-tour-old-national-centre-2026-11-27-8dFPjx",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkC7GkemT1-o",
+      "name": "ALY & AJ - Places to Run Tour 2026",
+      "url": "https://www.ticketmaster.com/aly-aj-places-to-run-tour-indianapolis-indiana-12-01-2026/event/05006384AEFCA851",
+      "dateLocal": "2026-12-02T00:00:00Z",
+      "dateDisplay": "2026-12-01 19:00:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "aly-aj-places-to-run-tour-2026-old-national-centre-2026-12-01-emT1-o",
+      "source": "ticketmaster"
+    },
+    {
+      "id": "vv1AAZkffGkeX0Tqu",
+      "name": "WTTS Rock To Read: Stephen Wilson Jr. - Gary The Torch Tour",
+      "url": "https://www.ticketmaster.com/wtts-rock-to-read-stephen-wilson-indianapolis-indiana-12-03-2026/event/05006514BE93F74D",
+      "dateLocal": "2026-12-04T00:30:00Z",
+      "dateDisplay": "2026-12-03 19:30:00",
+      "city": "Indianapolis",
+      "state": "IN",
+      "venueName": "Old National Centre",
+      "venueUrl": "https://www.ticketmaster.com/old-national-centre-tickets-indianapolis/venue/42026",
+      "venueId": "KovZpZAEAkvA",
+      "slug": "wtts-rock-to-read-stephen-wilson-jr-gary-the-torch-tour-old-national-centre-2026-12-03-eX0Tqu",
       "source": "ticketmaster"
     }
   ]
