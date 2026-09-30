@@ -1,14 +1,35 @@
 ---
+import type { Category } from "../lib/types";
+
 interface Props {
-  categories: string[];
+  categories: Category[];
 }
 const { categories } = Astro.props;
+
+// Each category gets its own subtle, consistent color so badges are
+// distinguishable at a glance without competing with the site's brand
+// navy. Family deliberately reuses the site's own navy as its text
+// color to tie back to the rest of the page.
+const COLORS: Record<Category, { bg: string; text: string }> = {
+  "Concerts & Music": { bg: "#f3ecfa", text: "#6b3fa0" },
+  "Festivals": { bg: "#fdf1e3", text: "#a5610e" },
+  "Arts & Culture": { bg: "#e6f4f3", text: "#0f766e" },
+  "Fall & Halloween": { bg: "#fdecea", text: "#b5451f" },
+  "Holiday": { bg: "#fbe9e7", text: "#b3261e" },
+  "Family": { bg: "#eaf2fb", text: "#1b3b6f" },
+  "Food & Drink": { bg: "#f4efe4", text: "#8a6d3b" },
+};
 ---
 {categories.length > 0 && (
   <ul class="category-chips" role="list">
-    {categories.map((c) => (
-      <li class="category-chip">{c}</li>
-    ))}
+    {categories.map((c) => {
+      const color = COLORS[c];
+      return (
+        <li class="category-chip" style={`background: ${color.bg}; color: ${color.text};`}>
+          {c}
+        </li>
+      );
+    })}
   </ul>
 )}
 
@@ -21,14 +42,12 @@ const { categories } = Astro.props;
   }
 
   .category-chip {
-    font-size: 1rem;
-    font-weight: 600;
+    font-size: 0.75rem;
+    font-weight: 700;
     letter-spacing: 0.02em;
     text-transform: uppercase;
-    color: var(--text-muted);
-    border: 1px solid var(--border-sub);
-    border-radius: 999px;
-    padding: 0.32em 0.85em;
+    border-radius: 4px;
+    padding: 0.2em 0.55em;
     white-space: nowrap;
   }
 </style>

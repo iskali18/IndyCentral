@@ -16,6 +16,7 @@ export const CANONICAL_CATEGORIES = [
   "Fall & Halloween",
   "Holiday",
   "Family",
+  "Food & Drink",
 ] as const;
 
 export type Category = (typeof CANONICAL_CATEGORIES)[number];
@@ -52,47 +53,33 @@ export interface ParsedEntry {
 }
 
 export interface FormattedDate {
-  topLine: string; // weekday or weekday range; "" when not computed (long span / Display Dates)
-  bottomLine: string; // day/date range, or the raw Display Dates string
-  inlineLabel: string; // compact single-line form used for series legs
+  topLine: string; // month abbreviation, all-caps, e.g. "SEP" — "" when Display Dates overrides
+  bottomLine: string; // day / day-range, e.g. "26", "23–NOV 1"
 }
 
-// A single displayable item: either a standalone event or a grouped series.
+// A single displayable event row. Every event uses this exact same shape —
+// a multi-leg series is not a special case: each leg is just its own row,
+// with the series name folded into the metadata line alongside the venue.
 export interface StandaloneItem {
   kind: "standalone";
   id: string;
   title: string;
   description: string;
   location: string;
+  venueParts: { text: string; href?: string; suffix?: string }[]; // one or more venues (multi-venue events join several); suffix is plain text after the name, e.g. ", Fishers"
+  seriesName?: string; // e.g. "Indianapolis Symphony Orchestra Film Series", if this is one leg of a series
   categories: Category[];
   officialUrl?: string;
   timeLabel: string | null;
+  recurrence: string; // e.g. "Wed–Sun", "Sat", "" if not applicable
+  scheduleNote?: string; // e.g. "Special hours Nov. 25 and Dec. 21–24 · Closed Nov. 26"
+  closedDates: string[]; // ISO dates (YYYY-MM-DD) this event does NOT run, within its overall range
   date: FormattedDate;
   sortKey: string; // startISO, used for chronological sort + month grouping
+  endISO: string; // endInclusiveISO, used for date-range filtering
 }
 
-export interface SeriesLeg {
-  id: string;
-  title: string;
-  description: string;
-  location: string;
-  categories: Category[];
-  officialUrl?: string;
-  timeLabel: string | null;
-  date: FormattedDate;
-  sortKey: string;
-}
-
-export interface SeriesGroupItem {
-  kind: "series";
-  seriesName: string; // display capitalization
-  location: string; // taken from the earliest active/upcoming leg
-  legs: SeriesLeg[]; // active/upcoming legs only, chronological
-  categories: Category[]; // union across displayed legs
-  sortKey: string; // next active leg's sortKey
-}
-
-export type DisplayItem = StandaloneItem | SeriesGroupItem;
+export type DisplayItem = StandaloneItem;
 
 export interface MonthGroup {
   label: string; // e.g. "October 2026"

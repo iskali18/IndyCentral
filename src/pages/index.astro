@@ -1,170 +1,207 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
-import StandaloneEventRow from "../components/StandaloneEventRow.astro";
-import SeriesGroupBlock from "../components/SeriesGroupBlock.astro";
-import { getEventsData, homepagePreview } from "../lib/events";
+import EventFilters from "../components/EventFilters.astro";
+import EventList from "../components/EventList.astro";
+import { getEventsData } from "../lib/events";
+import { heroImage } from "../lib/editorialImages";
 
 const data = await getEventsData();
-const preview = data.ok ? homepagePreview(data.flatSorted, 6) : [];
 
 const structuredData = {
   "@context": "https://schema.org",
-  "@type": "WebSite",
-  name: "IndyCentral",
+  "@type": "CollectionPage",
+  name: "Indianapolis Metro Events",
   url: Astro.site?.toString(),
-  description: "Curated events and things to do in Indianapolis and nearby.",
+  description:
+    "Explore festivals, seasonal events, performances and distinctive experiences across Indianapolis and nearby communities.",
+  isPartOf: {
+    "@type": "WebSite",
+    name: "IndyCentral",
+    url: Astro.site?.toString(),
+  },
 };
 ---
 <BaseLayout
-  title="IndyCentral | Indianapolis Events, Festivals & Things to Do"
-  description="Discover curated concerts, festivals, and seasonal events happening in Indianapolis and nearby communities, all in one place."
+  title="Indianapolis Metro Events | Festivals & Seasonal Attractions | IndyCentral"
+  description="Explore festivals, seasonal events, performances and distinctive experiences across Indianapolis and nearby communities."
   structuredData={structuredData}
 >
-  <section class="hero">
+  <div class="page-watermark" aria-hidden="true"></div>
+
+  <section class:list={["events-hero", { "has-photo": !!heroImage }]}>
+    {heroImage && (
+      <>
+        <img
+          class="hero-photo"
+          src={heroImage.src}
+          alt={heroImage.alt}
+          loading="eager"
+          fetchpriority="high"
+          style={`object-position: ${heroImage.position ?? "center"};`}
+        />
+        <div class="hero-tint" aria-hidden="true"></div>
+        {heroImage.caption && <p class="hero-caption">{heroImage.caption}</p>}
+      </>
+    )}
     <div class="container">
-      <p class="eyebrow">Indianapolis Events Guide</p>
-      <h1>IndyCentral — Curated events and things to do in Indianapolis and nearby.</h1>
-      <p class="subhead">
-        From neighborhood festivals to major concerts, we bring together what's actually worth going to.
+      <h1>Indianapolis Metro Events</h1>
+      <p class="intro">
+        IndyCentral features a curated lineup of regional festivals, shows, and community events in
+        the Indianapolis area. Each listing is chosen based on its atmosphere, locale, and community
+        reputation to help you decide where to spend your time.
       </p>
-      <a href="/events/" class="hero-cta">Explore Indianapolis Events →</a>
     </div>
-    <div class="hero-line" aria-hidden="true"></div>
   </section>
 
-  <section class="upcoming">
+  <section class="events-list-section">
     <div class="container">
-      <div class="section-header">
-        <h2>Upcoming Events</h2>
-        <a href="/events/" class="view-all">View All Events →</a>
-      </div>
-
       {!data.ok && (
         <p class="empty">We're having trouble loading events right now. Please check back shortly.</p>
       )}
 
-      {data.ok && preview.length === 0 && (
+      {data.ok && data.flatSorted.length === 0 && (
         <p class="empty">No events are currently listed — check back soon.</p>
       )}
 
-      {data.ok && preview.length > 0 && (
-        <ul class="event-list" role="list">
-          {preview.map((item) =>
-            item.kind === "standalone" ? (
-              <StandaloneEventRow item={item} />
-            ) : (
-              <SeriesGroupBlock item={item} />
-            )
-          )}
-        </ul>
+      {data.ok && data.flatSorted.length > 0 && (
+        <>
+          <EventFilters />
+          <EventList monthGroups={data.monthGroups} />
+        </>
       )}
     </div>
   </section>
 </BaseLayout>
 
 <style>
-  .hero {
-    padding: 5.5rem 0 3.5rem;
-    position: relative;
-    overflow: hidden;
+  .events-hero {
+    padding: 4.5rem 0 2.5rem;
   }
 
-  .eyebrow {
-    font-size: 0.95rem;
-    font-weight: 700;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-    color: var(--brand);
+  .events-hero h1 {
+    font-family: 'DM Serif Display', serif;
+    font-size: clamp(2.4rem, 6vw, 3.6rem);
+    font-weight: 400;
+    letter-spacing: 0.01em;
+    color: var(--text);
+    line-height: 1.05;
     margin-bottom: 1rem;
   }
 
-  .hero h1 {
-    font-family: var(--font-display);
-    font-size: clamp(2.4rem, 5.5vw, 3.6rem);
-    font-weight: 700;
-    line-height: 1.05;
-    letter-spacing: 0.005em;
-    color: var(--text);
-    max-width: 18ch;
-    margin-bottom: 1.25rem;
-  }
-
-  .subhead {
-    font-size: 1.67rem;
+  .intro {
+    font-size: 1.25rem;
     font-weight: 500;
+    line-height: 1.75;
     color: var(--text-dim);
-    max-width: 540px;
-    line-height: 1.7;
-    margin-bottom: 1.8rem;
+    max-width: 62ch;
   }
 
-  .hero-cta {
-    display: inline-block;
-    padding: 0.8em 1.35em;
-    background: transparent;
-    border: 1.5px solid var(--accent);
-    color: var(--accent);
-    font-size: 0.82rem;
-    font-weight: 700;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    border-radius: 999px;
-    transition: background 0.15s ease, color 0.15s ease, transform 0.1s ease;
-  }
-
-  .hero-cta:hover {
-    background: var(--accent);
-    color: #fff;
-    transform: translateY(-1px);
-  }
-
-  .upcoming {
-    padding: 1rem 0 5rem;
-  }
-
-  .section-header {
+  /* With a hero photo, the top of the page becomes a full-width band: the
+     photo fills it, a tint keeps the text readable on any photo, and the
+     heading and intro sit on top in white. */
+  .events-hero.has-photo {
+    position: relative;
+    isolation: isolate;
+    overflow: hidden;
     display: flex;
-    align-items: baseline;
-    justify-content: space-between;
-    gap: 1rem;
-    flex-wrap: wrap;
-    margin-bottom: 1.75rem;
+    align-items: center;
+    min-height: 27rem;
+    padding: 4rem 0;
+    background: var(--brand);
   }
 
-  .section-header h2 {
-    font-family: var(--font-display);
-    font-size: 1.7rem;
-    font-weight: 700;
-    letter-spacing: 0.02em;
-    text-transform: uppercase;
-    color: var(--text);
+  .hero-photo {
+    position: absolute;
+    inset: 0;
+    z-index: -2;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
   }
 
-  .view-all {
-    font-size: 1.05rem;
-    font-weight: 600;
-    color: var(--accent);
-    white-space: nowrap;
-    transition: color 0.15s ease;
+  .hero-tint {
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    background:
+      linear-gradient(90deg, rgba(20, 36, 63, 0.84) 0%, rgba(20, 36, 63, 0) 80%),
+      rgba(88, 114, 131, 0.35);
   }
 
-  .view-all:hover {
-    color: var(--accent-dim);
+  .events-hero.has-photo h1 {
+    color: #fff;
+    text-shadow: 0 2px 18px rgba(0, 0, 0, 0.35);
+  }
+
+  .events-hero.has-photo .intro {
+    color: rgba(255, 255, 255, 0.93);
+    text-shadow: 0 1px 12px rgba(0, 0, 0, 0.4);
+  }
+
+  .hero-caption {
+    position: absolute;
+    right: 1.5rem;
+    bottom: 0.75rem;
+    max-width: 45ch;
+    text-align: right;
+    font-size: 0.8rem;
+    font-style: italic;
+    color: rgba(255, 255, 255, 0.8);
+    text-shadow: 0 1px 6px rgba(0, 0, 0, 0.5);
+  }
+
+  .events-hero.has-photo + .events-list-section {
+    padding-top: 2.5rem;
+  }
+
+  .events-list-section {
+    padding-bottom: 5rem;
+  }
+
+  /* A very faint gray-blue logo in the background, on the right side of
+     the content area. Its right edge lines up with the right end of the
+     divider lines. It is fixed to the window, so it stays still while the
+     events scroll over it, and it is centered top to bottom in the window.
+     The nav bar and hero band are solid and cover it. To make it stronger
+     or fainter, change the opacity; to make it bigger or smaller, change
+     the width. */
+  .page-watermark {
+    position: fixed;
+    top: 50%;
+    right: max(1.5rem, calc((100% - 1080px) / 2 + 1.5rem));
+    width: min(440px, 45%);
+    aspect-ratio: 1350 / 705;
+    /* -50% centers the box. The extra 3.26% accounts for the logo file
+       having more empty space above the letters than below. */
+    transform: translateY(-53.26%);
+    z-index: -1;
+    pointer-events: none;
+    /* The logo is used as a stencil: only its shape shows, filled with
+       the gray-blue below. */
+    background-color: #587283;
+    -webkit-mask: url("/logo.webp") center / 100% 100% no-repeat;
+    mask: url("/logo.webp") center / 100% 100% no-repeat;
+    opacity: 0.07;
+  }
+
+  /* On a phone the text spans the whole width, so the tint is even instead
+     of fading out toward the right. */
+  @media (max-width: 700px) {
+    .events-hero.has-photo {
+      min-height: 22rem;
+      padding: 3rem 0;
+    }
+
+    .hero-tint {
+      background:
+        linear-gradient(rgba(20, 36, 63, 0.68), rgba(20, 36, 63, 0.68)),
+        rgba(88, 114, 131, 0.3);
+    }
   }
 
   .empty {
     color: var(--text-muted);
     font-size: 0.95rem;
     padding: 1.5rem 0;
-  }
-
-  .event-list {
-    list-style: none;
-  }
-
-  @media (max-width: 600px) {
-    .hero {
-      padding: 3.75rem 0 2.5rem;
-    }
   }
 </style>

@@ -1,16 +1,27 @@
-import type {
-  RawCalEvent,
-  Category,
-  DisplayItem,
-  StandaloneItem,
-  SeriesGroupItem,
-  SeriesLeg,
-} from "./types";
+import type { RawCalEvent, Category, DisplayItem, StandaloneItem } from "./types";
 import { CANONICAL_CATEGORIES } from "./types";
-import { computeFormattedDate, formatClockTime, datePartOf, monthGroupLabel } from "./dateFormat";
+import {
+  computeBadgeDate,
+  formatClockTime,
+  datePartOf,
+  monthGroupLabel,
+} from "./dateFormat";
 import { TIME_ZONE } from "./googleCalendar";
 
-const META_KEYS = ["Categories", "Official URL", "Series", "Display Dates", "Display Time", "Venue"] as const;
+import { VENUE_MAP_LINKS } from "./venues";
+
+const META_KEYS = [
+  "Categories",
+  "Official URL",
+  "Series",
+  "Display Dates",
+  "Display Time",
+  "Venue",
+  "Recurrence",
+  "Schedule Note",
+  "_Hidden Closed Dates",
+  "Map URL",
+] as const;
 
 interface RawMeta {
   Categories?: string;
@@ -19,6 +30,10 @@ interface RawMeta {
   "Display Dates"?: string;
   "Display Time"?: string;
   Venue?: string;
+  Recurrence?: string;
+  "Schedule Note"?: string;
+  "_Hidden Closed Dates"?: string;
+  "Map URL"?: string;
 }
 
 function decodeHtmlEntities(s: string): string {
@@ -66,7 +81,9 @@ function parseMetadata(description: string): { meta: RawMeta; cleanedDescription
       cutIndex = i;
       continue;
     }
-    const match = line.match(/^(Categories|Official URL|Series|Display Dates|Display Time|Venue)\s*:\s*(.*)$/i);
+    const match = line.match(
+      /^(Categories|Official URL|Series|Display Dates|Display Time|Venue|Recurrence|Schedule Note|Map URL|_Hidden Closed Dates)\s*:\s*(.*)$/i
+    );
     if (match) {
       const key = META_KEYS.find((k) => k.toLowerCase() === match[1].toLowerCase())!;
       (meta as Record<string, string>)[key] = match[2].trim();
@@ -78,6 +95,43 @@ function parseMetadata(description: string): { meta: RawMeta; cleanedDescription
 
   const cleaned = lines.slice(0, cutIndex).join("\n").trim();
   return { meta, cleanedDescription: cleaned };
+}
+
+// Parses "_Hidden Closed Dates: Nov 26, Dec 25" into ["2026-11-26", "2026-12-25"].
+// Requires a strict "Mon D" or "Mon D, YYYY" format (year inferred from the
+// event's own start year if omitted) — this field drives the date filter
+// directly, so it needs to be reliably machine-readable, unlike the free-text
+// "Schedule Note" field used for display.
+const MONTH_NAMES: Record<string, number> = {
+  jan: 1, feb: 2, mar: 3, apr: 4, may: 5, jun: 6,
+  jul: 7, aug: 8, sep: 9, sept: 9, oct: 10, nov: 11, dec: 12,
+};
+
+function parseClosedDates(raw: string | undefined, eventTitle: string, startISO: string): string[] {
+  if (!raw) return [];
+  const defaultYear = datePartOf(startISO).y;
+  const result: string[] = [];
+
+  for (const part of raw.split(",").map((s) => s.trim()).filter(Boolean)) {
+    const match = part.match(/^([A-Za-z]+)\.?\s+(\d{1,2})(?:,?\s+(\d{4}))?$/);
+    const month = match ? MONTH_NAMES[match[1].toLowerCase()] : undefined;
+    if (!match || !month) {
+      console.warn(
+        [
+          "Invalid IndyCentral _Hidden Closed Dates entry:",
+          `Event: "${eventTitle}"`,
+          `Entry: "${part}"`,
+          'Expected a format like "Nov 26" or "Dec 25, 2026".',
+        ].join("\n")
+      );
+      continue;
+    }
+    const year = match[3] ? Number(match[3]) : defaultYear;
+    const day = Number(match[2]);
+    result.push(`${year}-${String(month).padStart(2, "0")}-${String(day).padStart(2, "0")}`);
+  }
+
+  return result;
 }
 
 function validateCategories(raw: string | undefined, eventTitle: string, startISO: string): Category[] {
@@ -97,13 +151,43 @@ function validateCategories(raw: string | undefined, eventTitle: string, startIS
           `Start: ${startISO.split("T")[0]}`,
           `Category: "${part}"`,
           "Expected one of:",
-          "Concerts & Music, Festivals, Arts & Culture,",
-          "Fall & Halloween, Holiday, Family",
+          CANONICAL_CATEGORIES.join(", "),
         ].join("\n")
       );
     }
   }
   return valid;
+}
+
+const MONTH_WORD_PATTERN = /\b(jan|feb|mar|apr|may|jun|jul|aug|sep|sept|oct|nov|dec)\.?\b/gi;
+
+// A Display Dates override should reduce to nothing but month names, day
+// numbers, and basic punctuation once those are stripped out. Anything left
+// over — a weekday name, "closed", "special hours", etc. — means schedule
+// or exception info got left in a field that's supposed to be dates only.
+function looksLikePureDateRange(s: string): boolean {
+  const stripped = s
+    .replace(MONTH_WORD_PATTERN, "")
+    .replace(/[0-9]/g, "")
+    .replace(/[\s,.;\-\u2013\u2014]/g, "");
+  return stripped.length === 0;
+}
+
+function warnIfDisplayDatesLooksLikeRecurrence(title: string, startISO: string, displayDates: string | undefined) {
+  if (!displayDates || looksLikePureDateRange(displayDates)) return;
+  console.warn(
+    [
+      "Possible IndyCentral Display Dates mistake:",
+      `Event: "${title}"`,
+      `Start: ${startISO.split("T")[0]}`,
+      `Display Dates: "${displayDates}"`,
+      "This has more than just dates in it (a weekday, a closure note,",
+      "special hours, etc).",
+      'Display Dates should be pure dates only (e.g. "Oct. 1\u201325" or',
+      '"Nov. 21\u2013Dec. 24") \u2014 put weekday patterns in "Recurrence:" and',
+      'exceptions/closures in "Schedule Note:" instead.',
+    ].join("\n")
+  );
 }
 
 // ── Resolve start/end from a raw Calendar entry ────────────────────────────
@@ -153,6 +237,7 @@ interface FullEntry {
   title: string;
   description: string;
   location: string;
+  venueParts: { text: string; href?: string; suffix?: string }[];
   categories: Category[];
   officialUrl?: string;
   seriesRaw?: string;
@@ -160,6 +245,9 @@ interface FullEntry {
   seriesDisplay?: string;
   displayDates?: string;
   displayTime?: string;
+  recurrenceOverride?: string;
+  scheduleNote?: string;
+  closedDates: string[];
   isAllDay: boolean;
   startISO: string;
   endInclusiveISO: string;
@@ -171,24 +259,73 @@ export interface PipelineResult {
   flatSorted: DisplayItem[];
 }
 
+// A venue string can be a single venue or several joined with " · " (e.g. a
+// multi-venue festival: "Alamo Drafthouse Cinema · Newfields · ..."). Each
+// individual venue gets its own independent lookup, so a combined string
+// still picks up map links for whichever of its venues are in venues.ts.
+// Pulls the city out of a Google-style Location, e.g.
+// "Nickel Plate District Amphitheater, 6 Municipal Dr, Fishers, IN 46038, USA"
+// -> "Fishers". The city is the piece just before the state ("IN" or
+// "IN 46038"). If there's no state in the Location (a hand-typed "Carter
+// Green, Carmel", say), no city is returned.
+function cityFromLocation(location: string): string | undefined {
+  const parts = location.split(",").map((s) => s.trim()).filter(Boolean);
+  const stateIndex = parts.findIndex((p, i) => i >= 2 && /^[A-Z]{2}(\s+\d{5}(-\d{4})?)?$/.test(p));
+  if (stateIndex === -1) return undefined;
+  const city = parts[stateIndex - 1];
+  if (!city || /^\d/.test(city)) return undefined; // a street address, not a city
+  return city;
+}
+
+function resolveVenueParts(
+  simplifiedVenue: string,
+  mapUrlOverride: string | undefined,
+  city?: string
+): { text: string; href?: string; suffix?: string }[] {
+  const names = simplifiedVenue
+    .split("·")
+    .map((s) => s.trim())
+    .filter(Boolean);
+
+  if (names.length <= 1) {
+    // Add the city after the venue name, unless the name already has it
+    // ("Indianapolis Zoo" stays as is).
+    const showCity = city && !simplifiedVenue.toLowerCase().includes(city.toLowerCase());
+    return [{
+      text: simplifiedVenue,
+      href: VENUE_MAP_LINKS[simplifiedVenue] || mapUrlOverride || undefined,
+      suffix: showCity ? `, ${city}` : undefined,
+    }];
+  }
+  // A per-event "Map URL:" override doesn't make sense across several
+  // different venues at once, so it only applies in the single-venue case.
+  return names.map((name) => ({ text: name, href: VENUE_MAP_LINKS[name] || undefined }));
+}
+
 export function runPipeline(rawEntries: RawCalEvent[]): PipelineResult {
   // ── Parse metadata + validate categories ─────────────────────────────────
   const parsed: FullEntry[] = rawEntries.map((raw) => {
     const { meta, cleanedDescription } = parseMetadata(raw.description || "");
     const dates = resolveDates(raw);
     const categories = validateCategories(meta.Categories, raw.summary || "Untitled event", dates.startISO);
+    warnIfDisplayDatesLooksLikeRecurrence(raw.summary || "Untitled event", dates.startISO, meta["Display Dates"]);
 
     // Google Calendar locations are typically "Venue Name, Street, City, ST
     // ZIP, Country" (from Places autocomplete). Default to just the venue
     // name; a "Venue:" metadata line overrides this for the rare case where
     // that heuristic doesn't produce the right result.
     const simplifiedVenue = meta.Venue || (raw.location || "").split(",")[0].trim();
+    // The city comes from the Location only when there's no "Venue:" line.
+    // A "Venue:" line is shown exactly as typed.
+    const city = meta.Venue ? undefined : cityFromLocation(raw.location || "");
+    const venueParts = resolveVenueParts(simplifiedVenue, meta["Map URL"], city);
 
     return {
       id: raw.id,
       title: raw.summary || "Untitled event",
       description: cleanedDescription,
       location: simplifiedVenue,
+      venueParts,
       categories,
       officialUrl: meta["Official URL"] || undefined,
       seriesRaw: meta.Series || undefined,
@@ -196,6 +333,12 @@ export function runPipeline(rawEntries: RawCalEvent[]): PipelineResult {
       seriesDisplay: undefined,
       displayDates: meta["Display Dates"] || undefined,
       displayTime: meta["Display Time"] || undefined,
+      // Preserve the distinction between "not set" (undefined, so it
+      // auto-computes below) and "set but empty" (an explicit way to
+      // suppress the auto-computed value entirely — see runPipeline).
+      recurrenceOverride: meta.Recurrence,
+      scheduleNote: meta["Schedule Note"] || undefined,
+      closedDates: parseClosedDates(meta["_Hidden Closed Dates"], raw.summary || "Untitled event", dates.startISO),
       ...dates,
     };
   });
@@ -239,68 +382,36 @@ export function runPipeline(rawEntries: RawCalEvent[]): PipelineResult {
   // ── Format dates ───────────────────────────────────────────────────────────
   const withDates = active.map((e) => ({
     ...e,
-    formattedDate: computeFormattedDate(e.startISO, e.endInclusiveISO, e.displayDates),
+    badgeDate: computeBadgeDate(e.startISO, e.endInclusiveISO, e.displayDates),
+    // An explicit empty "Recurrence:" line means "suppress the auto-computed
+    // weekday range" — useful when Display Time already spells out each
+    // day individually and a "Fri–Sun" prefix would just be redundant.
+    recurrence: e.recurrenceOverride || "",
     timeLabel: e.displayTime || (e.isAllDay ? null : formatClockTime(e.startISO)),
   }));
 
-  // ── Group by normalized Series ────────────────────────────────────────────
-  const standalones = withDates.filter((e) => !e.seriesNormalized);
-  const seriesMap = new Map<string, typeof withDates>();
-  for (const e of withDates) {
-    if (!e.seriesNormalized) continue;
-    if (!seriesMap.has(e.seriesNormalized)) seriesMap.set(e.seriesNormalized, []);
-    seriesMap.get(e.seriesNormalized)!.push(e);
-  }
-
-  const displayItems: DisplayItem[] = [];
-
-  for (const e of standalones) {
-    const item: StandaloneItem = {
-      kind: "standalone",
-      id: e.id,
-      title: e.title,
-      description: e.description,
-      location: e.location,
-      categories: e.categories,
-      officialUrl: e.officialUrl,
-      timeLabel: e.timeLabel,
-      date: e.formattedDate,
-      sortKey: e.startISO,
-    };
-    displayItems.push(item);
-  }
-
-  for (const [, legsRaw] of seriesMap) {
-    const legs = [...legsRaw].sort((a, b) => (a.startISO < b.startISO ? -1 : a.startISO > b.startISO ? 1 : 0));
-    const seriesLegs: SeriesLeg[] = legs.map((leg) => ({
-      id: leg.id,
-      title: leg.title,
-      description: leg.description,
-      location: leg.location,
-      categories: leg.categories,
-      officialUrl: leg.officialUrl,
-      timeLabel: leg.timeLabel,
-      date: leg.formattedDate,
-      sortKey: leg.startISO,
-    }));
-
-    const categoryUnion: Category[] = [];
-    for (const leg of seriesLegs) {
-      for (const c of leg.categories) {
-        if (!categoryUnion.includes(c)) categoryUnion.push(c);
-      }
-    }
-
-    const group: SeriesGroupItem = {
-      kind: "series",
-      seriesName: legs[0].seriesDisplay!,
-      location: seriesLegs[0].location,
-      legs: seriesLegs,
-      categories: categoryUnion,
-      sortKey: seriesLegs[0].sortKey,
-    };
-    displayItems.push(group);
-  }
+  // ── Build display items ───────────────────────────────────────────────────
+  // Every entry becomes the exact same row shape — a multi-leg series isn't
+  // a special case, it's just several rows that happen to share a series
+  // name, which gets folded into the metadata line alongside the venue.
+  const displayItems: DisplayItem[] = withDates.map((e) => ({
+    kind: "standalone",
+    id: e.id,
+    title: e.title,
+    description: e.description,
+    location: e.location,
+    venueParts: e.venueParts,
+    seriesName: e.seriesDisplay,
+    categories: e.categories,
+    officialUrl: e.officialUrl,
+    timeLabel: e.timeLabel,
+    recurrence: e.recurrence,
+    scheduleNote: e.scheduleNote,
+    closedDates: e.closedDates,
+    date: e.badgeDate,
+    sortKey: e.startISO,
+    endISO: e.endInclusiveISO,
+  }));
 
   // ── Sort everything chronologically ───────────────────────────────────────
   displayItems.sort((a, b) => (a.sortKey < b.sortKey ? -1 : a.sortKey > b.sortKey ? 1 : 0));

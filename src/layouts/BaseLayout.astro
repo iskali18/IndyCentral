@@ -14,13 +14,14 @@ const year = new Date().getFullYear();
 <html lang="en">
 <head>
   <meta charset="utf-8" />
+  <link rel="icon" type="image/png" href="/favicon.png" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{title}</title>
   <meta name="description" content={description} />
   <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-1KPW1930R4"></script>
-  <script>
+  <script is:inline>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
@@ -29,7 +30,7 @@ const year = new Date().getFullYear();
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,400&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,400&family=DM+Serif+Display&display=swap" rel="stylesheet" />
 
   {structuredData && (
     <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
@@ -38,10 +39,9 @@ const year = new Date().getFullYear();
 <body>
   <header class="site-header">
     <div class="container">
-      <a href="/" class="site-logo">IndyCentral</a>
-      <nav class="site-nav" aria-label="Primary">
-        <a href="/events/">Events</a>
-      </nav>
+      <a href="/" class="site-logo">
+        <img src="/logo.webp" alt="IndyCentral" width="84" height="44" />
+      </a>
     </div>
   </header>
 

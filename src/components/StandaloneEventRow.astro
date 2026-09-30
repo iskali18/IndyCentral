@@ -7,22 +7,57 @@ interface Props {
   item: StandaloneItem;
 }
 const { item } = Astro.props;
-const metaParts = [item.date.topLine, item.location, item.timeLabel].filter(Boolean) as string[];
+// Venue/recurrence/time share one line. Series name gets its own line below
+// — it's often a long proper noun, and cramming it in alongside everything
+// else means it's fighting other text for room no matter where the line
+// happens to wrap.
+const metaParts = [
+  ...item.venueParts,
+  { text: item.recurrence },
+  { text: item.timeLabel },
+].filter((p): p is { text: string; href?: string; suffix?: string } => Boolean(p.text));
 ---
-<li class="event-row" data-categories={item.categories.join("|")}>
-  <DateBlock bottomLine={item.date.bottomLine} />
+<li
+  class="event-row"
+  data-categories={item.categories.join("|")}
+  data-start={item.sortKey.split("T")[0]}
+  data-end={item.endISO.split("T")[0]}
+  data-closed={item.closedDates.join(",")}
+>
+  <DateBlock topLine={item.date.topLine} bottomLine={item.date.bottomLine} />
   <div class="event-body">
     <h3 class="event-title">{item.title}</h3>
-    {metaParts.length > 0 && <p class="event-meta">{metaParts.join(" · ")}</p>}
+    {metaParts.length > 0 && (
+      <p class="event-meta">
+        {metaParts.map((part, i) => (
+          <>
+            {i > 0 && " · "}
+            {part.href ? (
+              <a class="venue-link" href={part.href} target="_blank" rel="noopener noreferrer">{part.text}</a>
+            ) : (
+              part.text
+            )}{part.suffix}
+          </>
+        ))}
+      </p>
+    )}
+    {item.seriesName && (
+      <p class="event-series-name">
+        <span class="series-badge">Series</span> {item.seriesName}
+      </p>
+    )}
+    {item.scheduleNote && (
+      <p class="event-schedule-note">
+        <span class="notice-badge">Notice</span> {item.scheduleNote}
+      </p>
+    )}
+    <CategoryChips categories={item.categories} />
     {item.description && <p class="event-desc">{item.description}</p>}
-    <div class="event-footer">
-      <CategoryChips categories={item.categories} />
-      {item.officialUrl && (
-        <a class="event-cta" href={item.officialUrl} target="_blank" rel="noopener noreferrer">
-          Official event site →
-        </a>
-      )}
-    </div>
+    {item.officialUrl && (
+      <a class="event-cta" href={item.officialUrl} target="_blank" rel="noopener noreferrer">
+        Official event site →
+      </a>
+    )}
   </div>
 </li>
 
@@ -31,7 +66,7 @@ const metaParts = [item.date.topLine, item.location, item.timeLabel].filter(Bool
     display: grid;
     grid-template-columns: 100px 1fr;
     gap: 1.25rem;
-    padding: 1.5rem 0;
+    padding: 1.75rem 0;
     border-bottom: 1px solid var(--border-sub);
     align-items: start;
   }
@@ -42,52 +77,104 @@ const metaParts = [item.date.topLine, item.location, item.timeLabel].filter(Bool
 
   .event-body {
     min-width: 0;
+    max-width: 700px;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.5rem;
   }
 
   .event-title {
     font-family: var(--font-display);
-    font-size: 1.85rem;
+    font-size: 2rem;
     font-weight: 700;
     letter-spacing: 0.01em;
     color: var(--text);
     line-height: 1.15;
-    margin-bottom: 0.4rem;
   }
 
   .event-meta {
-    font-size: 1.125rem;
+    font-size: 1.25rem;
     font-weight: 500;
     color: var(--text-dim);
-    margin-bottom: 0.6rem;
+  }
+
+  .venue-link {
+    color: var(--accent);
+    text-decoration: none;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 2px;
+    transition: color 0.15s ease;
+  }
+
+  .venue-link:hover {
+    text-decoration: underline;
+    color: var(--accent-dim);
+  }
+
+  .event-series-name {
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: var(--text-dim);
+    margin-top: -0.25rem;
+  }
+
+  .series-badge {
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #b8860b;
+    border: 1px solid #b8860b;
+    border-radius: 4px;
+    padding: 0.15em 0.5em;
+    margin-right: 0.35em;
+  }
+
+  .event-schedule-note {
+    font-size: 1.25rem;
+    font-weight: 500;
+    color: var(--text-muted);
+    margin-top: -0.25rem;
+  }
+
+  .notice-badge {
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #0047ab;
+    border: 1px solid #0047ab;
+    border-radius: 4px;
+    padding: 0.15em 0.5em;
+    margin-right: 0.35em;
   }
 
   .event-desc {
-    font-size: 1.67rem;
+    font-size: 1.05rem;
     font-weight: 500;
-    line-height: 1.65;
+    line-height: 1.5;
     color: var(--text-dim);
-    max-width: 62ch;
-    margin-bottom: 1rem;
     white-space: pre-line;
-  }
-
-  .event-footer {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: space-between;
-    gap: 0.75rem 1.5rem;
+    margin-top: 0.15rem;
   }
 
   .event-cta {
     font-size: 1.05rem;
     font-weight: 600;
     color: var(--accent);
+    text-decoration: none;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 2px;
     white-space: nowrap;
+    margin-top: 0.15rem;
     transition: color 0.15s ease;
   }
 
   .event-cta:hover {
+    text-decoration: underline;
     color: var(--accent-dim);
   }
 
@@ -95,15 +182,11 @@ const metaParts = [item.date.topLine, item.location, item.timeLabel].filter(Bool
     .event-row {
       grid-template-columns: 64px 1fr;
       gap: 0.85rem;
-      padding: 1.15rem 0;
+      padding: 1.4rem 0;
     }
 
     .event-title {
-      font-size: 1.7rem;
-    }
-
-    .event-meta {
-      white-space: normal;
+      font-size: 1.5rem;
     }
   }
 </style>
