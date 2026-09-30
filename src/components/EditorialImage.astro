@@ -1,0 +1,59 @@
+---
+interface Props {
+  src: string;
+  alt: string;
+  caption?: string;
+  position?: string;
+  hero?: boolean;
+}
+const { src, alt, caption, position = "center", hero = false } = Astro.props;
+---
+<figure class:list={["editorial-image", { "is-hero": hero }]}>
+  <img
+    src={src}
+    alt={alt}
+    loading={hero ? "eager" : "lazy"}
+    fetchpriority={hero ? "high" : undefined}
+    style={`object-position: ${position};`}
+  />
+  {caption && <figcaption>{caption}</figcaption>}
+</figure>
+
+<style>
+  .editorial-image {
+    margin: 2.5rem 0 0.5rem;
+  }
+
+  /* The hero sits at the top of the page, above the fold: no extra space
+     below it (the section around it already provides that). */
+  .editorial-image.is-hero {
+    margin: 2rem 0 0;
+  }
+
+  .editorial-image img {
+    width: 100%;
+    aspect-ratio: 2.4 / 1;
+    object-fit: cover;
+    border-radius: var(--radius-lg);
+    display: block;
+  }
+
+  .editorial-image figcaption {
+    margin-top: 0.6rem;
+    font-size: 0.9rem;
+    font-style: italic;
+    color: var(--text-muted);
+  }
+
+  @media (max-width: 600px) {
+    .editorial-image {
+      margin: 1.75rem 0 0.5rem;
+    }
+    .editorial-image.is-hero {
+      margin: 1.5rem 0 0;
+    }
+    .editorial-image img {
+      aspect-ratio: 4 / 3;
+    }
+  }
+</style>

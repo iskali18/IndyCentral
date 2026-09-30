@@ -1,0 +1,45 @@
+---
+import StandaloneEventRow from "./StandaloneEventRow.astro";
+import EditorialImage from "./EditorialImage.astro";
+import { editorialImages } from "../lib/editorialImages";
+import type { MonthGroup } from "../lib/types";
+
+interface Props {
+  monthGroups: MonthGroup[];
+}
+const { monthGroups } = Astro.props;
+
+// Month headings were removed — each date already shows its own month, so
+// a separate heading was redundant. Flatten the month groups (still used
+// upstream for sorting) into one continuous list here.
+const items = monthGroups.flatMap((group) => group.items);
+
+function imagesBefore(title: string) {
+  return editorialImages.filter((img) => img.beforeEventTitle === title);
+}
+---
+<ul class="event-list" role="list">
+  {items.map((item) => {
+    const images = imagesBefore(item.title);
+    return (
+      <>
+        {images.map((img) => (
+          <li class="editorial-slot">
+            <EditorialImage src={img.src} alt={img.alt} caption={img.caption} position={img.position} />
+          </li>
+        ))}
+        <StandaloneEventRow item={item} />
+      </>
+    );
+  })}
+</ul>
+
+<style>
+  .event-list {
+    list-style: none;
+  }
+
+  .editorial-slot {
+    list-style: none;
+  }
+</style>

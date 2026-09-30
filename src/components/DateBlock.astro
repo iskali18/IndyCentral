@@ -1,0 +1,41 @@
+---
+interface Props {
+  topLine: string;
+  bottomLine: string;
+}
+const { topLine, bottomLine } = Astro.props;
+
+// Join into one string, and keep the very last two words glued together
+// with a non-breaking space so a lone trailing day number never wraps
+// onto its own line by itself.
+function glueLastWord(s: string): string {
+  const lastSpace = s.lastIndexOf(" ");
+  if (lastSpace === -1) return s;
+  return s.slice(0, lastSpace) + "\u00A0" + s.slice(lastSpace + 1);
+}
+
+const combined = glueLastWord(topLine ? `${topLine} ${bottomLine}` : bottomLine);
+---
+<div class="date-block">
+  <span class="date-text">{combined}</span>
+</div>
+
+<style>
+  .date-block {
+    flex-shrink: 0;
+  }
+
+  .date-text {
+    font-family: var(--font-display);
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--text);
+    line-height: 1.2;
+  }
+
+  @media (max-width: 600px) {
+    .date-text {
+      font-size: 1.2rem;
+    }
+  }
+</style>

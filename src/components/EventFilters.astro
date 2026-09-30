@@ -1,0 +1,149 @@
+---
+import { CANONICAL_CATEGORIES } from "../lib/types";
+---
+<p class="filters-lead">
+  Browse the calendar below, or use the filters to search by event category or a specific date.
+</p>
+<div class="event-filters">
+  <div class="filter-group">
+    <label for="category-select" class="sr-only">Filter events by category</label>
+    <select id="category-select" class="filter-control">
+      <option value="All">All categories</option>
+      {CANONICAL_CATEGORIES.map((c) => (
+        <option value={c}>{c}</option>
+      ))}
+    </select>
+  </div>
+
+  <div class="filter-group">
+    <label for="date-select" class="sr-only">Filter events by date</label>
+    <input type="date" id="date-select" class="filter-control" />
+    <button type="button" id="clear-date" class="clear-date-btn" hidden>
+      Clear date
+    </button>
+  </div>
+</div>
+
+<style>
+  .filters-lead {
+    font-size: 1.05rem;
+    font-weight: 500;
+    line-height: 1.5;
+    color: var(--text-muted);
+    margin-bottom: 0.9rem;
+  }
+
+  .event-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    align-items: center;
+    margin-bottom: 2rem;
+  }
+
+  .filter-group {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .filter-control {
+    font-family: var(--font-body);
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--text);
+    background: var(--bg);
+    border: 1.5px solid var(--border-sub);
+    border-radius: 8px;
+    padding: 0.6em 1em;
+    cursor: pointer;
+    transition: border-color 0.15s ease;
+  }
+
+  select.filter-control {
+    padding-right: 2.2em;
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath fill='%233a3a3a' d='M1 1l5 5 5-5'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 0.9em center;
+  }
+
+  .filter-control:hover,
+  .filter-control:focus {
+    border-color: var(--accent);
+    outline: none;
+  }
+
+  .clear-date-btn {
+    font-family: var(--font-body);
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--accent);
+    text-decoration: none;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 2px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0.4em 0.2em;
+  }
+
+  .clear-date-btn:hover {
+    text-decoration: underline;
+    color: var(--accent-dim);
+  }
+</style>
+
+<script>
+  const categorySelect = document.getElementById("category-select") as HTMLSelectElement | null;
+  const dateInput = document.getElementById("date-select") as HTMLInputElement | null;
+  const clearDateBtn = document.getElementById("clear-date") as HTMLButtonElement | null;
+
+  // Both filters apply together (AND) — a picked date AND a picked
+  // category must both match for a row to stay visible.
+  function applyFilters() {
+    const selectedCategory = categorySelect?.value || "All";
+    const selectedDate = dateInput?.value || ""; // "" = no date filter active
+
+    document.querySelectorAll<HTMLElement>(".event-row").forEach((row) => {
+      const cats = (row.dataset.categories || "").split("|").filter(Boolean);
+      const matchesCategory = selectedCategory === "All" || cats.includes(selectedCategory);
+
+      let matchesDate = true;
+      if (selectedDate) {
+        const start = row.dataset.start || "";
+        const end = row.dataset.end || "";
+        const closed = (row.dataset.closed || "").split(",").filter(Boolean);
+        // Plain "YYYY-MM-DD" strings compare correctly with <= / >=.
+        matchesDate = start <= selectedDate && selectedDate <= end && !closed.includes(selectedDate);
+      }
+
+      row.hidden = !(matchesCategory && matchesDate);
+    });
+
+    // Editorial images sit directly above the event they introduce, so
+    // each one follows that event: if the event is filtered out, its
+    // image goes with it (otherwise images pile up with nothing between).
+    document.querySelectorAll<HTMLElement>(".editorial-slot").forEach((slot) => {
+      let next = slot.nextElementSibling as HTMLElement | null;
+      // Skip past any other images stacked before the same event.
+      while (next && !next.classList.contains("event-row")) {
+        next = next.nextElementSibling as HTMLElement | null;
+      }
+      slot.hidden = next ? next.hidden : false;
+    });
+  }
+
+  categorySelect?.addEventListener("change", applyFilters);
+
+  dateInput?.addEventListener("change", () => {
+    if (clearDateBtn) clearDateBtn.hidden = !dateInput.value;
+    applyFilters();
+  });
+
+  clearDateBtn?.addEventListener("click", () => {
+    if (dateInput) dateInput.value = "";
+    clearDateBtn.hidden = true;
+    applyFilters();
+  });
+</script>
