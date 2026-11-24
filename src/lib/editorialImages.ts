@@ -46,9 +46,9 @@ export interface EditorialImage {
 export type HeroImage = Omit<EditorialImage, "beforeEventTitle">;
 
 export const heroImage: HeroImage | undefined = {
-  src: "/images/editorial/halloween-ghosts-lights.webp",
-  alt: "Small, friendly glowing ghost figures light up a dark background decorated with warm orange and red bokeh lights.",
-  position: "center 40%",
+  src: "/images/editorial/winter-snow-lights.webp",
+  alt: "Falling snow and soft golden lights over a snowy ledge against a blurred blue winter background.",
+  position: "center 60%",
 };
 
 export const editorialImages: EditorialImage[] = [
