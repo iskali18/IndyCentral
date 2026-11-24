@@ -45,6 +45,7 @@ const structuredData = {
     )}
     <div class="container">
       <h1>Indianapolis Metro Events</h1>
+      <p class="subtitle">Events with atmosphere.</p>
       <p class="intro">
         IndyCentral features a curated lineup of regional festivals, shows, and community events in
         the Indianapolis area. Each listing is chosen based on its atmosphere, locale, and community
@@ -65,7 +66,7 @@ const structuredData = {
 
       {data.ok && data.flatSorted.length > 0 && (
         <>
-          <EventFilters />
+          <EventFilters hasFree={data.flatSorted.some((item) => item.isFree)} />
           <EventList monthGroups={data.monthGroups} />
         </>
       )}
@@ -86,6 +87,20 @@ const structuredData = {
     color: var(--text);
     line-height: 1.05;
     margin-bottom: 1rem;
+  }
+
+  /* The tagline under the heading: small spaced capitals in the body font,
+     so it reads as a quiet label rather than competing with the serif
+     heading. The text itself stays in normal case in the markup. */
+  .subtitle {
+    font-family: var(--font-body);
+    font-size: clamp(0.85rem, 1.6vw, 1rem);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    line-height: 1.4;
+    color: var(--text-dim);
+    margin: -0.25rem 0 1.25rem;
   }
 
   .intro {
@@ -131,6 +146,11 @@ const structuredData = {
   .events-hero.has-photo h1 {
     color: #fff;
     text-shadow: 0 2px 18px rgba(0, 0, 0, 0.35);
+  }
+
+  .events-hero.has-photo .subtitle {
+    color: rgba(255, 255, 255, 0.93);
+    text-shadow: 0 1px 12px rgba(0, 0, 0, 0.4);
   }
 
   .events-hero.has-photo .intro {

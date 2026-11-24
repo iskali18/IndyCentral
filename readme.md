@@ -29,6 +29,7 @@ Recurrence: Wed–Sun
 Display Time: 2 PM–close
 Schedule Note: Special hours Nov. 25 and Dec. 21–24 · Closed Nov. 26
 _Hidden Closed Dates: Nov 26
+Free: Yes
 ```
 
 **The standard set for a normal event is just: description text, `Categories`,
@@ -45,6 +46,11 @@ already covers, not a dedicated field.
   Fall & Halloween, Holiday, Family, Food & Drink (separated by `|`).
   Rendered as colored badges.
 - `Official URL` — the event's CTA link. If omitted, no CTA is shown.
+- `Free` — `Free: Yes` marks an event as free to attend and shows a green
+  FREE badge first in the badge row. Leave the line out (or write
+  `Free: No`) for paid events. Any other value is ignored with a console
+  warning. Each event row also carries `data-free="yes"` or `"no"` for a
+  future "Free only" filter.
 - `Venue` — overrides the venue name shown on the site. By default, the
   site uses everything before the first comma in the Calendar event's
   Location field, plus the city from the address. For example,

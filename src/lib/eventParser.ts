@@ -21,6 +21,7 @@ const META_KEYS = [
   "Schedule Note",
   "_Hidden Closed Dates",
   "Map URL",
+  "Free",
 ] as const;
 
 interface RawMeta {
@@ -34,6 +35,7 @@ interface RawMeta {
   "Schedule Note"?: string;
   "_Hidden Closed Dates"?: string;
   "Map URL"?: string;
+  Free?: string;
 }
 
 function decodeHtmlEntities(s: string): string {
@@ -82,7 +84,7 @@ function parseMetadata(description: string): { meta: RawMeta; cleanedDescription
       continue;
     }
     const match = line.match(
-      /^(Categories|Official URL|Series|Display Dates|Display Time|Venue|Recurrence|Schedule Note|Map URL|_Hidden Closed Dates)\s*:\s*(.*)$/i
+      /^(Categories|Official URL|Series|Display Dates|Display Time|Venue|Recurrence|Schedule Note|Map URL|_Hidden Closed Dates|Free)\s*:\s*(.*)$/i
     );
     if (match) {
       const key = META_KEYS.find((k) => k.toLowerCase() === match[1].toLowerCase())!;
@@ -132,6 +134,25 @@ function parseClosedDates(raw: string | undefined, eventTitle: string, startISO:
   }
 
   return result;
+}
+
+// "Free: Yes" marks an event as free to attend, which shows a FREE badge.
+// Yes/No (any capitalization) are accepted; anything else is ignored with
+// a console warning, the same way other bad values are handled.
+function parseFree(raw: string | undefined, eventTitle: string): boolean {
+  if (raw === undefined || raw.trim() === "") return false;
+  const v = raw.trim().toLowerCase();
+  if (v === "yes") return true;
+  if (v === "no") return false;
+  console.warn(
+    [
+      "Invalid IndyCentral Free value:",
+      `Event: "${eventTitle}"`,
+      `Value: "${raw}"`,
+      'Expected "Yes" or "No".',
+    ].join("\n")
+  );
+  return false;
 }
 
 function validateCategories(raw: string | undefined, eventTitle: string, startISO: string): Category[] {
@@ -248,6 +269,7 @@ interface FullEntry {
   recurrenceOverride?: string;
   scheduleNote?: string;
   closedDates: string[];
+  isFree: boolean;
   isAllDay: boolean;
   startISO: string;
   endInclusiveISO: string;
@@ -339,6 +361,7 @@ export function runPipeline(rawEntries: RawCalEvent[]): PipelineResult {
       recurrenceOverride: meta.Recurrence,
       scheduleNote: meta["Schedule Note"] || undefined,
       closedDates: parseClosedDates(meta["_Hidden Closed Dates"], raw.summary || "Untitled event", dates.startISO),
+      isFree: parseFree(meta.Free, raw.summary || "Untitled event"),
       ...dates,
     };
   });
@@ -408,6 +431,7 @@ export function runPipeline(rawEntries: RawCalEvent[]): PipelineResult {
     recurrence: e.recurrence,
     scheduleNote: e.scheduleNote,
     closedDates: e.closedDates,
+    isFree: e.isFree,
     date: e.badgeDate,
     sortKey: e.startISO,
     endISO: e.endInclusiveISO,

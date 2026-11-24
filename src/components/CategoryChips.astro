@@ -3,8 +3,9 @@ import type { Category } from "../lib/types";
 
 interface Props {
   categories: Category[];
+  free?: boolean;
 }
-const { categories } = Astro.props;
+const { categories, free = false } = Astro.props;
 
 // Each category gets its own subtle, consistent color so badges are
 // distinguishable at a glance without competing with the site's brand
@@ -20,8 +21,9 @@ const COLORS: Record<Category, { bg: string; text: string }> = {
   "Food & Drink": { bg: "#f4efe4", text: "#8a6d3b" },
 };
 ---
-{categories.length > 0 && (
+{(categories.length > 0 || free) && (
   <ul class="category-chips" role="list">
+    {free && <li class="category-chip free-chip">Free</li>}
     {categories.map((c) => {
       const color = COLORS[c];
       return (
@@ -34,6 +36,13 @@ const COLORS: Record<Category, { bg: string; text: string }> = {
 )}
 
 <style>
+  /* FREE is a solid badge, not a tinted one like the categories, so it
+     stands out in the row. */
+  .free-chip {
+    background: #15803d;
+    color: #ffffff;
+  }
+
   .category-chips {
     display: flex;
     flex-wrap: wrap;

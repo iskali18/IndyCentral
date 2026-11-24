@@ -74,6 +74,7 @@ export interface StandaloneItem {
   recurrence: string; // e.g. "Wed–Sun", "Sat", "" if not applicable
   scheduleNote?: string; // e.g. "Special hours Nov. 25 and Dec. 21–24 · Closed Nov. 26"
   closedDates: string[]; // ISO dates (YYYY-MM-DD) this event does NOT run, within its overall range
+  isFree: boolean; // set by "Free: Yes" in the Calendar description; shows a FREE badge
   date: FormattedDate;
   sortKey: string; // startISO, used for chronological sort + month grouping
   endISO: string; // endInclusiveISO, used for date-range filtering

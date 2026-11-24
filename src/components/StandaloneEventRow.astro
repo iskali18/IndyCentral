@@ -23,6 +23,7 @@ const metaParts = [
   data-start={item.sortKey.split("T")[0]}
   data-end={item.endISO.split("T")[0]}
   data-closed={item.closedDates.join(",")}
+  data-free={item.isFree ? "yes" : "no"}
 >
   <DateBlock topLine={item.date.topLine} bottomLine={item.date.bottomLine} />
   <div class="event-body">
@@ -51,7 +52,7 @@ const metaParts = [
         <span class="notice-badge">Notice</span> {item.scheduleNote}
       </p>
     )}
-    <CategoryChips categories={item.categories} />
+    <CategoryChips categories={item.categories} free={item.isFree} />
     {item.description && <p class="event-desc">{item.description}</p>}
     {item.officialUrl && (
       <a class="event-cta" href={item.officialUrl} target="_blank" rel="noopener noreferrer">
